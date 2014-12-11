@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<title>Cyber Choices</title>
+
+		
+		<!-- Just for debugging purposes. Don't actually copy this line! -->
+		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<!--[if !IE]><!--><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script><!--<![endif]-->
+		<!--[if IE]><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><![endif]-->
+
+		<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/jquery.balloon.js"></script>
+                <!-- <script type="text/javascript" src="js/jquery.imgpreloader.js"></script> -->
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+		<!-- <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" /> -->
+
+		<link rel="stylesheet" href="css/design.css">
+		<link rel="stylesheet" type="text/css" href="css/sortingPage.css">
+		<link rel="stylesheet" type="text/css" href="css/feedback.css">
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="js/htmlFactory.js"></script>
+		<script type="text/javascript" src="js/uiHover.js"></script>
+		<script type="text/javascript" src="js/keyboard.js"></script>
+		<script type="text/javascript" src="js/tabs.js"></script>
+		<script type="text/javascript" src="js/router.js"></script>
+		<script type="text/javascript" src="js/wrapUp.js"></script>	
+		<script type="text/javascript" src="js/translations.js"></script>
+		<script type="text/javascript" src="js/translator.js"></script>
+		<script type="text/javascript" src="js/start.js"></script>
+		<script type="text/javascript" src="js/splashPage.js"></script> 
+		<script type="text/javascript" src="js/shortcut.js"></script>
+		<script type="text/javascript" src="js/feedback.js"></script>
+		<script type="text/javascript" src="js/keyControl.js"></script>
+		<script type="text/javascript" src="js/playAudio.js"></script>
+		<script type="text/javascript" src="js/sortingPageAudio.js"></script>
+
+
+	</head>
+	<body>	
+		<div id="mainContainer">
+                        <!-- <div id="loadingScreen">
+                                <div class="progress-wrap progress" data-progress-percent="10">
+                                  <div class="progress-bar progress"></div>
+                                </div>
+                        </div> -->
+			<div id="homeContainer">
+				<div class="story" id="story1" onclick="javascript:uiHover.selectedStory('Story1');"></div>
+				<div class="story" id="story2" onclick="javascript:uiHover.selectedStory('Story2');"></div>
+				<div class="story" id="story3" onclick="javascript:uiHover.selectedStory('Story3');"></div>
+				<div class="story" id="story4" onclick="javascript:uiHover.selectedStory('Story4');"></div>
+				
+				
+				<div class="helpImage" onclick="javascript:tabs.showModal('homeHelpModal'); playAudio.playAndTranslateModalFile('e_s_h_1','f_s_h_1');" onmouseout="uiHover.homeOffHover('helpImage');" onmouseover="uiHover.homeOnHover('helpImage');"></div>
+				<div class="optionsImage" onclick="javascript:tabs.showModal('optionModal'); " onmouseout="uiHover.homeOffHover('optionsImage');" onmouseover="uiHover.homeOnHover('optionsImage');"></div>
+				<div class="homeImage" onclick="javascript:router.updateHashTab('Home');" onmouseout="uiHover.homeOffHover('Home');" onmouseover="uiHover.homeOnHover('Home');"></div>
+				<div class="Next" onclick="javascript:tabs.nextIsClicked();" onmouseout="uiHover.homeOffHover('Next');" onmouseover="uiHover.homeOnHover('Next');"></div>
+	
+		</div>
+        <div class="modal fade" id="homeHelpModal" tabindex="-1" 
+                role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" 
+                style="display: none;">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                    There are four stories for you to explore. Press 1 through 4 to hear about each one. To pick which one you want to play, press that number and then the Enter key. You can come back to pick another story when you’re done. Press the ‘h’ key for help. Press the ‘o’ key to hear options.Press ‘x’ to continue.
+                </div>
+                <div class="modal-footer modalFooterSize">
+                </div>
+                </div>
+                </div>
+                </div>
+                <div class="modal fade" id="evaluationModalFail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                </div>
+                <div class="modal-footer modalFooterSize">
+                <button type="button" class="btn btn-default restartButton" data-dismiss="modal" onclick="router.loadSortingJSFile(); init();">Play Again</button>
+                </div>
+                </div>
+                </div>
+                </div>
+                
+                <div class="modal fade" id="FrhomeHelpModal" tabindex="-1" 
+                role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" 
+                style="display: none;">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                    Il y a quatre histoires à explorer. Appuie sur les touches 1 à 4 pour entendre une description de chacune. Pour sélectionner celle qui t’intéresse, appuie sur la touche du chiffre correspondant puis sur la touche Retour. Tu pourras revenir et choisir une autre histoire lorsque tu auras terminé. Appuie sur la touche ‘h’ pour obtenir de l’aide. Appuie sur la touche ‘o’ pour entendre les options.
+                </div>
+                <div class="modal-footer modalFooterSize">
+                </div>
+                </div>
+                </div>
+                </div>
+                <div class="modal fade" id="evaluationModalFail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                </div>
+                <div class="modal-footer modalFooterSize">
+                <button type="button" class="btn btn-default restartButton" data-dismiss="modal" onclick="router.loadSortingJSFile(); init();">Play Again</button>
+                </div>
+                </div>
+                </div>
+                </div>
+                
+                
+                <div class="modal fade" id="homeFirstVist" tabindex="-1" 
+                role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" 
+                style="display: none;">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                    Welcome to Cyber Choices. Bienvenue à la Cyber-Choix. To play in English press 'e'. Pour continuer en français, appuyez sur 'f'. To hear described video and support for the visually impaired press 'v'.   
+                </div>
+                <div class="modal-footer modalFooterSize">
+                </div>
+                </div>
+                </div>
+                </div>
+                <div class="modal fade" id="evaluationModalFail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                </div>
+                <div class="modal-footer modalFooterSize">
+                <button type="button" class="btn btn-default restartButton" data-dismiss="modal" onclick="router.loadSortingJSFile(); init();">Play Again</button>
+                </div>
+                </div>
+                </div>
+                </div>
+                
+                <div class="modal fade" id="FrHomeFirstVist" tabindex="-1" 
+                role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" 
+                style="display: none;">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                    Pour entendre la vidéodescription et accéder aux options pour les personnes ayant une déficience visuelle, appuyez sur ‘V’.
+                </div>
+                <div class="modal-footer modalFooterSize">
+                </div>
+                </div>
+                </div>
+                </div>
+                
+                
+                <div class="modal fade" id="VIFrHomeFirstVist" tabindex="-1" 
+                role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" 
+                style="display: none;">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                    Pour entendre la vidéodescription et accéder aux options pour les personnes ayant une déficience visuelle, appuyez sur ‘V’. Appuie sur la touche ‘x’ pour continuer.
+                </div>
+                <div class="modal-footer modalFooterSize">
+                </div>
+                </div>
+                </div>
+                </div>
+                
+                
+                <div class="modal fade" id="VIHomeFirstVisit" tabindex="-1" 
+                role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" 
+                style="display: none;">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                    There are four stories for you to explore. Press 1 through 4 to hear about each one. To pick which one you want to play, press that number and then the Enter key. You can come back to pick another story when you’re done. Press the ‘h’ key for help. Press the ‘o’ key to hear options. Press ‘x’ to continue.
+                </div>
+                <div class="modal-footer modalFooterSize">
+                </div>
+                </div>
+                </div>
+                </div>
+                
+                <div class="modal fade" id="evaluationModalFail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                </div>
+                <div class="modal-footer modalFooterSize">
+                <button type="button" class="btn btn-default restartButton" data-dismiss="modal" onclick="router.loadSortingJSFile(); init();">Play Again</button>
+                </div>
+                </div>
+                </div>
+                </div>
+                
+                <div class="modal fade" id="optionModal" tabindex="-1" 
+                role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" 
+                style="display: none;">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" style="cursor:default">
+                    To play in English press 'e'.</br>
+                    Keyboard commands:</br>
+                    'right arrow' = next</br>
+                    'left arrow' = back</br>
+                    'r' = replay current text bubble</br>
+                    'esc' = home</br>
+                    't' = try again</br>
+                    'Enter' = accept</br>
+                    'h' = help</br>
+                    'o' = options</br>
+                    'x' = cancel (close popups)</br>
+                    '1' = sort reason left</br>
+                    '2' = sort reason right </br>
+                    '1' = select action 1 when choices are unlocked</br>
+                    '2' = select action 2 when choices are unlocked</br>
+    
+                </div>
+                <div class="modal-footer modalFooterSize">
+                </div>
+                </div>
+                </div>
+                </div>
+                
+	</body>
+</html>

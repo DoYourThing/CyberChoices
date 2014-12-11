@@ -1,0 +1,95 @@
+#mainContainer
+{
+	background: url('../images/blueBoxWrapUpBackground.png')  no-repeat center ; 
+	width:1024px;
+	height:768px;
+}
+
+#wrapUpBlueBox
+{
+	background: url('../images/blueBoxWrapUp.png')  no-repeat center center; 
+	position:absolute;
+	left:36px;
+	top:106px;
+	width:966px;
+	height:168px;
+}
+
+#blueText
+{
+	position:absolute;
+	left:50px;
+	top:40px;
+	color:#462DAA;
+	font-style:italic;
+	font-size:16px;
+	font-weight:bold;
+	line-height:29px;
+}
+
+#faceSlot
+{
+	background: url('../images/faceSlot.png') no-repeat center;
+	position:absolute;
+	left:455px;
+	top:507px;
+	width:121px;
+	height:145px;
+}
+
+.restartButton 
+{
+	border: 1px solid rgb(27, 40, 49);
+	border-radius: 3px;
+	height: 40px;
+	background-color: #387FC0;
+	color: #DEF36D;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 2px 2px #000000;
+	font-size: 20px;
+}
+
+.modal-header 
+{
+	background-color: #F8F894;
+	border-radius: 2px;
+	border-bottom-color: #000000;
+	color: #174E92;
+	font-style: italic;
+}
+
+.modal-title 
+{
+	margin: 0;	
+	line-height: 2;
+	font-size: 30px;
+}
+
+.modal-footer 
+{
+	margin-top: 15px;
+	padding: 8px 8px 8px;
+	text-align: right;
+	border-top: 1px solid #D9DBAB;
+}
+
+.checkedHappy
+{
+	background: url('../images/happy.png') no-repeat center;
+	position:absolute;
+	left:455px;
+	top:507px;
+	width:121px;
+	height:145px;
+}
+
+#happy
+{
+	background: url('../images/happy.png') no-repeat center;
+	position:absolute;
+	left:85px;
+	top:328px;
+	width:121px;
+	height:145px;
+}

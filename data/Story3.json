@@ -1,0 +1,2144 @@
+{  
+   "_comment": "styled-french-audio-clean -last edited Oct 10 1am",
+   "_comment": "styled-french-audio-clean -last edited Oct 16 11am - check spreadsheet for latest bugs",
+   "FrenchTitleImage":"f_3",
+   "EnglishTitleImage":"e_3",
+   "storyNumber":"storyLine3",
+   "storyId":"Story3",
+   "scene":[  
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_1_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_1_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_3_1_1_1",
+                     "panelAudio":"e_3_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_m_l f14",
+                           "id":"e_3_1_1_1_2",
+                           "bubbleContent":"How does it feel when someone is mean to you online?",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_3_1_1_1_2",
+                           "left":"38px",
+                           "top":"83px"
+                        },
+                        {  
+                           "divClass":"nc_m_m f14",
+                           "id":"e_3_1_1_1_3",
+                           "bubbleContent":"Let’s look at how it felt for Sam…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_3_1_1_1_3",
+                           "left":"300px",
+                           "top":"308px"
+                        },
+                        {  
+                           "divClass":"wb_m_sw f14",
+                           "id":"e_3_1_1_1_4",
+                           "bubbleContent":"Today’s the day!",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_1_1_1_4",
+                           "left":"90px",
+                           "top":"280px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_1_1_2",
+					 "frImage":"f_3_1_1_2",
+                     "panelAudio":"e_3_1_1_2_1-1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_samir f14",
+                           "id":"e_3_1_1_2_2",
+                           "bubbleContent":"My family moved here three months ago.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_1_1_2_2",
+                           "left":"700px",
+                           "top":"260px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_1_1_3",
+					 "frImage":"f_3_1_1_3",
+                     "panelAudio":"e_3_1_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_samir f14",
+                           "id":"e_3_1_1_3_2",
+                           "bubbleContent":"I didn’t know anyone at school, and nobody here wants to play with me.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_1_1_3_2",
+                           "left":"210px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_1_1_4",
+					 "frImage":"f_3_1_1_4",
+                     "panelAudio":"e_3_1_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_samir f12",
+                           "id":"e_3_1_1_4_2",
+                           "bubbleContent":"I wanted to play with Aadan and his friends online, so yesterday he helped me make a UniSaurus Realms character.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_1_1_4_2",
+                           "left":"525px",
+                           "top":"390px"
+                        },
+                        {  
+                           "divClass":"wb_m_se f12",
+                           "id":"e_3_1_1_4_3",
+                           "bubbleContent":"Okay, what spells do you want to have?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_1_1_4_3",
+                           "left":"650px",
+                           "top":"600px"
+                        },
+                        {  
+                           "divClass":"wb_m_ne f14",
+                           "id":"e_3_1_1_4_4",
+                           "bubbleContent":"Fireball!",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_1_1_4_4",
+                           "left":"850px",
+                           "top":"400px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_1_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_1_2_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_1_2_1",
+                     "panelAudio":"e_3_1_2_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_samir f14",
+                           "id":"e_3_1_2_1_2",
+                           "bubbleContent":"Aadan always helps me out when I need it.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_1_r_2",
+                           "left":"40px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_1_2_2",
+                     "panelAudio":"e_3_1_2_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_1_2_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_3_1_2_2_2",
+                           "bubbleContent":"VIOLETTA: Hi have you played Realms before? I haven't seen you before.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_1_3",
+                           "left":"450px",
+                           "top":"220px"
+                        },
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_1_2_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_1_2_2_3",
+                           "bubbleContent":"SAMEEN: Yes I’m just playing for the first time today",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_1_4"
+                        },
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_1_2_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_1_2_2_4",
+                           "bubbleContent":"SAMEEN: See look I can throw fireballs",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_2_2"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_1_2_3",
+                     "panelAudio":"e_3_1_2_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_1_2_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_1_2_3_2",
+                           "bubbleContent":"TYRANNOLAURUS: Are you stupid? That gem was what we wanted and you broke it!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_4_2",
+                           "left":"35px",
+                           "top":"250px"
+                        },
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_1_2_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_1_2_4_3",
+                           "bubbleContent":"SAMEEN: Sorry sorry",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_4_3"
+                        },
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_1_2_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_1_2_3_5",
+                           "bubbleContent":"TYRANNOLAURUS: Get out of here! We don’t want to play with you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_2_1_2_2"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_1_2_4",
+                     "panelAudio":"e_3_1_2_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f14",
+                           "id":"e_3_1_2_4_2",
+                           "bubbleContent":"Oh no! What do I do?",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_3_1_2_4_2",
+                           "left":"500px",
+                           "top":"430px"
+                        },
+                        {  
+                           "divClass":"tb_l_ne f12",
+                           "id":"e_3_1_2_4_3",
+                           "bubbleContent":"Should I get Aadan to help me? But he’ll think I’m being a baby… maybe I should deal with this myself.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_1_2_4_3",
+                           "left":"750px",
+                           "top":"250px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_1_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_3_1_q_1",
+               "panelAudio":"e_3_1_i_s",
+               "VIpanelAudio":"e_3_1_i_v",
+               "activeAsk":"e_3_1_a_1",
+               "activeAskHover":"e_3_1_a_1_h",
+               "activePostHover":"e_3_1_a_2_h",
+               "activeAskLeft":"62",
+               "activeAskTop":"527",
+               "activePostTop":"527",
+               "activePostLeft":"719",
+               "activePost":"e_3_1_a_2",
+               "activeAskHeight":"135",
+               "activeAskWidth":"254",
+               "activePostWidth":"236",
+               "activePostHeight":"137",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"samir_thinking",
+               "inactiveCharacter":"samir_inactive",
+               "e_1_1_r_1":"Aadan knows a lot about how to play the game.",
+               "e_1_1_r_2":"Aadan always helps me out when I need it.",
+               "e_1_1_r_3":"I might feel better if I talk to someone about it.",
+               "e_1_1_r_4":"Aadan might decide I’m too young to play this game.",
+               "e_1_1_r_5":"Aadan might not always be here to help me.",
+               "e_1_1_r_6":"Tyrannolaurus might be meaner to me later when I’m by myself.",
+               "card1Audio":"e_3_1_r_1",
+               "card2Audio":"e_3_1_r_2",
+               "card3Audio":"e_3_1_r_3",
+               "card4Audio":"e_3_1_r_4",
+               "card5Audio":"e_3_1_r_5",
+               "card6Audio":"e_3_1_r_6",
+               "helpTextOne":"e_3_1_h_1",
+               "helpTextTwo":"e_3_1_h_2",
+               "helpTextOneFr":"f_3_1_h_1",
+               "helpTextTwoFr":"f_3_1_h_2",
+				"correctSortFeedbackAudio":"e_3_1_s_1",
+				"correctSortFeedbackFrAudio":"f_3_1_s_1",
+				"correctSortFeedbackVIAudio":"e_3_1_s_v",
+				"correctSortPurpleText":"Click on “Ask Aadan for Help” if you think Sam should ask Aadan for help, or click on “Deal With it Myself” if you think he shouldn’t.",
+               "correctSortPurpleTextVI":"Press 1 if you think Sam should ask Aadan for help, or press 2 if you think he should deal with it himself.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might ask Aadan for help or why he might try to deal with his problem himself.",
+               "purpleBoxText":"Drag the reasons why Sam might ask Aadan for help to the left side of the screen and the reasons why he might not ask for help to the right.",
+               "purpleBox":"e_3_1_i",
+               "helpContent1":"What are the reasons why getting help from Aadan might let Sam keep playing the game? Put those with “Ask Aadan for Help.” Put the reasons why it might keep him from playing the game with “Deal With it Myself.”",
+               "helpContent2":"Sometimes it’s important to get help with problems you have online. What are the reasons why Sam might need Aadan’s help? Put those with “Ask Aadan for Help.”",
+               "activeAskScene":"9",
+				"activePostScene":"1",
+				"correctSortPurpleText":"Click on “Ask Aadan for Help” if you think Sam should ask Aadan for help, or click on “Deal With it Myself” if you think he shouldn’t.",
+				"storyBackgroundimageFr":"f_3_1_q",
+				"solvedPageId":"11",
+				"activeAskFr":"f_3_1_a_1",
+				"activePostFr":"f_3_1_a_2",
+				"activeAskHoverFr":"f_3_1_a_1_h",
+				"activePostHoverFr":"f_3_1_a_2_h",
+				"activeAskHoverFrWidth":"216",
+				"activeAskHoverFrHeight":"166",
+				"activePostHoverFrWidth":"197",
+				"activePostHoverFrHeight":"150",
+				"activeAskLeftFr":"104",
+				"activeAskTopFr":"528",
+				"activePostLeftFr":"740",
+				"activePostTopFr":"521",
+				"activeAskWidthFr":"216",
+				"activeAskHeightFr":"166",
+				"activePostWidthFr":"197",
+				"activePostHeightFr":"150",
+				 "activeAskHoverWidth":"254",
+				"activeAskHoverHeight":"135",
+				"activePostHoverWidth":"236",
+				"activePostHoverHeight":"137"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_2_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_2_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_2_1_1",
+                     "panelAudio":"e_3_2_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_ne f12",
+                           "id":"e_3_2_1_1_2",
+                           "bubbleContent":"I don’t need Aadan’s help. I’m old enough to handle this myself.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_2_1_1_2",
+                           "left":"350px",
+                           "top":"5px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_2_1_2",
+                     "panelAudio":"e_3_2_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_samir f14",
+                           "id":"e_3_2_1_2_2",
+                           "bubbleContent":"Maybe I should just leave and play somewhere else in UniSaurus Realms…",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_2_1_2_2",
+                           "left":"40px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_2_1_3",
+                     "panelAudio":"e_3_2_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_samir f14",
+                           "id":"e_3_2_1_3_2",
+                           "bubbleContent":"… or maybe I should tell her how upset I am.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_2_1_3_2",
+                           "left":"690px",
+                           "top":"80px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_2_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_3_2_q_1",
+               "panelAudio":"e_3_2_i_s",
+                "VIpanelAudio":"e_3_2_i_v",
+               "activeAsk":"e_3_2_a_1",
+               "activeAskHover":"e_3_2_a_1_h",
+               "activePostHover":"e_3_2_a_2_h",
+               "activeAskLeft":"74",
+               "activeAskTop":"527",
+               "activePostTop":"527",
+               "activePostLeft":"731",
+               "activePost":"e_3_2_a_2",
+               "activeAskHeight":"79",
+               "activeAskWidth":"236",
+               "activePostWidth":"215",
+               "activePostHeight":"80",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "characterImage":"samir_thinking",
+               "inactiveCharacter":"samir_inactive",
+               "e_1_1_r_1":"If I tell her how upset I am, she might stop being mean to me.",
+               "e_1_1_r_2":"I don’t want to let one mean person ruin the game for me.",
+               "e_1_1_r_3":"I don’t want to let her win by making me leave.",
+               "e_1_1_r_4":"If I stay, she might keep being mean to me.",
+               "e_1_1_r_5":"If I go away for a while I might feel better.",
+               "e_1_1_r_6":"I don’t want her to know she’s upset me.",
+                "card1Audio":"e_3_2_r_1",
+               "card2Audio":"e_3_2_r_2",
+               "card3Audio":"e_3_2_r_3",
+               "card4Audio":"e_3_2_r_4",
+               "card5Audio":"e_3_2_r_5",
+               "card6Audio":"e_3_2_r_6",
+               "helpTextOne":"e_3_2_h_1",
+               "helpTextTwo":"e_3_2_h_2",
+               "helpTextOneFr":"f_3_2_h_1",
+               "helpTextTwoFr":"f_3_2_h_2",
+				"correctSortFeedbackAudio":"e_3_2_s_1",
+				"correctSortFeedbackFrAudio":"f_3_2_s_1",
+				"correctSortFeedbackVIAudio":"e_3_2_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sam stay and talk to Laura or press 2 to have him go away.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might stay and talk to Laura and why he might go to another part of UniSaurus Realms.",
+               "purpleBoxText":"Drag the reasons why Sam might stay to the left side of the screen and the reasons why he might leave to the right.",
+               "purpleBox":"e_3_1_i",
+               "helpContent1":"Sometimes it’s good to stand up and face your problems. What are the reasons why this would be a good thing for Sam to do? Put those with “Stay Here.”",
+               "helpContent2":"Sometimes it’s good to go away when someone’s being mean to you. What are the reasons why this would be a good thing for Sam to do? Put those with “Go Away.”",
+               "activeAskScene":"4",
+				"activePostScene":"2",
+				"storyBackgroundimageFr":"f_3_2_q",
+				"solvedPageId":"12",
+				"activeAskFr":"f_3_2_a_1",
+				"activePostFr":"f_3_2_a_2",
+				"activeAskHoverFr":"f_3_2_a_1_h",
+				"activePostHoverFr":"f_3_2_a_2_h",
+				"activeAskHoverFrWidth":"190",
+				"activeAskHoverFrHeight":"79",
+				"activePostHoverFrWidth":"210",
+				"activePostHoverFrHeight":"134",
+				"activeAskLeftFr":"98",
+				"activeAskTopFr":"527",
+				"activePostLeftFr":"730",
+				"activePostTopFr":"524",
+				"activeAskWidthFr":"190",
+				"activeAskHeightFr":"79",
+				"activePostWidthFr":"210",
+				"activePostHeightFr":"134",
+				 "activeAskHoverWidth":"236",
+				"activeAskHoverHeight":"79",
+				"activePostHoverWidth":"215",
+				"activePostHoverHeight":"80"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_3_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_3_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_3_1_1",
+                     "panelAudio":"e_3_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_3_3_1_1_2",
+                           "bubbleContent":"Maybe I should stop playing for awhile, until I feel better.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_3_1_1_2",
+                           "left":"25px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_3_1_2",
+                     "panelAudio":"e_3_3_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_s f12",
+                           "id":"e_3_3_1_2_2",
+                           "bubbleContent":"Hey, I’m done helping Max with his homework. Do you want to play Realms?",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_3_1_2_2",
+                           "left":"40px",
+                           "top":"520px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_3_1_3",
+                     "panelAudio":"e_3_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f12",
+                           "id":"e_3_3_1_3_2",
+                           "bubbleContent":"Should I tell him what happened? I’m afraid he’ll think I’m a baby…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_3_1_3_2",
+                           "left":"470px",
+                           "top":"60px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_3_q",
+               "hashInfo":"sorting",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "titleAudio":"e_3_3_q_1",
+               "panelAudio":"e_3_3_i_s",
+               "VIpanelAudio":"e_3_3_i_v",
+               "activeAsk":"e_3_3_a_1",
+               "activeAskHover":"e_3_3_a_1_h",
+               "activePostHover":"e_3_3_a_2_h",
+               "activeAskLeft":"74",
+               "activeAskTop":"527",
+               "activePostTop":"526",
+               "activePostLeft":"685",
+               "activePost":"e_3_3_a_2",
+               "activeAskHeight":"137",
+               "activeAskWidth":"234",
+               "activePostWidth":"308",
+               "activePostHeight":"139",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"samir_thinking",
+               "inactiveCharacter":"samir_inactive",
+               "e_1_1_r_1":"Talking to Aadan might help me feel better.",
+               "e_1_1_r_2":"Aadan will help me if anyone else is mean to me.",
+               "e_1_1_r_3":"Aadan will help me learn to play the game better.",
+               "e_1_1_r_4":"Aadan might decide I’m too young to play this game.",
+               "e_1_1_r_5":"I don’t want to tell Aadan I made such a silly mistake.",
+               "e_1_1_r_6":"I think I might cry if I tell Aadan what happened.",
+               "card1Audio":"e_3_3_r_1",
+               "card2Audio":"e_3_3_r_2",
+               "card3Audio":"e_3_3_r_3",
+               "card4Audio":"e_3_3_r_4",
+               "card5Audio":"e_3_3_r_5",
+               "card6Audio":"e_3_3_r_6",
+               "helpTextOne":"e_3_3_h_1",
+               "helpTextTwo":"e_3_3_h_2",
+               "helpTextOneFr":"f_3_3_h_1",
+               "helpTextTwoFr":"f_3_3_h_2",
+			"correctSortFeedbackAudio":"e_3_3_s_1",
+				"correctSortFeedbackFrAudio":"f_3_3_s_1",
+				"correctSortFeedbackVIAudio":"e_3_3_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sam play with Aadan or press 2 to have him say he doesn’t want to play.",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sam might tell Aadan what happened or why he might say he doesn’t want to play.",
+               "purpleBoxText":"Drag the reasons why Sam might tell Aadan what happened to the left side of the screen and the reasons why he might tell him he doesn’t want to play to the right.",
+               "purpleBox":"e_3_1_i",
+               "helpContent1":"What are the reasons why telling Aadan about what happened might make it easier for Sam to keep playing the game? Put those with “Play With Aadan” and the reasons why telling him might make it harder for Sam to keep playing with “Say I Don’t Want to Play.”",
+               "helpContent2":"What are the reasons why telling Aadan might make Sam feel better about what happened? Put those with “Play With Aadan.” Put the reasons why telling him might make Sam feel worse with “Say I Don’t Want to Play.”",
+               "activeAskScene":"9",
+				"activePostScene":"3",
+				"storyBackgroundimageFr":"f_3_3_q",
+				"solvedPageId":"13",
+				"activeAskFr":"f_3_3_a_1",
+				"activePostFr":"f_3_3_a_2",
+				"activeAskHoverFr":"f_3_3_a_1_h",
+				"activePostHoverFr":"f_3_3_a_2_h",
+				"activeAskHoverFrWidth":"242",
+				"activeAskHoverFrHeight":"119",
+				"activePostHoverFrWidth":"279",
+				"activePostHoverFrHeight":"143",
+				"activeAskLeftFr":"72",
+				"activeAskTopFr":"526",
+				"activePostLeftFr":"697",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"242",
+				"activeAskHeightFr":"119",
+				"activePostWidthFr":"279",
+				"activePostHeightFr":"143",
+				 "activeAskHoverWidth":"234",
+				"activeAskHoverHeight":"137",
+				"activePostHoverWidth":"308",
+				"activePostHoverHeight":"139"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_4_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_4_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_4_1_1",
+                     "panelAudio":"e_3_4_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_ne f12",
+                           "id":"e_3_4_1_1_2",
+                           "bubbleContent":"I don’t know… maybe I’ll play later.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_4_1_1_2",
+                           "left":"200px",
+                           "top":"60px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_4_1_2",
+                     "panelAudio":"e_3_4_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_sw f12",
+                           "id":"e_3_4_1_2_2",
+                           "bubbleContent":"Sam, did something happen when you were playing?",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_4_1_2_2",
+                           "left":"550px",
+                           "top":"250px"
+                        },
+                        {  
+                           "divClass":"wb_m_ne f12",
+                           "id":"e_3_4_1_2_3",
+                           "bubbleContent":"Do you want to talk about it?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_4_1_2_3",
+                           "left":"830px",
+                           "top":"60px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_4_1_3",
+                     "panelAudio":"e_3_4_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_s_ne f12",
+                           "id":"e_3_4_1_3_2",
+                           "bubbleContent":"No, it’s okay.",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_3_4_1_3_2",
+                           "left":"70px",
+                           "top":"370px"
+                        },
+                        {  
+                           "divClass":"wb_m_se f12",
+                           "id":"e_3_4_1_3_3",
+                           "bubbleContent":"I’m going to my room now. I’ll see you later.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_4_1_3_3",
+                           "left":"60px",
+                           "top":"550px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_4_1_4",
+                     "panelAudio":"e_3_4_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_ne",
+                           "id":"e_3_4_1_4_2",
+                           "bubbleContent":"It sure seems like something happened to him. Maybe I should talk to Laura or Violet to see if they know anything.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_4_1_4_2",
+                           "left":"750px",
+                           "top":"210px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_3_4_w_1",
+               "e_1_6_w_1":"You’ve reached ending 1 of 6. Sam decided not to do anything about being picked on in UniSaurus Realms. Aadan knew something was wrong, but Sam didn’t want to talk to him about it. How do you think Sam felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Aadan felt about it?",
+               "blueBox":"e_3_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"samir_active",
+               "secondCharacter":"aadan_inactive",
+               "secondCharacterFaceSlot":"aadan_neutral",
+               "character1":"samir",
+     			"character2":"aadan",		
+               "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"french_worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_3_4_f",
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_3_4_f",
+               "inactiveCharacter1":"samir",
+     			"inactiveCharacter2":"aadan",
+     			"character1":"samir_sad",
+     			"character2":"aadan_worried"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_5_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_5_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_5_1_1",
+                     "panelAudio":"e_3_2_1_1_1-2",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f12",
+                           "id":"e_3_5_1_1_2",
+                           "bubbleContent":"I’m not going to let one mean person scare me away.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_5_1_1_2",
+                           "left":"50px",
+                           "top":"20px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_5_1_2",
+                     "panelAudio":"e_3_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f12",
+                           "id":"e_3_5_1_2_2",
+                           "bubbleContent":"But what should I do? I can’t just keep playing like nothing happened…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_5_1_2_2",
+                           "left":"450px",
+                           "top":"50px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_5_1_3",
+                     "panelAudio":"e_3_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_ne",
+                           "id":"e_3_5_1_3_2",
+                           "bubbleContent":"Aadan taught me some good tricks to use if other players gave me trouble. Maybe I should use one of those to get back at her…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_5_1_3_2",
+                           "left":"320px",
+                           "top":"240px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_5_1_4",
+                     "panelAudio":"e_3_5_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_3_5_1_4_2",
+                           "bubbleContent":"… or maybe I should just talk to her about it.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_5_1_4_2",
+                           "left":"780px",
+                           "top":"280px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_5_q",
+               "hashInfo":"sorting",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "titleAudio":"e_3_5_q_1",
+               "panelAudio":"e_3_5_i_s",
+               "VIpanelAudio":"e_3_5_i_v",
+               "activeAsk":"e_3_5_a_1",
+               "activeAskHover":"e_3_5_a_1_h",
+               "activePostHover":"e_3_5_a_2_h",
+               "activeAskLeft":"82",
+               "activeAskTop":"527",
+               "activePostTop":"527",
+               "activePostLeft":"745",
+               "activePost":"e_3_5_a_2",
+               "activeAskHeight":"134",
+               "activeAskWidth":"220",
+               "activePostWidth":"187",
+               "activePostHeight":"134",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"samir_thinking",
+               "inactiveCharacter":"samir_inactive",
+               "e_1_1_r_1":"She might stop being mean to people if she knows what it feels like.",
+               "e_1_1_r_2":"Getting back at her might make me feel better.",
+               "e_1_1_r_3":"She should be punished for being so mean to me.",
+               "e_1_1_r_4":"Getting back at her will just make her more mad at me.",
+               "e_1_1_r_5":"It’s wrong to be mean to people, even if they’re mean to you.",
+               "e_1_1_r_6":"Getting back at her might make her do more mean things to me.",
+               "card1Audio":"e_3_5_r_1",
+               "card2Audio":"e_3_5_r_2",
+               "card3Audio":"e_3_5_r_3",
+               "card4Audio":"e_3_5_r_4",
+               "card5Audio":"e_3_5_r_5",
+               "card6Audio":"e_3_5_r_6",
+               "helpTextOne":"e_3_5_h_1",
+               "helpTextTwo":"e_3_5_h_2",
+               "helpTextOneFr":"f_3_5_h_1",
+               "helpTextTwoFr":"f_3_5_h_2",
+				"correctSortFeedbackAudio":"e_3_5_s_1",
+				"correctSortFeedbackFrAudio":"f_3_5_s_1",
+				"correctSortFeedbackVIAudio":"e_3_5_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sam try go get back at Laura or press 2 to have him talk to her instead.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might try to get back at Tyrannolaurus and why he might talk to her instead.",
+               "purpleBoxText":"Drag the reasons why Sam might try to get back at Laura to the left side of the screen and the reasons why he might talk to her to the right.",
+               "purpleBox":"e_3_1_i",
+               "helpContent1":"What are the reasons why getting back at Tyrannolaurus might make things better for Sam? Put those with “Get Back at Her.” Put the reasons why it might make things worse with “Talk to Her.”",
+               "helpContent2":"What are the reasons why getting back at Tyrannolaurus might be the right thing to do? Put those with “Get Back at Her.” Put the reasons why it might be the wrong thing to do with “Talk to Her.”",
+               "activeAskScene":"5",
+				"activePostScene":"6",
+				"storyBackgroundimageFr":"f_3_5_q",
+				"solvedPageId":"14",
+				"activeAskFr":"f_3_5_a_1",
+				"activePostFr":"f_3_5_a_2",
+				"activeAskHoverFr":"f_3_5_a_1_h",
+				"activePostHoverFr":"f_3_5_a_2_h",
+				"activeAskHoverFrWidth":"288",
+				"activeAskHoverFrHeight":"80",
+				"activePostHoverFrWidth":"280",
+				"activePostHoverFrHeight":"79",
+				"activeAskLeftFr":"47",
+				"activeAskTopFr":"526",
+				"activePostLeftFr":"704",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"288",
+				"activeAskHeightFr":"80",
+				"activePostWidthFr":"280",
+				"activePostHeightFr":"79"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_6_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_6_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_6_1_1",
+                     "panelAudio":"e_3_6_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f12",
+                           "id":"e_3_6_1_1_2",
+                           "bubbleContent":"Let’s see how she likes it when somebody’s mean to her.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_6_1_1_2",
+                           "left":"10px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_6_1_2",
+                     "panelAudio":"e_3_6_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClassId":"e_3_6_1_2_2",
+                           "divClass":"cc cc_samir f14",
+                           "id":"e_3_6_1_2_2",
+                           "bubbleContent":"I’ll go to her castle and use that spell Aadan showed me.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_6_1_2_2",
+                           "left":"695px",
+                           "top":"260px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_6_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_6_1_2_3",
+                           "bubbleContent":"SAMEEN: TEMBLOR",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_6_1_2_3",
+                           "left":"700px",
+                           "top":"140px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_6_1_3",
+                     "panelAudio":"e_3_6_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"sfx_rmmble",
+                           "id":"s_3_6_1_3_2",
+                           "bubbleContent":"",
+                           "bubbleFontClass":"",
+                           "audioInfo":"s_3_6_1_3_2",
+                           "left":"80px",
+                           "top":"380px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_6_1_4",
+                     "panelAudio":"e_3_6_1_4_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_6_1_4_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_6_1_4_2",
+                           "bubbleContent":"TYRANNOLAURUS: Did you do this?",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_6_1_4_2",
+                           "left":"530px",
+                           "top":"370px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_6_1_4_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_6_1_4_3",
+                           "bubbleContent":"SAMEEN: How do U like it when someone’s mean to U?",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_6_1_4_3"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_6_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_6_2_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_6_2_1",
+                     "panelAudio":"e_3_6_2_1_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_6_2_1_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_6_2_1_2",
+                           "bubbleContent":"TYRANNOLAURUS: You knocked down my castle!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_6_2_1_2",
+                           "left":"100px",
+                           "top":"100px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_6_2_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_6_2_1_3",
+                           "bubbleContent":"TYRANNOLAURUS: I’ll destroy you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_6_2_1_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_6_2_2",
+                     "panelAudio":"e_3_6_2_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f12",
+                           "id":"e_3_6_2_2_2",
+                           "bubbleContent":"Oh no, she zapped my character back to my castle!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_6_2_2_2",
+                           "left":"430px",
+                           "top":"50px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_3_6_2_2_3",
+                           "bubbleContent":"Now I’m locked out of the game for an hour.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_6_2_2_3",
+                           "left":"800px",
+                           "top":"50px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_6_2_3",
+                     "panelAudio":"e_3_6_2_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f12",
+                           "id":"e_3_6_2_3_2",
+                           "bubbleContent":"I wanted to get back at her, but now she’s even more mad and I’m out of the game.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_6_2_3_2",
+                           "left":"400px",
+                           "top":"250px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_3_6_w_1",
+               "e_1_6_w_1":"You’ve reached ending 2 of 6. Sam decided to try to get even with Laura for being mean to him. How do you think Sam felt about what happened?",
+               "e_1_6_w_2":"How do you think Laura felt about it?",
+               "blueBox":"e_3_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"samir_active",
+               "secondCharacter":"laura_inactive",
+               "secondCharacterFaceSlot":"laura_neutral",
+               "character1":"samir",
+     			"character2":"laura",
+               "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"french_worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {
+            	"hashInfo":"feedback",
+               "blueBoxFeedback":"e_3_6_f",
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_3_6_f",
+               "inactiveCharacter1":"samir",
+     			"inactiveCharacter2":"laura",
+     			"character1":"samir_sad",
+     			"character2":"laura_mad"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_7_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_7_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_7_1_1",
+                     "panelAudio":"e_3_6_2_2_1-1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f12",
+                           "id":"e_3_7_1_1_2",
+                           "bubbleContent":"I should just talk to her. Maybe she didn’t mean to hurt my feelings.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_7_1_1_2",
+                           "left":"20px",
+                           "top":"60px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_7_1_2",
+                     "panelAudio":"e_3_7_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_samir f14",
+                           "id":"e_3_7_1_2_2",
+                           "bubbleContent":"Should I try to make a joke to get her to forget about it?",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_3_7_1_2_2",
+                           "left":"40px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_7_1_3",
+                     "panelAudio":"e_3_7_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f14",
+                           "id":"e_3_7_1_3_2",
+                           "bubbleContent":"Or should I just tell her how she made me feel?",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_7_1_3_2",
+                           "left":"800px",
+                           "top":"80px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_7_q",
+               "hashInfo":"sorting",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "titleAudio":"e_3_7_q_1",
+               "panelAudio":"e_3_7_i_s",
+               "VIpanelAudio":"e_3_7_i_v",
+               "activeAsk":"e_3_7_a_1",
+               "activeAskHover":"e_3_7_a_1_h",
+               "activePostHover":"e_3_7_a_2_h",
+               "activeAskLeft":"71",
+               "activeAskTop":"526",
+               "activePostTop":"526",
+               "activePostLeft":"675",
+               "activePost":"e_3_7_a_2",
+               "activeAskHeight":"127",
+               "activeAskWidth":"240",
+               "activePostWidth":"322",
+               "activePostHeight":"128",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"samir_thinking",
+               "inactiveCharacter":"samir_inactive",
+               "e_1_1_r_1":"Maybe she didn’t really mean to hurt my feelings.",
+               "e_1_1_r_2":"If I make her laugh she might stop being mad.",
+               "e_1_1_r_3":"If she knows she hurt my feelings, she might be mean to me again.",
+               "e_1_1_r_4":"If she knows she hurt my feelings, she might stop being mean to me.",
+               "e_1_1_r_5":"She should know that what she did was wrong and hurt my feelings.",
+               "e_1_1_r_6":"If she knows she hurt my feelings she might not be mean to other people.",
+               "card1Audio":"e_3_7_r_1",
+             "card2Audio":"e_3_7_r_2",
+               "card3Audio":"e_3_7_r_3",
+               "card4Audio":"e_3_7_r_4",
+               "card5Audio":"e_3_7_r_5",
+               "card6Audio":"e_3_7_r_6",
+               "helpTextOne":"e_3_7_h_1",
+               "helpTextTwo":"e_3_7_h_2",
+               "helpTextOneFr":"f_3_7_h_1",
+               "helpTextTwoFr":"f_3_7_h_2",
+				"correctSortFeedbackAudio":"e_3_7_s_1",
+				"correctSortFeedbackFrAudio":"f_3_7_s_1",
+				"correctSortFeedbackVIAudio":"e_3_7_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sam make a joke about it or press 2 to have him tell her how she made him feel.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might make a joke to Tyrannolaurus or tell her how she made him feel.",
+               "purpleBoxText":"Drag the reasons why Sam might make a joke about it to the left side of the screen and the reasons why he might tell her how she made him feel to the right.",
+               "purpleBox":"e_3_1_i",
+               "helpContent1":"You can’t always tell if somebody meant to hurt your feelings when you’re online. Put the reasons why it might be a good idea to act like Tyrannolaurus didn’t mean to hurt you with “Make a Joke About It.” Put the reasons why that might be a bad idea with “Tell Her How She Made Me Feel.”",
+               "helpContent2":"People don’t always know they’ve hurt someone’s feelings when they’re online. Put the reasons why it might be a good idea to make sure Tyrannolaurus know she hurt your feelings with “Tell Her How She Made Me Feel.” Put the reasons why that might be a bad idea with “Make a Joke About It.”",
+               "activeAskScene":"7",
+				"activePostScene":"8",
+				"storyBackgroundimageFr":"f_3_7_q",
+				"solvedPageId":"15",
+				"activeAskFr":"f_3_7_a_1",
+				"activePostFr":"f_3_7_a_2",
+				"activeAskHoverFr":"f_3_7_a_1_h",
+				"activePostHoverFr":"f_3_7_a_2_h",
+				"activeAskHoverFrWidth":"211",
+				"activeAskHoverFrHeight":"126",
+				"activePostHoverFrWidth":"328",
+				"activePostHoverFrHeight":"127",
+				"activeAskLeftFr":"90",
+				"activeAskTopFr":"526",
+				"activePostLeftFr":"670",
+				"activePostTopFr":"525",
+				"activeAskWidthFr":"211",
+				"activeAskHeightFr":"126",
+				"activePostWidthFr":"328",
+				"activePostHeightFr":"127",
+				 "activeAskHoverWidth":"240",
+				"activeAskHoverHeight":"127",
+				"activePostHoverWidth":"322",
+				"activePostHoverHeight":"128"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_8_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_8_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_8_1_1",
+                     "panelAudio":"e_3_6_2_2_1-2",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_3_8_1_1_2",
+                           "bubbleContent":"Maybe I can get her to forget about it if I just make a joke.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_8_1_1_2",
+                           "left":"30px",
+                           "top":"30px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_8_1_2",
+                     "panelAudio":"e_3_8_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_8_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_8_1_2_2",
+                           "bubbleContent":"SAMEEN: Hey sorry about before",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_8_1_2_2",
+                           "left":"695px",
+                           "top":"250px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_8_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_8_1_2_3",
+                           "bubbleContent":"SAMEEN: Guess I still have to learn a bit about this game LOL",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_8_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_8_1_3",
+                     "panelAudio":"e_3_8_1_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_8_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_8_1_3_2",
+                           "bubbleContent":"TYRANNOLAURUS: Yeah well",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_8_1_3_2",
+                           "left":"70px",
+                           "top":"560px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_8_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_8_1_3_3",
+                           "bubbleContent":"TYRANNOLAURUS: U should learn how to play or nobody will want to play with U",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_8_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_8_1_4",
+                     "panelAudio":"e_3_8_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_w",
+                           "id":"e_3_8_1_4_2",
+                           "bubbleContent":"Oh… she doesn’t even know who I am…",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_8_1_4_2",
+                           "left":"500px",
+                           "top":"540px"
+                        },
+                        {  
+                           "divClass":"wb_m_e",
+                           "id":"e_3_8_1_4_3",
+                           "bubbleContent":"… she just thought I was a new player.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_8_1_4_3",
+                           "left":"800px",
+                           "top":"540px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_3_8_w_1",
+               "e_1_6_w_1":"You’ve reached ending 3 of 6. Sam decided to try to make a joke out of Laura being mad at him. How do you think he felt about how things turned out?",
+               "e_1_6_w_2":"",
+               "blueBox":"e_3_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"samir_center_active",
+               "secondCharacterFaceSlot":"",
+               "character1":"samir_center",
+     			"character2":"",
+               "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_3_8_f",
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_3_8_f",
+               "inactiveCharacter1":"samir_center",
+     			"inactiveCharacter2":"",
+     			"character1":"samir_worried",
+     			"character2":""
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_9_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_9_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_9_1_1",
+                     "panelAudio":"e_3_6_2_2_1-3",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne",
+                           "id":"e_3_9_1_2_2",
+                           "bubbleContent":"She won’t be so mean to me if I tell her how it made me feel.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_3_9_1_1_2",
+                           "left":"30px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_9_1_2",
+                     "panelAudio":"e_3_8_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_9_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_9_1_2_2",
+                           "bubbleContent":"SAMEEN: Hey Tyrannolaurus",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_1_2_2",
+                           "left":"600px",
+                           "top":"245px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_9_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_9_1_2_3",
+                           "bubbleContent":"SAMEEN: You were really mean to me before",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_9_1_3",
+                     "panelAudio":"e_3_9_1_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_9_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_9_1_3_2",
+                           "bubbleContent":"SAMEEN: You said you didn’t want to play with me",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_1_3_2",
+                           "left":"40px",
+                           "top":"510px"
+                        },
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_9_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_9_1_3_3",
+                           "bubbleContent":"SAMEEN: I guess you won’t play with me here OR at school",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_9_1_4",
+                     "panelAudio":"e_3_9_1_4_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_9_1_4_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_9_1_4_2",
+                           "bubbleContent":"TYRANNOLAURUS: I didn’t mean that!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_1_4_2",
+                           "left":"620px",
+                           "top":"555px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_9_1_4_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_9_1_4_3",
+                           "bubbleContent":"TYRANNOLAURUS: I just said that you should learn how to play",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_1_4_3"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_9_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_9_2_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_9_2_1",
+                     "panelAudio":"e_3_6_2_2_1-4",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_6_2_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_3_9_2_1_2",
+                           "bubbleContent":"SAMEEN: Well you really hurt my feelings",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_2_1_2",
+                           "left":"100px",
+                           "top":"520px"
+                        },
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_3_9_2_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_3_9_2_1_3",
+                           "bubbleContent":"TYRANNOLAURUS: I’m sorry!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_3_9_2_1_3",
+                           "left":"80px",
+                           "top":"640px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_9_2_2",
+                     "panelAudio":"e_3_9_2_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f12",
+                           "id":"e_3_9_2_2_2",
+                           "bubbleContent":"I’m glad I told her how I felt. I didn’t know she was just calling me a newbie.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_3_9_2_2_2",
+                           "left":"440px",
+                           "top":"30px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_3_9_w_1",
+               "e_1_6_w_1":"You’ve reached ending 4 of 6. Sam told Laura how she had made him feel. Laura found out that what she said hurt him a lot more than she thought it would. How do you think Sam felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Laura felt about it?",
+               "blueBox":"e_3_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"samir_active",
+               "secondCharacter":"laura_inactive",
+               "secondCharacterFaceSlot":"laura_neutral",
+               "character1":"samir",
+     			"character2":"laura",
+               "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_3_9_f",
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_3_9_f",
+               "inactiveCharacter1":"samir",
+     			"inactiveCharacter2":"laura",
+     			"character1":"samir_happy",
+     			"character2":"laura_guilty"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_10_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_10_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_10_1_1",
+                     "panelAudio":"e_3_10_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_e f12",
+                           "id":"e_3_10_1_1_2",
+                           "bubbleContent":"Hey, is something the matter?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_10_1_1_2",
+                           "left":"350px",
+                           "top":"150px"
+                        },
+                        {  
+                           "divClass":"wb_l_n f12",
+                           "id":"e_3_10_1_1_3",
+                           "bubbleContent":"I tried to help these other players and I blew up something important.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_10_1_1_3",
+                           "left":"10px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"wb_l_se f12",
+                           "id":"e_3_10_1_1_4",
+                           "bubbleContent":"Then one of them said nobody wants to play with me! It’s just like at school…",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_10_1_1_4",
+                           "left":"160px",
+                           "top":"240px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_10_1_2",
+                     "panelAudio":"e_3_10_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_s f12",
+                           "id":"e_3_10_1_2_2",
+                           "bubbleContent":"Who was it that said that to you?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_10_1_2_2",
+                           "left":"810px",
+                           "top":"255px"
+                        },
+                        {  
+                           "divClass":"wb_m_se f12",
+                           "id":"e_3_10_1_2_3",
+                           "bubbleContent":"Her character’s name was Tyrannolaurus.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_10_1_2_3",
+                           "left":"610px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_10_1_3",
+                     "panelAudio":"e_3_4_1_4_1-1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_ne f12",
+                           "id":"e_3_10_1_3_2",
+                           "bubbleContent":"That’s Laura’s character. Laura can be mean sometimes, but I don’t think she’d say that…",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_10_1_3_2",
+                           "left":"340px",
+                           "top":"370px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_10_1_4",
+                     "panelAudio":"e_3_10_1_2_1-1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_s_sw f14",
+                           "id":"e_3_10_1_4_2",
+                           "bubbleContent":"Well, she did!",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_3_10_1_4_2",
+                           "left":"520px",
+                           "top":"510px"
+                        },
+                        {  
+                           "divClass":"wb_xl_s",
+                           "id":"e_3_10_1_4_3",
+                           "bubbleContent":"Okay. I’ll help you. If she’s being mean to you here and at school we could talk to your teacher, or you can just tell me what happened.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_10_1_4_3",
+                           "left":"660px",
+                           "top":"500px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_10_q",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "hashInfo":"sorting",
+               "titleAudio":"e_3_10_q_1",
+               "panelAudio":"e_3_10_i_s",
+               "VIpanelAudio":"e_3_10_i_v",
+               "activeAsk":"e_3_10_a_1",
+               "activeAskHover":"e_3_10_a_1_h",
+               "activePostHover":"e_3_10_a_2_h",
+               "activeAskLeft":"82",
+               "activeAskTop":"528",
+               "activePostTop":"528",
+               "activePostLeft":"745",
+               "activePost":"e_3_10_a_2",
+               "activeAskHeight":"135",
+               "activeAskWidth":"221",
+               "activePostWidth":"187",
+               "activePostHeight":"137",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"samir_thinking",
+               "inactiveCharacter":"samir_inactive",
+               "e_1_1_r_1":"Laura goes to the same school as me and Aadan.",
+               "e_1_1_r_2":"Teachers have helped me when people have been mean to me at school.",
+               "e_1_1_r_3":"A teacher could punish Laura for what she did to me.",
+               "e_1_1_r_4":"I don’t want to get Laura in trouble.",
+               "e_1_1_r_5":"I don’t know if a teacher can help me with something that happened in a game.",
+               "e_1_1_r_6":"I don’t want other kids to think I’m a tattletale.",
+               "card1Audio":"e_3_10_r_1",
+               "card2Audio":"e_3_10_r_2",
+               "card3Audio":"e_3_10_r_3",
+               "card4Audio":"e_3_10_r_4",
+               "card5Audio":"e_3_10_r_5",
+               "card6Audio":"e_3_10_r_6",
+               "helpTextOne":"e_3_10_h_1",
+               "helpTextTwo":"e_3_10_h_2",
+               "helpTextOneFr":"f_3_10_h_1",
+               "helpTextTwoFr":"f_3_10_h_2",
+				"correctSortFeedbackAudio":"e_3_10_s_1",
+				"correctSortFeedbackFrAudio":"f_3_10_s_1",
+				"correctSortFeedbackVIAudio":"e_3_10_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sam talk to a teacher or press 2 to have him talk to Aadan.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might talk to a teacher about what Laura did or just talk to Aadan about it.",
+               "purpleBoxText":"Drag the reasons why Sam might talk to a teacher to the left side of the screen and the reasons why he might talk to Aadan to the right.",
+               "purpleBox":"e_3_1_i",
+               "helpContent1":"When you have trouble online, sometimes your friends or a big brother or sister can help you a lot. Put the reasons why getting help from Aadan might be the best choice with “Talk to Aadan.” Put the reasons why it might be better to get help from a teacher with “Talk to a Teacher.”",
+               "helpContent2":"When you have trouble online, sometimes it can help a lot to tell other people – your parents, a teacher, or the people who run the site you’re on. Put the reasons why this might be a good idea with “Talk to a Teacher.” Put the reasons why it might not be a good idea with “Talk to Aadan.”",
+               "activeAskScene":"11",
+				"activePostScene":"10",
+				"storyBackgroundimageFr":"f_3_10_q",
+				"solvedPageId":"16",
+				"activeAskFr":"f_3_10_a_1",
+				"activePostFr":"f_3_10_a_2",
+				"activeAskHoverFr":"f_3_10_a_1_h",
+				"activePostHoverFr":"f_3_10_a_2_h",
+				"activeAskHoverFrWidth":"264",
+				"activeAskHoverFrHeight":"125",
+				"activePostHoverFrWidth":"242",
+				"activePostHoverFrHeight":"145",
+				"activeAskLeftFr":"62",
+				"activeAskTopFr":"518",
+				"activePostLeftFr":"715",
+				"activePostTopFr":"517",
+				"activeAskWidthFr":"264",
+				"activeAskHeightFr":"125",
+				"activePostWidthFr":"242",
+				"activePostHeightFr":"145",
+				 "activeAskHoverWidth":"221",
+				"activeAskHoverHeight":"135",
+				"activePostHoverWidth":"187",
+				"activePostHoverHeight":"137"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_11_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_11_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_11_1_1",
+                     "panelAudio":"e_3_10_1_2_1-2",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"",
+                           "parentClassId":"e_3_11_1_1_2",
+                           "counter":"",
+                           "divClass":"wb_l_se f12",
+                           "id":"e_3_11_1_1_2",
+                           "bubbleContent":"Are you sure that’s what Laura said? That nobody wanted to play with you?",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_11_1_1_2",
+                           "left":"280px",
+                           "top":"180px"
+                        },
+                        {  
+                           "divClass":"wb_s_sw f14",
+                           "id":"e_3_11_1_1_3",
+                           "bubbleContent":"Yes!",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_3_11_1_1_3",
+                           "left":"30px",
+                           "top":"200px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_11_1_2",
+                     "panelAudio":"e_3_4_1_4_1-2",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_sw f12",
+                           "id":"e_3_11_1_2_2",
+                           "bubbleContent":"Hmm. Laura gets into lots of fights online. If she hurt my little brother…",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_11_1_2_2",
+                           "left":"520px",
+                           "top":"250px"
+                        },
+                        {  
+                           "divClass":"wb_m_se f12",
+                           "id":"e_3_11_1_2_3",
+                           "bubbleContent":"… then I guess she’s not my friend anymore.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_11_1_2_3",
+                           "left":"760px",
+                           "top":"260px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_11_1_3",
+                     "panelAudio":"e_3_11_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_s_sw f14",
+                           "id":"e_3_11_1_3_2",
+                           "bubbleContent":"Thanks.",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_3_11_1_3_2",
+                           "left":"50px",
+                           "top":"520px"
+                        },
+                        {  
+                           "divClass":"wb_m_ne f14",
+                           "id":"e_3_11_1_3_3",
+                           "bubbleContent":"Do you feel better?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_11_1_3_3",
+                           "left":"330px",
+                           "top":"350px"
+                        },
+                        {  
+                           "divClass":"wb_s_se f14",
+                           "id":"e_3_11_1_3_4",
+                           "bubbleContent":"A little.",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_3_11_1_3_4",
+                           "left":"180px",
+                           "top":"530px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_11_1_4",
+                     "panelAudio":"e_3_11_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_se f12",
+                           "id":"e_3_11_1_4_2",
+                           "bubbleContent":"Do you want try playing again, so I can show you around?",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_11_1_4_2",
+                           "left":"745px",
+                           "top":"480px"
+                        },
+                        {  
+                           "divClass":"wb_s_sw f14",
+                           "id":"e_3_11_1_4_3",
+                           "bubbleContent":"Thanks!",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_3_11_1_4_3",
+                           "left":"550px",
+                           "top":"480px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_3_11_w_1",
+               "e_1_6_w_1":"You’ve reached ending 5 of 6. Sam talked to Aadan about Laura being mean to him. How do you think Sam felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Aadan felt about it?",
+               "blueBox":"e_3_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"samir_active",
+               "secondCharacter":"aadan_inactive",
+               "secondCharacterFaceSlot":"aadan_neutral",
+               "character1":"samir",
+     			"character2":"aadan",
+               "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_3_11_f",
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_3_11_f",
+                "inactiveCharacter1":"samir",
+     			"inactiveCharacter2":"aadan",
+     			"character1":"samir_happy",
+     			"character2":"aadan_happy"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_3_12_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_12_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_12_1_1",
+                     "panelAudio":"e_3_10_1_2_1-3",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_se f12",
+                           "id":"e_3_12_1_1_2",
+                           "bubbleContent":"Okay, we’ll talk to a teacher about this on Monday.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_12_1_1_2",
+                           "left":"270px",
+                           "top":"150px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_12_1_2",
+					 "frImage":"f_3_12_1_2",
+                     "panelAudio":"e_3_12_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_s f14",
+                           "id":"e_3_5_1_1_2",
+                           "bubbleContent":"Later…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_5_1_1_2",
+                           "left":"525px",
+                           "top":"85px"
+                        },
+                        {  
+                           "divClass":"wb_l_s f12",
+                           "id":"e_3_12_1_2_3",
+                           "bubbleContent":"Hey Mister Byrne, can I talk to you for a minute?",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_1_2_3",
+                           "left":"490px",
+                           "top":"260px"
+                        },
+                        {  
+                           "divClass":"wb_m_sw f12",
+                           "id":"e_3_12_1_2_4",
+                           "bubbleContent":"Sure, Aadan. What’s up?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_12_1_2_4",
+                           "left":"700px",
+                           "top":"200px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_12_1_3",
+					 "frImage":"f_3_12_1_3",
+                     "panelAudio":"e_3_12_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_xl_e f12",
+                           "id":"e_3_12_1_3_2",
+                           "bubbleContent":"It’s my brother Sam. I think there’s some people bullying him in UniSaurus Realms and maybe here at school too.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_1_3_2",
+                           "left":"120px",
+                           "top":"480px"
+                        },
+                        {  
+                           "divClass":"wb_l_ne f12",
+                           "id":"e_3_12_1_3_3",
+                           "bubbleContent":"I’m sorry to hear that, but I’m glad you told me about it.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_1_3_3",
+                           "left":"450px",
+                           "top":"340px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_12_1_4",
+					 "frImage":"f_3_12_1_4",
+                     "panelAudio":"e_3_12_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_se f12",
+                           "id":"e_3_12_1_4_2",
+                           "bubbleContent":"It’s this girl Laura, in Aadan’s grade. When I was on Realms she told me that nobody wants to play with me.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_1_4_2",
+                           "left":"740px",
+                           "top":"540px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_3_12_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_3_12_2_1",
+               "frames":[  
+                  {  
+                     "image":"e_3_12_2_1",
+                     "panelAudio":"e_3_12_2_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_xxl_s",
+                           "id":"e_3_12_2_1_2",
+                           "bubbleContent":"Okay, let me tell you what’s going to happen. I’ll talk to Laura’s teacher and the hall monitors, and to the UniSaurus Realms moderators if I can. Then I’ll talk to the principal, and if we decide it’s a good idea we’ll talk to Laura and her parents about what happened.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_2_1_2",
+                           "left":"120px",
+                           "top":"345px"
+                        },
+                        {  
+                           "divClass":"wb_l_e f12",
+                           "id":"e_3_12_2_1_3",
+                           "bubbleContent":"We’ll check in on you, too, to make sure you’re okay and nobody else is bullying you.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_2_1_3",
+                           "left":"330px",
+                           "top":"240px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_12_2_2",
+                     "panelAudio":"e_3_12_2_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_m f14",
+                           "id":"e_3_12_2_2_2",
+                           "bubbleContent":"That afternoon…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_3_12_2_2_2",
+                           "left":"525px",
+                           "top":"85px"
+                        },
+                        {  
+                           "divClass":"wb_m_se",
+                           "id":"e_3_12_2_2_3",
+                           "bubbleContent":"Do you feel better?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_3_12_2_2_3",
+                           "left":"842px",
+                           "top":"194px"
+                        },
+                        {  
+                           "divClass":"wb_l_se f12",
+                           "id":"e_3_12_2_2_4",
+                           "bubbleContent":"I guess. I don’t want to get Laura in trouble…",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_2_2_4",
+                           "left":"618px",
+                           "top":"232px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_3_12_2_3",
+                     "panelAudio":"e_3_12_2_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_xl_nw f12",
+                           "id":"e_3_12_2_3_1",
+                           "bubbleContent":"She needs to learn that it’s not okay to be mean to people. I don’t know if she really meant to be so mean to you…",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_2_3_1",
+                           "left":"580px",
+                           "top":"330px"
+                        },
+                        {  
+                           "divClass":"wb_l_s f12",
+                           "id":"e_3_12_2_3_2",
+                           "bubbleContent":"… but if she did, she deserves to get in trouble.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_3_12_2_3_2",
+                           "left":"730px",
+                           "top":"570px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"thirdWrapup",
+               "blueBoxAudio":"e_3_12_w_1",
+               "e_1_6_w_1":"You’ve reached ending 6 of 6. Sam and Aadan decided to tell a teacher that Laura was mean to Sam. How do you think Sam felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Aadan felt about it?",
+               "blueBox":"e_3_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"samir_active",
+               "secondCharacter":"aadan_inactive",
+               "secondCharacterFaceSlot":"aadan_neutral",
+               "character1":"samir",
+     			"character2":"aadan",
+               "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_3_12_f",
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_3_12_f",
+               "inactiveCharacter1":"samir",
+     			"inactiveCharacter2":"aadan",
+     			"character1":"samir_happy",
+     			"character2":"aadan_happy"
+            }
+         ]
+      }
+   ]
+}

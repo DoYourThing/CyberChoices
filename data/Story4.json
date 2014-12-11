@@ -1,0 +1,2288 @@
+{  
+   "_comment": "2-styled-french-audio-clean - last edited Oct 10 5am - many french files need to downloaded from GD for this story",
+   "FrenchTitleImage":"f_4",
+   "EnglishTitleImage":"e_4",
+   "storyNumber":"storyLine4",
+   "storyId":"Story4",
+   "scene":[  
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_4_1_1_1",
+			   "storyBackgroundimageFr":"f_4_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_1_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_4_1_1_1",
+					 "frImage":"f_4_1_1_1",
+                     "panelAudio":"e_4_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_m_l f14",
+                           "id":"e_4_1_1_1_2",
+                           "bubbleContent":"How does it feel to try to fix your online rep?",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_4_1_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"nc_m_l f14",
+                           "id":"e_4_1_1_1_3",
+                           "bubbleContent":"Let’s visit Laura as she looks over her life online…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_4_1_1_1_3",
+                           "left":"40px",
+                           "top":"310px"
+                        },
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_4_1_1_1_4",
+                           "bubbleContent":"I don’t understand! Why is everybody mad at me?",
+                           "bubbleFontClass":"tb_m_text f12",
+                           "audioInfo":"e_4_1_1_1_4",
+                           "left":"150px",
+                           "top":"125px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_1_1_2",
+					 "frImage":"f_4_1_1_2",
+                     "panelAudio":"e_4_1_1_2_1",
+                     "bubbles":[  
+                        {
+                        	"divClass":"tb_m_ne f12",
+                           "id":"e_4_1_1_2_3",
+                           "bubbleContent":"Just because I said some mean things to that kid…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_1_1_2_3",
+                           "left":"480px",
+                           "top":"20px"
+                        },
+                        {
+                        	"divClass":"tb_s_ne f12",
+                           "id":"e_4_1_1_2_4",
+                           "bubbleContent":"And to Sasha…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_1_1_2_4",
+                           "left":"480px",
+                           "top":"200px"
+                        },
+                        {
+                        	"divClass":"nc_m_l f12",
+                           "id":"e_4_1_1_2_5",
+                           "bubbleContent":"And I posted that picture of Max throwing up in his locker…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_4_1_1_2_5",
+                           "left":"670px",
+                           "top":"90px"                           
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_1_1_3",
+					 "frImage":"f_4_1_1_3",
+                     "panelAudio":"e_4_1_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_laura",
+                           "id":"e_4_1_1_3_2",
+                           "bubbleContent":"It’s not my fault that people make me mad…",
+                           "bubbleFontClass":"cc_text f14",
+                           "audioInfo":"e_4_1_1_3_2",
+                           "left":"40px",
+                           "top":"390px"
+                        },
+                        {  
+                           "divClass":"cc cc_laura",
+                           "id":"e_4_1_1_3_3",
+                           "bubbleContent":"… but I guess I have to do something about it.",
+                           "bubbleFontClass":"cc_text f14",
+                           "audioInfo":"e_4_1_1_3_3",
+                           "left":"210px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_1_1_4",
+					 "frImage":"f_4_1_1_4",
+                     "panelAudio":"e_4_1_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_4_1_1_4_2",
+                           "bubbleContent":"Maybe I should try to fix my online rep…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_1_1_4_2",
+                           "left":"825px",
+                           "top":"290px"
+                        },
+                        {  
+                           "divClass":"cc cc_laura",
+                           "id":"e_4_1_1_4_3",
+                           "bubbleContent":"… or maybe I should figure out what to do when people make me mad.",
+                           "bubbleFontClass":"cc_text f14",
+                           "audioInfo":"e_4_1_1_4_3",
+                           "left":"525px",
+                           "top":"390px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_4_1_q",
+               "storyBackgroundimageFr":"f_4_1_q",
+               "solvedPageId":"17",
+               "sortingSceneIndex":"0",
+               "hashInfo":"sorting",
+               "titleAudio":"e_4_1_q_1",
+               "panelAudio":"e_4_1_i_s",
+               "VIpanelAudio":"e_4_1_i_v",
+               "activeAsk":"e_4_1_a_1",
+               "activeAskFr":"f_4_1_a_1",
+               "activeAskScene":"1",
+               "activePostScene":"7",
+               "activeAskHover":"e_4_1_a_1_h",
+               "activePostHover":"e_4_1_a_2_h",
+               "activeAskHoverFr":"f_4_1_a_1_h",
+               "activePostHoverFr":"f_4_1_a_2_h",
+               "activeAskLeft":"87",
+               "activeAskTop":"531",
+               "activePostTop":"531",
+               "activePostLeft":"671",
+               "activeAskLeftFr":"64",
+               "activeAskTopFr":"520",
+               "activePostTopFr":"518",
+               "activePostLeftFr":"708",
+               "activePost":"e_4_1_a_2",
+               "activePostFr":"f_4_1_a_2",
+               "activeAskHeight":"126",
+               "activeAskWidth":"212",
+               "activePostWidth":"332",
+               "activePostHeight":"128",
+               "activeAskHeightFr":"150",
+               "activeAskWidthFr":"256",
+               "activePostWidthFr":"256",
+               "activePostHeightFr":"126",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "sortingSceneIndex":"0",
+               "characterImage":"laura_thinking",
+               "inactiveCharacter":"laura_inactive",
+               "e_1_1_r_1":"I want people to stop being mad at me right now.",
+               "e_1_1_r_2":"A lot of people are already mad at me.",
+               "e_1_1_r_3":"I should try to fix the things I did that were wrong.",
+               "e_1_1_r_4":"If I keep getting mad at people, they’ll get mad at me again.",
+               "e_1_1_r_5":"My friends will probably stop being mad at me if I can learn to stop getting mad at them.",
+               "e_1_1_r_6":"I should learn to stop getting mad at my friends.",
+               "card1Audio":"e_4_1_r_1",
+               "card2Audio":"e_4_1_r_2",
+               "card3Audio":"e_4_1_r_3",
+               "card4Audio":"e_4_1_r_4",
+               "card5Audio":"e_5_1_r_5",
+               "card6Audio":"e_6_1_r_6",
+               "helpTextOne":"e_4_1_h_1",
+               "helpTextTwo":"e_4_1_h_2",
+               "helpTextOneFr":"f_4_1_h_1",
+               "helpTextTwoFr":"f_4_1_h_2",
+               "correctSortFeedbackAudio":"e_4_1_s_1",
+   				"correctSortFeedbackFrAudio":"f_4_1_s_1",
+   				"correctSortFeedbackVIAudio":"e_4_1_s_v",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Laura might fix her online rep and why she might learn how to stop getting mad so easily.",
+               "correctSortPurpleTextVI":"Press 1 if you think Laura should try to fix her online reputation, or press 2 if you think she should learn how to stop getting mad so easily.",
+               "purpleBoxText":"Drag the reasons why Laura should try to fix her online reputation to the left side of the screen and the reasons why she should learn how to stop getting mad so easily to the right.",
+               "correctSortPurpleText":"Click on “Fix My Online Rep” if you think Laura should try to fix her online reputation, or click on “Learn How to Stop Getting Mad” if you think she should learn how to stop getting mad so easily.",
+               "purpleBox":"e_4_1_i",
+               "helpContent1":"Even if a lot of people are mad at you, there are ways that you can fix your reputation online. Put the reasons why fixing Laura’s online rep might be the best choice with “Fix My Online Rep.” Put the reasons why it might be better to learn how to stop getting mad with “Learn How to Stop Getting Mad.”",
+               "helpContent2":"There are some things about being online that can make it easier to get mad at people. Put the reasons why learning to stop getting mad so easily might be the best thing for Laura to do with “Learn How to Stop Getting Mad.” Put the reasons why dealing with the people who are already mad at her might be the best thing to do with “Fix My Online Rep.”",
+               "firstHelpContent":"Even if a lot of people are mad at you, there are ways that you can fix your reputation online. Put the reasons why fixing Laura’s online rep might be the best choice with “Fix My Online Rep.” Put the reasons why it might be better to learn how to stop getting mad with “Learn How to Stop Getting Mad.”",
+               "secondHelpContent":"There are some things about being online that can make it easier to get mad at people. Put the reasons why learning to stop getting mad so easily might be the best thing for Laura to do with “Learn How to Stop Getting Mad.” Put the reasons why dealing with the people who are already mad at her might be the best thing to do with “Fix My Online Rep.”"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_4_2_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_2_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_4_2_1_1",
+					 "frImage":"f_4_2_1_1",
+                     "panelAudio":"e_4_2_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_4_2_1_1_2",
+                           "bubbleContent":"Let’s see what I can find out about how to fix my online rep.",
+                           "bubbleFontClass":"tb_m_text f12",
+                           "audioInfo":"e_4_2_1_1_2",
+                           "left":"150px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_2_1_2",
+					 "frImage":"f_4_2_1_2",
+                     "panelAudio":"e_4_2_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_laura f14",
+                           "id":"e_4_2_1_2_2",
+                           "bubbleContent":"Okay, so I can either take down the bad stuff about me…",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_4_2_1_2_2",
+                           "left":"38px",
+                           "top":"260px"
+                        },
+                        {  
+                           "divClass":"cc cc_laura f14",
+                           "id":"e_4_2_1_2_3",
+                           "bubbleContent":"… or make sure there’s more good stuff.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_4_2_1_2_3",
+                           "left":"200px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_2_1_3",
+					 "frImage":"f_4_2_1_3",
+                     "panelAudio":"e_4_2_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_ne f12",
+                           "id":"e_4_2_1_3_2",
+                           "bubbleContent":"I can take down the mean stuff I said, but I’d have to ask people to take down bad stuff about me…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_4_2_1_3_2",
+                           "left":"745px",
+                           "top":"5px"
+                        },
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_4_2_1_3_2",
+                           "bubbleContent":"But will people even notice if I start saying nice things?",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_2_1_3_3",
+                           "left":"520px",
+                           "top":"70px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimageFr":"f_4_2_q",
+               "solvedPageId":"18",
+               "sortingSceneIndex":"1",
+               "activeAskScene":"2",
+               "activePostScene":"5",
+               "yellowCard":"e_1_1_r",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Laura start deleting the bad things she said or press 2 to have her try to be nicer to people.",
+               "firstHelpContent":"When you say something online, people might read it a long time later. What are some reasons why deleting the mean things Laura said would help her? Put those with “Delete the Bad Stuff.” Put reasons why it might not help with the “Start Being Nicer.”",
+               "secondHelpContent":"People pay the most attention to how you’re acting now. Put the reasons why Laura should start being nicer to people with “Start Being Nicer.” Put the reasons why she should delete the mean things she said with “Delete the Bad Stuff.”",
+               "storyBackgroundimage":"e_4_2_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_4_2_q_1",
+               "panelAudio":"e_4_2_i_s",
+                "VIpanelAudio":"e_4_2_i_v",
+               "activeAsk":"e_4_2_a_1",
+               "activeAskHover":"e_4_2_a_1_h",
+               "activePost":"e_4_2_a_2",
+			   "activePostHover":"e_4_2_a_2_h",
+			   "activeAskFr":"f_4_2_a_1",
+               "activeAskHoverFr":"f_4_2_a_1_h",
+               "activePostFr":"f_4_2_a_2",
+			   "activePostHoverFr":"f_4_2_a_2_h",
+               "activeAskLeft":"67",
+               "activeAskTop":"533",
+               "activePostTop":"533",
+               "activePostLeft":"696",
+               "activeAskHeight":"135",
+               "activeAskWidth":"250",
+               "activePostWidth":"281",
+               "activePostHeight":"136",
+			   "activeAskLeftFr":"56",
+               "activeAskTopFr":"524",
+               "activePostTopFr":"515",
+               "activePostLeftFr":"707",
+               "activeAskHeightFr":"118",
+               "activeAskWidthFr":"282",
+               "activePostWidthFr":"262",
+               "activePostHeightFr":"145",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"laura_thinking",
+               "inactiveCharacter":"laura_inactive",
+               "e_1_1_r_1":"It might take people a while to notice that I’m being nicer.",
+               "e_1_1_r_2":"Even if I start being nice, the bad stuff I said is still out there.",
+               "e_1_1_r_3":"People who don’t know me might read the mean things I said if I don’t delete them.",
+               "e_1_1_r_4":"I can delete things I said, but not what other people said about me.",
+               "e_1_1_r_5":"It won’t help to delete bad stuff if I keep getting mad at people.",
+               "e_1_1_r_6":"My friends will stop being mad at me if I stop getting mad at them.",
+              	"card1Audio":"e_4_2_r_1",
+               "card2Audio":"e_4_2_r_2",
+               "card3Audio":"e_4_2_r_3",
+               "card4Audio":"e_4_2_r_4",
+               "card5Audio":"e_4_2_r_5",
+               "card6Audio":"e_4_2_r_6",
+               "helpTextOne":"e_4_2_h_1",
+               "helpTextTwo":"e_4_2_h_2",
+               "helpTextOneFr":"f_4_2_h_1",
+               "helpTextTwoFr":"f_4_2_h_2",
+               "correctSortFeedbackAudio":"e_4_2_s_1",
+   				"correctSortFeedbackFrAudio":"f_4_2_s_1",
+   				"correctSortFeedbackVIAudio":"e_4_2_s_v",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might tell Max how she feels and why she might stop and see if she’s mad before she talks to him.",
+               "purpleBoxText":"Drag the reasons why Sam might stay to the left side of the screen and the reasons why he might leave to the right.",
+               "purpleBox":"e_4_1_i",
+               "helpContent1":"When you say something online, people might read it a long time later. What are some reasons why deleting the mean things Laura said would help her? Put those with “Delete the Bad Stuff.” Put reasons why it might not help with the “Start Being Nicer.”",
+               "helpContent2":"People pay the most attention to how you’re acting now. Put the reasons why Laura should start being nicer to people with “Start Being Nicer.” Put the reasons why she should delete the mean things she said with “Delete the Bad Stuff.”"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_4_3_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_3_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_4_3_1_1",
+					 "frImage":"f_4_3_1_1",
+                     "panelAudio":"e_4_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_4_3_1_1_2",
+                           "bubbleContent":"I’ll start by checking out the things I said on TikTalk…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_3_1_1_2",
+                           "left":"140px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_3_1_2",
+					 "frImage":"f_4_3_1_2",
+                     "panelAudio":"e_4_3_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_3_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_laura_l_xl",
+                           "id":"e_4_3_1_2_2",
+                           "bubbleContent":"LAURA: HEY RILEY THAT TROLL REALLY SMASHED YOU</br>LAURA: HA HA EMILY NICE PIC - U LOOK RIDICULOUS!</br>LAURA: OK LEAH DON’T COME BACK TIL U LEARN TO PLAY",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_3_1_2_3",
+                           "left":"600px",
+                           "top":"160px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_3_1_3",
+					 "frImage":"f_4_3_1_3",
+                     "panelAudio":"e_4_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f16",
+                           "id":"e_4_3_1_3_2",
+                           "bubbleContent":"Yikes…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_3_1_3_2",
+                           "left":"140px",
+                           "top":"340px"
+                        },
+                        {  
+                           "divClass":"tb_s_n f14",
+                           "id":"e_4_3_1_3_3",
+                           "bubbleContent":"There’s a lot of bad stuff.",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_3_1_3_3",
+                           "left":"300px",
+                           "top":"300px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_3_1_4",
+					 "frImage":"f_4_3_1_4",
+                     "panelAudio":"e_4_3_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_laura",
+                           "id":"e_4_3_1_4_2",
+                           "bubbleContent":"Can I really get rid of it all? Or should I just delete my accounts and start over?",
+                           "bubbleFontClass":"cc_text f14",
+                           "audioInfo":"e_4_3_1_4_2",
+                           "left":"530px",
+                           "top":"390px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimageFr":"f_4_3_q",
+               "solvedPageId":"19",
+               "sortingSceneIndex":"2",
+               "activeAskScene":"3",
+               "activePostScene":"4",
+               "yellowCard":"e_1_1_r",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Laura keep deleting the bad things she said or press 2 to have her close her online accounts.",
+               "firstHelpContent":"How hard will it be for Laura to find and delete all the mean things she said? How well do you think it will work? Put the reasons why finding and deleting all the mean things Laura said will help her with “Keep Deleting the Bad Stuff.” Put the reasons why it might be better to just close her online accounts with “Close All My Accounts.”",
+               "storyBackgroundimage":"e_4_3_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_4_3_q_1",
+               "panelAudio":"e_4_3_i_s",
+               "VIpanelAudio":"e_4_3_i_v",
+               "activeAsk":"e_4_3_a_1",
+               "activeAskHover":"e_4_3_a_1_h",
+               "activePostHover":"e_4_3_a_2_h",
+               "activeAskLeft":"32",
+               "activeAskTop":"533",
+               "activePostTop":"533",
+               "activePostLeft":"685",
+               "activePost":"e_4_3_a_2",
+               "activeAskHeight":"135",
+               "activeAskWidth":"321",
+               "activePostWidth":"307",
+               "activePostHeight":"137",
+			   "activeAskFr":"f_4_3_a_1",
+               "activeAskHoverFr":"f_4_3_a_1_h",
+               "activePostHoverFr":"f_4_3_a_2_h",
+               "activeAskLeftFr":"50",
+               "activeAskTopFr":"523",
+               "activePostTopFr":"523",
+               "activePostLeftFr":"695",
+               "activePostFr":"f_4_3_a_2",
+               "activeAskHeightFr":"167",
+               "activeAskWidthFr":"282",
+               "activePostWidthFr":"292",
+               "activePostHeightFr":"120",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"laura_thinking",
+               "inactiveCharacter":"laura_inactive",
+               "e_1_1_r_1":"I don’t want to give up all the photos and characters I have on PixOne and Castle Realms.",
+               "e_1_1_r_2":"If I close my accounts I’ll have to re-friend everyone I know on TikTalk.",
+               "e_1_1_r_3":"Even if I close my accounts, my friends will know who I am when they see my new ones.",
+               "e_1_1_r_4":"If I close all my accounts I can make new ones and start fresh online.",
+               "e_1_1_r_5":"If I close my accounts all the bad stuff I said will disappear at once.",
+               "e_1_1_r_6":"It will take me a long time to delete all the bad stuff I said and I might not find it all.",
+               "card1Audio":"e_4_3_r_1",
+               "card2Audio":"e_4_3_r_2",
+               "card3Audio":"e_4_3_r_3",
+               "card4Audio":"e_4_3_r_4",
+               "card5Audio":"e_4_3_r_5",
+               "card6Audio":"e_4_3_r_6",
+               "helpTextOne":"e_4_3_h_1",
+               "helpTextTwo":"e_4_3_h_2",
+               "helpTextOneFr":"f_4_3_h_1",
+               "helpTextTwoFr":"f_4_3_h_2",
+				"correctSortFeedbackAudio":"e_4_3_s_1",
+				"correctSortFeedbackFrAudio":"f_4_3_s_1",
+				"correctSortFeedbackVIAudio":"e_4_3_s_v",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might keep deleting the mean things she said and why she might decide to just close her online accounts.",
+               "purpleBoxText":"Drag the reasons why Laura should keep deleting the bad stuff to the left side of the screen and the reasons why she should give up and close her accounts to the right.",
+               "purpleBox":"e_4_1_i",
+               "helpContent1":"How hard will it be for Laura to find and delete all the mean things she said? How well do you think it will work? Put the reasons why finding and deleting all the mean things Laura said will help her with “Keep Deleting the Bad Stuff.” Put the reasons why it might be better to just close her online accounts with “Close All My Accounts.”",
+               "helpContent2":"Will closing her online accounts be easier than finding and deleting all the mean things Laura said? How much will she lose if she closes her accounts? Put the reasons why closing her online accounts might help Laura with “Close All My Accounts.” Put the reasons why she might not want to close them with “Keep Deleting the Bad Stuff.”"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_4_4_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_4_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_4_4_1_1",
+					 "frImage":"f_4_4_1_1",
+                     "panelAudio":"e_4_4_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_laura f14",
+                           "id":"e_4_4_1_1_2",
+                           "bubbleContent":"I’m going to delete all the bad things I said…",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_4_4_1_1_2",
+                           "left":"40px",
+                           "top":"50px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_4_1_2",
+					 "frImage":"f_4_4_1_2",
+                     "panelAudio":"e_4_1_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f14",
+                           "id":"e_4_4_1_2_2",
+                           "bubbleContent":"… even if it takes…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_4_1_2_2",
+                           "left":"650px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_4_1_3",
+					 "frImage":"f_4_4_1_3",
+                     "panelAudio":"e_4_4_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f16",
+                           "id":"e_4_4_1_3_2",
+                           "bubbleContent":"… all day.",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_4_1_3_2",
+                           "left":"50px",
+                           "top":"400px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_4_1_4",
+					 "frImage":"f_4_4_1_4",
+                     "panelAudio":"e_4_4_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_laura f14",
+                           "id":"e_4_4_1_4_2",
+                           "bubbleContent":"Okay, I deleted all the mean stuff I ever said about anyone.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_4_4_1_4_2",
+                           "left":"525px",
+                           "top":"390px"
+                        },
+                        {  
+                           "divClass":"cc cc_laura f14",
+                           "id":"e_4_4_1_4_3",
+                           "bubbleContent":"Now I just have to start being nice to people!",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_4_4_1_4_3",
+                           "left":"700px",
+                           "top":"565px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_4_4_w_1",
+               "e_1_6_w_1":"You’ve reached ending 1 of 7. Laura deleted all of the mean things she ever said to anyone. How do you think she felt about how things turned out?",
+               "blueBox":"e_4_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_single_active",
+               "secondCharacterFaceSlot":"",
+               "character1":"laura_single",
+     			"character2":"",
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_4_4_f",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_4_4_f",
+               "inactiveCharacter1":"laura_single",
+     			"inactiveCharacter2":"",
+     			"character1":"laura_worried",
+     			"character2":""
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_5_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_5_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_5_1_1",
+                     "panelAudio":"e_4_5_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_4_5_1_1_2",
+                           "bubbleContent":"There’s no way I can delete all the mean things I said…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_5_1_1_2",
+                           "left":"40px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_4_5_1_1_2",
+                           "bubbleContent":"…so I guess I have to close my accounts and start over.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_5_1_1_3",
+                           "left":"360px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_5_1_2",
+					 "frImage":"f_4_5_1_2",
+                     "panelAudio":"e_4_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_laura f16",
+                           "id":"e_4_5_1_2_2",
+                           "bubbleContent":"Goodbye, Tyrannolaurus…",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_4_5_1_2_2",
+                           "left":"210px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_5_1_3",
+					 "frImage":"f_4_5_1_3",
+                     "panelAudio":"e_4_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_n f14",
+                           "id":"e_4_5_1_3_2",
+                           "bubbleContent":"This time I’m going to be nice to people, all the time.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_5_1_3_2",
+                           "left":"680px",
+                           "top":"5px"
+                        },
+                        {  
+                           "divClass":"tb_s_ne",
+                           "id":"e_4_5_1_3_3",
+                           "bubbleContent":"So long as they don’t make me mad…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_5_1_3_3",
+                           "left":"850px",
+                           "top":"60px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_4_5_w_1",
+               "e_1_6_w_1":"You’ve reached ending 2 of 7. Laura decided she had to start over. How do you think she felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Laura felt about it?",
+               "blueBox":"e_4_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_single_active",
+               "secondCharacterFaceSlot":"",
+               "character1":"laura_single",
+     			"character2":"",
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_4_5_f",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_4_5_f",
+                "inactiveCharacter1":"laura_single",
+     			"inactiveCharacter2":"",
+     			"character1":"laura_worried",
+     			"character2":""
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_6_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_6_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_6_1_1",
+                     "panelAudio":"e_4_6_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_ne f12",
+                           "id":"e_4_6_1_1_2",
+                           "bubbleContent":"From now on I’m going to be nice to everybody, all the time. Pretty soon people will forget I was ever mean to anyone.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_4_6_1_1_2",
+                           "left":"320px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_6_1_2",
+                     "panelAudio":"e_4_6_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_laura f14",
+                           "id":"e_4_6_1_2_2",
+                           "bubbleContent":"Hey, there’s a pteranophoenix! I can use her egg to get fire powers…if she doesn’t kill me first!",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_4_6_1_2_2",
+                           "left":"700px",
+                           "top":"235px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_6_1_3",
+                     "panelAudio":"e_4_6_1_3_1",
+                     "bubbles":[  
+                        {  
+                            "parentClass":"ic_vs",
+							"padding":"ic_padding",
+                           "parentClassId":"e_4_6_1_3_1",
+                           "counter":"0",
+						   "divClass":"ic_text ic_tyran",
+                           "id":"e_4_6_1_3_2",
+                           "bubbleContent":"TYRANNOLAURUS: Hey, that’s mine!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_4_6_1_3_2",
+                           "left":"40px",
+                           "top":"560px"
+                        },
+                        {  
+                           	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_4_6_1_3_1",
+                           "counter":"1",
+						   "divClass":"ic_text ic_violet",
+                           "id":"e_4_6_1_3_3",
+                           "bubbleContent":"DIMETRAADAN: Sorry, I got here first.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_4_6_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_6_1_4",
+                     "panelAudio":"e_4_6_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f14",
+                           "id":"e_4_6_1_4_2",
+                           "bubbleContent":"He stole that egg from me!",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_6_1_4_2",
+                           "left":"540px",
+                           "top":"440px"
+                        },
+                        {  
+                           "divClass":"tb_s_nw",
+                           "id":"e_4_6_1_4_3",
+                           "bubbleContent":"I really want to tell him how I feel…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_6_1_4_3",
+                           "left":"610px",
+                           "top":"350px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne",
+                           "id":"e_4_6_1_4_4",
+                           "bubbleContent":"… but maybe I should get someone to help me cool down.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_6_1_4_4",
+                           "left":"820px",
+                           "top":"320px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimageFr":"f_4_6_q",
+               "solvedPageId":"20",
+               "sortingSceneIndex":"3",
+               "activeAskScene":"6",
+               "activePostScene":"7",
+               "yellowCard":"e_1_1_r",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Laura tell Aadan she’s mad or press 2 to have her get help cooling down.",
+               "secondHelpContent":"Why might telling Aadan she’s mad be the right thing to do? Put the reasons why it might be right with “Tell Aadan I’m Mad.” Put the reasons why it might be wrong with “Get Help Cooling Down.”",
+               "storyBackgroundimage":"e_4_6_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_4_6_q_1",
+               "panelAudio":"e_4_6_i_s",
+               "VIpanelAudio":"e_4_6_i_v",
+               "activeAsk":"e_4_6_a_1",
+               "activeAskHover":"e_4_6_a_1_h",
+               "activePostHover":"e_4_6_a_2_h",
+               "activeAskLeft":"66",
+               "activeAskTop":"533",
+               "activePostTop":"533",
+               "activePostLeft":"673",
+               "activePost":"e_4_6_a_2",
+               "activeAskHeight":"136",
+               "activeAskWidth":"252",
+               "activePostWidth":"336",
+               "activePostHeight":"136",
+			   "activeAskFr":"f_4_6_a_1",
+               "activeAskHoverFr":"f_4_6_a_1_h",
+               "activePostHoverFr":"f_4_6_a_2_h",
+               "activeAskLeftFr":"49",
+               "activeAskTopFr":"518",
+               "activePostTopFr":"526",
+               "activePostLeftFr":"718",
+               "activePostFr":"f_4_6_a_2",
+               "activeAskHeightFr":"164",
+               "activeAskWidthFr":"282",
+               "activePostWidthFr":"236",
+               "activePostHeightFr":"144",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"laura_thinking",
+               "inactiveCharacter":"laura_inactive",
+               "e_1_1_r_1":"It was wrong for Aadan to steal the pteranophoenix egg from me.",
+               "e_1_1_r_2":"If I tell him I’m mad it might make me feel better.",
+               "e_1_1_r_3":"I shouldn’t let people push me around.",
+               "e_1_1_r_4":"If I get mad at Aadan people might stay mad at me.",
+               "e_1_1_r_5":"I shouldn’t be mean to people online, even when they do things that get me mad.",
+               "e_1_1_r_6":"I shouldn’t get mad about little things like this.",
+               "card1Audio":"e_4_6_r_1",
+               "card2Audio":"e_4_6_r_2",
+               "card3Audio":"e_4_6_r_3",
+               "card4Audio":"e_4_6_r_4",
+               "card5Audio":"e_4_6_r_5",
+               "card6Audio":"e_4_6_r_6",
+               "helpTextOne":"e_4_6_h_1",
+               "helpTextTwo":"e_4_6_h_2",
+               "helpTextOneFr":"f_4_6_h_1",
+               "helpTextTwoFr":"f_4_6_h_2",
+				"correctSortFeedbackAudio":"e_4_6_s_1",
+				"correctSortFeedbackFrAudio":"f_4_6_s_1",
+				"correctSortFeedbackVIAudio":"e_4_6_s_v",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Laura might tell Aadan she’s mad and why she might get help cooling down.",
+               "purpleBoxText":"Drag the reasons why Laura should tell Aadan she’s mad to the left side of the screen and the reasons why she should get someone to help her cool down to the right.",
+               "purpleBox":"e_4_1_i",
+               "helpContent1":"Why might telling Aadan she’s mad make things better for Laura? Put the reasons why that might be the best choice with “Tell Aadan I’m Mad.” Put the reasons why it might be better to get someone to help her cool down with “Get Help Cooling Down.”",
+               "helpContent2":"Why might telling Aadan she’s mad be the right thing to do? Put the reasons why it might be right with “Tell Aadan I’m Mad.” Put the reasons why it might be wrong with “Get Help Cooling Down.”"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_7_1_1",
+               "hashInfo":"content",
+               "title-Audio":"g_4_7_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_7_1_1",
+                     "panelAudio":"e_4_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw",
+                           "id":"e_4_7_1_1_2",
+                           "bubbleContent":"I’m going to tell that thief just what I think of him!",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_7_1_1_2",
+                           "left":"220px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_7_1_2",
+                     "panelAudio":"e_4_7_1_2_1",
+                     "bubbles":[  
+                        {  
+                            "parentClass":"ic_vs",
+							"padding":"ic_padding",
+                           "parentClassId":"e_4_7_1_2_1",
+                           "counter":"0",
+						   "divClass":"ic_text ic_tyran",
+                           "id":"e_4_7_1_2_2",
+                           "bubbleContent":"TYRANNOLAURUS: You stole my egg! That’s cheating!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_4_7_1_2_2",
+                           "left":"520px",
+                           "top":"250px"
+                        },
+                        {  
+                            "parentClass":"ic_vs",
+							"padding":"ic_padding",
+                           "parentClassId":"e_4_7_1_2_1",
+                           "counter":"1",
+						   "divClass":"ic_text ic_violet",
+                           "id":"e_4_7_1_2_3",
+                           "bubbleContent":"DIMETRAADAN: No it isn’t…",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_4_7_1_2_3",
+                           "left":"620px",
+                           "top":"320px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_7_1_3",
+                     "panelAudio":"e_4_7_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"ic_vs",
+							"padding":"ic_padding",
+                           "parentClassId":"e_4_7_1_3_1",
+                           "counter":"0",
+						   "divClass":"ic_text ic_violet",
+                           "id":"e_4_7_1_3_2",
+                           "bubbleContent":"DIMETRAADAN: … and I don’t have to stay here and talk to you.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_4_7_1_3_2",
+                           "left":"210px",
+                           "top":"560px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_7_1_4",
+                     "panelAudio":"e_4_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_4_7_1_4_2",
+                           "bubbleContent":"So much for being nice to people… he just made me so mad.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_7_1_4_2",
+                           "left":"530px",
+                           "top":"370px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne",
+                           "id":"e_4_7_1_4_3",
+                           "bubbleContent":"I guess I do need help learning to cool down.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_7_1_4_3",
+                           "left":"820px",
+                           "top":"320px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_4_7_w_1",
+               "e_1_6_w_1":"You’ve reached ending 3 of 7. Laura tried to be nicer online, but she lost her temper when things didn’t go her way. How do you think she felt about how things turned out?",
+               "blueBox":"e_4_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_single_active",
+               "secondCharacterFaceSlot":"",
+               "character1":"laura_single",
+     			"character2":"",
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_4_7_f",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_4_7_f",
+               "inactiveCharacter1":"laura_single",
+     			"inactiveCharacter2":"",
+     			"character1":"laura_sad",
+     			"character2":""
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_8_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_8_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_8_1_1",
+                     "panelAudio":"e_4_8_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_n f14",
+                           "id":"e_4_8_1_1_2",
+                           "bubbleContent":"I know Violet used to get mad at people all the time. Maybe she can help me learn to cool down.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_4_8_1_1_2",
+                           "left":"0px",
+                           "top":"30px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_8_1_2",
+                     "panelAudio":"e_4_8_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_s f12",
+                           "id":"e_4_8_1_2_2",
+                           "bubbleContent":"… I just get so mad sometimes, I post without thinking about what I’m saying.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_4_8_1_2_2",
+                           "left":"740px",
+                           "top":"260px"
+                        },
+                        {  
+                           "divClass":"wb_m_sw f12",
+                           "id":"e_4_8_1_2_3",
+                           "bubbleContent":"I know what that’s like.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_8_1_2_3",
+                           "left":"480px",
+                           "top":"270px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_8_1_3",
+                     "panelAudio":"e_4_8_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_xl_e",
+                           "id":"e_4_8_1_3_2",
+                           "bubbleContent":"The most important thing is to learn to know when you’re mad. If you’re feeling angry, then you should take some time to cool down – or ask someone to read what you’re going to say before you post it.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_4_8_1_3_2",
+                           "left":"250px",
+                           "top":"500px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_8_1_4",
+                     "panelAudio":"e_4_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_s f16",
+                           "id":"e_1_5_1_1_2",
+                           "bubbleContent":"Later…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_5_1_1_2",
+                           "left":"525px",
+                           "top":"390px"
+                        },
+                        {  
+                           "divClass":"tb_s_nw f14",
+                           "id":"e_4_8_1_4_3",
+                           "bubbleContent":"Hey, what’s that?",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_8_1_4_3",
+                           "left":"720px",
+                           "top":"400px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"g_4_8_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_8_2_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_8_2_1",
+                     "frImage":"f_4_8_2_1",
+                     "panelAudio":"e_4_8_2_1_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_8_2_1_1",
+                           "counter":"0",
+                           "divClass":"tt_laura_l_s",
+                           "id":"e_4_8_2_1_2",
+                           "bubbleContent":"HEY MAX Y DID U POST THAT?",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_8_2_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_8_2_1_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_l",
+                           "id":"e_4_8_2_1_3",
+                           "bubbleContent":"I JUST FOUND OUT U POSTED THAT PIC OF ME THROWING UP IN MY LOCKER",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_4_8_2_1_3"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_8_2_1_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_m",
+                           "id":"e_4_8_2_1_4",
+                           "bubbleContent":"SO HERES A PICTURE OF U LOOKING SILLY",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_4_8_2_1_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_8_2_2",
+                     "panelAudio":"e_4_6_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f16",
+                           "id":"e_4_8_2_2_2",
+                           "bubbleContent":"Why would he do that?",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_8_2_2_2",
+                           "left":"490px",
+                           "top":"60px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f14",
+                           "id":"e_4_8_2_2_3",
+                           "bubbleContent":"I’m going to let him know just how I feel…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_8_2_2_3",
+                           "left":"800px",
+                           "top":"20px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimageFr":"f_4_8_q",
+               "solvedPageId":"21",
+               "sortingSceneIndex":"4",
+               "activeAskScene":"11",
+               "activePostScene":"8",
+               "yellowCard":"e_1_1_r",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Laura tell Max how she feels or press 2 to have her stop and check to see if she’s mad.",
+               "secondHelpContent":"Put the reasons why telling Max how she feels might be the right thing to do with “Tell Max How I Feel.” Put the reasons why it might be the wrong thing to do with “Stop and See if I’m Mad.”",
+               "storyBackgroundimage":"e_4_8_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_4_8_q_1",
+               "panelAudio":"e_4_8_i_s",
+               "VIpanelAudio":"e_4_8_i_v",
+               "activeAsk":"e_4_8_a_1",
+               "activeAskHover":"e_4_8_a_1_h",
+               "activePostHover":"e_4_8_a_2_h",
+               "activeAskLeft":"36",
+               "activeAskTop":"533",
+               "activePostTop":"533",
+               "activePostLeft":"685",
+               "activePost":"e_4_8_a_2",
+               "activeAskHeight":"134",
+               "activeAskWidth":"317",
+               "activePostWidth":"304",
+               "activePostHeight":"137",
+			   "activeAskFr":"f_4_8_a_1",
+               "activeAskHoverFr":"f_4_8_a_1_h",
+               "activePostHoverFr":"f_4_8_a_2_h",
+               "activeAskLeftFr":"28",
+               "activeAskTopFr":"517",
+               "activePostTopFr":"525",
+               "activePostLeftFr":"707",
+               "activePostFr":"f_4_8_a_2",
+               "activeAskHeightFr":"173",
+               "activeAskWidthFr":"337",
+               "activePostWidthFr":"263",
+               "activePostHeightFr":"165",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"laura_thinking",
+               "inactiveCharacter":"laura_inactive",
+               "e_1_1_r_1":"It was wrong for Max to share that picture of me.",
+               "e_1_1_r_2":"Telling Max how I feel might make me feel better.",
+               "e_1_1_r_3":"If I tell Max how I feel he might take down the photo.",
+               "e_1_1_r_4":"I should be in control of how I feel and what I say.",
+               "e_1_1_r_5":"Cooling down before answering might make me feel better.",
+               "e_1_1_r_6":"If I do anything while I’m mad it might make things worse.",
+               "card1Audio":"e_4_8_r_1",
+               "card2Audio":"e_4_8_r_2",
+               "card3Audio":"e_4_8_r_3",
+               "card4Audio":"e_4_8_r_4",
+               "card5Audio":"e_4_8_r_5",
+               "card6Audio":"e_4_8_r_6",
+               "helpTextOne":"e_4_8_h_1",
+               "helpTextTwo":"e_4_8_h_2",
+               "helpTextOneFr":"f_4_8_h_1",
+               "helpTextTwoFr":"f_4_8_h_2",
+               "correctSortFeedbackAudio":"e_4_8_s_1",
+   				"correctSortFeedbackFrAudio":"f_4_8_s_1",
+   				"correctSortFeedbackVIAudio":"e_4_8_s_v",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might tell Max how she feels and why she might stop and see if she’s mad before she talks to him.",
+               "purpleBoxText":"Drag the reasons why Laura should tell Max how she feels to the left side of the screen and the reasons why she should stop to see if she’s mad to the right.",
+               "purpleBox":"e_4_1_i",
+               "firstHelpContent":"Drag the reasons why Laura should tell Max how she feels to the left side of the screen and the reasons why she should stop to see if she’s mad to the right.",
+               "helpContent1":"Put the reasons why telling Max how she feels might make things better with “Tell Max How I Feel.” Put the reasons why it might make things worse with “Stop and See If I’m Mad.”",
+               "helpContent2":"Put the reasons why telling Max how she feels might be the right thing to do with “Tell Max How I Feel.” Put the reasons why it might be the wrong thing to do with “Stop and See if I’m Mad.”"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_9_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_9_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_9_1_1",
+                     "panelAudio":"e_4_9_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_4_9_1_2_2",
+                           "bubbleContent":"Hold on. Remember what Violet told you…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_9_1_1_2",
+                           "left":"20px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_9_1_2",
+                     "panelAudio":"e_4_9_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_4_9_1_2_2",
+                           "bubbleContent":"I feel tense and my heart is beating fast. I’m definitely mad!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_9_1_2_2",
+                           "left":"450px",
+                           "top":"40px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f14",
+                           "id":"e_4_9_1_2_3",
+                           "bubbleContent":"I shouldn’t reply to him right away…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_9_1_2_3",
+                           "left":"800px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_9_1_3",
+                     "panelAudio":"e_4_9_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_4_9_1_3_2",
+                           "bubbleContent":"Maybe I should get offline for a while and go outside…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_9_1_3_2",
+                           "left":"500px",
+                           "top":"280px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne",
+                           "id":"e_4_9_1_3_3",
+                           "bubbleContent":"… or I could get someone to look at what I’m going to say before I post it.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_9_1_3_3",
+                           "left":"785px",
+                           "top":"290px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimageFr":"f_4_9_q",
+               "solvedPageId":"22",
+               "sortingSceneIndex":"5",
+               "activeAskScene":"9",
+               "activePostScene":"10",
+               "yellowCard":"e_1_1_r",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Laura go offline or press 2 to have her ask Violet for help.",
+               "storyBackgroundimage":"e_4_9_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_4_9_q_1",
+               "panelAudio":"e_4_9_i_s",
+               "VIpanelAudio":"e_4_9_i_v",
+               "activeAsk":"e_4_9_a_1",
+               "activeAskHover":"e_4_9_a_1_h",
+               "activePostHover":"e_4_9_a_2_h",
+               "activeAskLeft":"62",
+               "activeAskTop":"532",
+               "activePostTop":"535",
+               "activePostLeft":"710",
+               "activePost":"e_4_9_a_2",
+               "activeAskHeight":"81",
+               "activeAskWidth":"260",
+               "activePostWidth":"250",
+               "activePostHeight":"70",
+			   "activeAskFr":"f_4_9_a_1",
+               "activeAskHoverFr":"f_4_9_a_1_h",
+               "activePostHoverFr":"f_4_9_a_2_h",
+               "activeAskLeftFr":"28",
+               "activeAskTopFr":"523",
+               "activePostTopFr":"516",
+               "activePostLeftFr":"677",
+               "activePostFr":"f_4_9_a_2",
+               "activeAskHeightFr":"136",
+               "activeAskWidthFr":"330",
+               "activePostWidthFr":"316",
+               "activePostHeightFr":"144",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"laura_thinking",
+               "inactiveCharacter":"laura_inactive",
+               "e_1_1_r_1":"Going offline and going outside for awhile might make me feel better.",
+               "e_1_1_r_2":"If I’m offline, I can’t do anything to make anybody mad at me.",
+               "e_1_1_r_3":"Doing things outside always makes me feel better.",
+               "e_1_1_r_4":"I want to answer Max but I’m worried I’ll say something I don’t mean.",
+               "e_1_1_r_5":"Violet knows a lot about how to keep cool online.",
+               "e_1_1_r_6":"I’m worried I’ll say something I don’t mean if I talk to Max while I’m mad.",
+                "card1Audio":"e_4_9_r_1",
+               "card2Audio":"e_4_9_r_2",
+               "card3Audio":"e_4_9_r_3",
+               "card4Audio":"e_4_9_r_4",
+               "card5Audio":"e_4_9_r_5",
+               "card6Audio":"e_4_9_r_6",
+               "helpTextOne":"e_4_9_h_1",
+               "helpTextTwo":"e_4_9_h_2",
+               "helpTextOneFr":"f_4_9_h_1",
+               "helpTextTwoFr":"f_4_9_h_2",
+               "correctSortFeedbackAudio":"e_4_9_s_1",
+   				"correctSortFeedbackFrAudio":"f_4_9_s_1",
+   				"correctSortFeedbackVIAudio":"e_4_9_s_v",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might get offline and go outside for a while and why she might ask Violet to read what she wants to say to Max.",
+               "purpleBoxText":"Drag the reasons why Laura should go outside for awhile to the left side of the screen and the reasons why she should get someone else to read her post to the right.",
+               "purpleBox":"e_4_1_i",
+               "helpContent1":"When you have trouble online, sometimes getting offline and going outside can make you feel better. Put the reasons why going outside might be the best choice with “Go Offline.” Put the reasons why it might be better to ask Violet to read her post with “Ask Violet.”",
+               "helpContent2":"Sometimes it can be hard to guess how something you say will make people feel. Put the reasons why asking Violet to read her post might be a good idea with “Ask Violet.” Put the reasons why it might be better to go offline with “Go Offline.”"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_10_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_10_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_10_1_1",
+                     "panelAudio":"e_4_10_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f12",
+                           "id":"e_4_10_1_1_2",
+                           "bubbleContent":"Time to go out for awhile…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_10_1_1_2",
+                           "left":"30px",
+                           "top":"30px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_4_10_1_1_3",
+                           "bubbleContent":"… maybe I’ll post something if I’m still angry later.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_10_1_1_3",
+                           "left":"390px",
+                           "top":"50px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_10_1_2",
+                     "panelAudio":"e_4_10_1_2_1",
+                     "bubbles":[  
+                     ]
+                  },
+                  {  
+                     "image":"g_4_10_1_3",
+                     "panelAudio":"e_4_10_1_3_1",
+                     "bubbles":[  
+                     ]
+                  },
+                  {  
+                     "image":"g_4_10_1_4",
+                     "panelAudio":"e_4_10_1_4_1",
+                     "bubbles":[  
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"g_4_10_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_10_2_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_10_2_1",
+                     "panelAudio":"e_4_10_2_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_4_10_2_1_2",
+                           "bubbleContent":"That was fun. I’m glad I went out…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_10_2_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_4_10_2_1_3",
+                           "bubbleContent":"… now that I’ve cooled down, I know what I want to say to Max.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_10_2_1_3",
+                           "left":"350px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_10_2_2",
+					 "frImage":"f_4_10_2_2",
+                     "panelAudio":"e_4_10_2_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_10_2_2_1",
+                           "counter":"0",
+                           "divClass":"tt_laura_l_l",
+                           "id":"e_4_10_2_2_2",
+                           "bubbleContent":"Hey Max, I’m sorry I posted that pic of you throwing up in your locker… you were right to be mad.",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_10_2_2_1",
+                           "left":"650px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_4_10_2_3",
+					 "frImage":"f_4_10_2_3",
+                     "panelAudio":"e_4_10_2_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_10_2_3_1",
+                           "counter":"0",
+                           "divClass":"tt_max_l_l f12",
+                           "id":"e_4_10_2_3_2",
+                           "bubbleContent":"It’s okay. I’m not mad anymore… and I shouldn’t have posted that picture of you.",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_10_2_3_2",
+                           "left":"600px",
+                           "top":"435px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_10_2_3_1",
+                           "counter":"1",
+                           "divClass":"tt_laura_r_m f12",
+                           "id":"e_4_10_2_3_3",
+                           "bubbleContent":"Thanks. Want to play Realms?",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_4_10_2_3_3"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_10_2_3_1",
+                           "counter":"1",
+                           "divClass":"tt_max_l_s f14",
+                           "id":"e_4_10_2_3_4",
+                           "bubbleContent":"Sure!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_10_2_3_4"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_4_10_w_1",
+               "e_1_6_w_1":"You’ve reached ending 4 of 7. Laura decided to wait for awhile before telling Max how she felt. How do you think she felt about how things worked out?",
+               "e_1_6_w_2":"How do you think Max felt about it?",
+               "blueBox":"e_4_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"max_inactive",
+               "secondCharacterFaceSlot":"max",
+               "character1":"laura_left",
+     			"character2":"max_inactive",
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_4_10_f",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_4_10_f",
+               "inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"max",
+     			"character1":"laura_happy",
+     			"character2":"max_happy"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_11_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_11_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_11_1_1",
+                     "panelAudio":"e_4_1_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_4_11_1_1_2",
+                           "bubbleContent":"Violet told me not to post anything when I’m mad.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_11_1_1_2",
+                           "left":"40px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f14",
+                           "id":"e_4_11_1_1_3",
+                           "bubbleContent":"Maybe I should ask her before I say anything to Max…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_11_1_1_3",
+                           "left":"350px",
+                           "top":"30px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_11_1_2",
+                     "panelAudio":"e_4_8_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_s f12",
+                           "id":"e_4_11_1_2_2",
+                           "bubbleContent":"… Well, what do you want to say to him?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_1_2_2",
+                           "left":"800px",
+                           "top":"280px"
+                        },
+                        {  
+                           "divClass":"wb_m_w",
+                           "id":"e_4_11_1_2_3",
+                           "bubbleContent":"I want to tell him to take that picture down right now…",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_1_2_3",
+                           "left":"400px",
+                           "top":"190px"
+                        },
+                        {  
+                           "divClass":"wb_l_s f12",
+                           "id":"e_4_11_1_2_4",
+                           "bubbleContent":"And that it’s not my fault he got sick in his locker!",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_4_11_1_2_4",
+                           "left":"510px",
+                           "top":"280px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_11_1_3",
+                     "panelAudio":"e_4_11_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_e f12",
+                           "id":"e_4_11_1_3_2",
+                           "bubbleContent":"Do you really think that’s going to make anything better?",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_4_11_1_3_2",
+                           "left":"220px",
+                           "top":"550px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_11_1_4",
+                     "panelAudio":"e_4_11_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_s_sw f12",
+                           "id":"e_4_11_1_4_2",
+                           "bubbleContent":"I guess not…",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_4_11_1_4_2",
+                           "left":"600px",
+                           "top":"580px"
+                        },
+                        {  
+                           "divClass":"wb_m_e f12",
+                           "id":"e_4_11_1_4_3",
+                           "bubbleContent":"So what should I say?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_1_4_3",
+                           "left":"780px",
+                           "top":"530px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"g_4_11_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_11_2_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_11_2_1",
+                     "panelAudio":"e_4_11_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_e f12",
+                           "id":"e_4_11_2_1_2",
+                           "bubbleContent":"Well, you don’t have to say anything…",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_2_1_2",
+                           "left":"250px",
+                           "top":"200px"
+                        },
+                        {  
+                           "divClass":"wb_m_se f12",
+                           "id":"e_4_11_2_1_3",
+                           "bubbleContent":"… but maybe you could say you’re sorry?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_2_1_3",
+                           "left":"180px",
+                           "top":"280px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_11_2_2",
+					 "frImage":"f_4_11_2_2",
+                     "panelAudio":"e_4_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_s_nw f12",
+                           "id":"e_4_11_2_2_2",
+                           "bubbleContent":"I guess so…",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_4_11_2_2_2",
+                           "left":"700px",
+                           "top":"70px"
+                        },
+                        {  
+                           "divClass":"wb_m_sw f12",
+                           "id":"e_4_11_2_2_3",
+                           "bubbleContent":"Hey, he took the photo down.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_2_2_3",
+                           "left":"650px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_11_2_3",
+					 "frImage":"f_4_11_2_3",
+                     "panelAudio":"e_4_11_2_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_se f12",
+                           "id":"e_4_11_2_3_2",
+                           "bubbleContent":"Are you still mad?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_2_3_2",
+                           "left":"250px",
+                           "top":"570px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_11_2_4",
+					 "frImage":"f_4_11_2_4",
+                     "panelAudio":"e_4_11_2_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_sw f12",
+                           "id":"e_4_11_2_4_2",
+                           "bubbleContent":"No, I guess not.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_11_2_4_2",
+                           "left":"500px",
+                           "top":"550px"
+                        },
+                        {  
+                           "divClass":"wb_s_e f12",
+                           "id":"e_4_11_2_4_3",
+                           "bubbleContent":"Thanks!",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_4_11_2_4_3",
+                           "left":"730px",
+                           "top":"480px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_4_11_w_1",
+               "e_1_6_w_1":"You’ve reached ending 5 of 7. Laura decided to talk to Violet before she said anything to Max. How do you think Laura felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Violet felt about it?",
+               "blueBox":"e_4_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"violet_inactive",
+               "secondCharacterFaceSlot":"violet_neutral",
+               "character1":"laura_left",
+     			"character2":"violet",
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_4_11_f",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_4_11_f",
+               "inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"violet",
+     			"character1":"laura_happy",
+     			"character2":"violet_happy"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_12_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_12_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_12_1_1",
+					 "frImage":"f_4_12_1_1",
+                     "panelAudio":"e_4_12_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_12_1_1_1",
+                           "counter":"0",
+                           "divClass":"tt_laura_l_m f12",
+                           "id":"e_4_12_1_1_2",
+                           "bubbleContent":"TAKE THAT PICTURE DOWN RIGHT NOW!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_12_1_1_2",
+                           "left":"40px",
+                           "top":"200px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_12_1_1_1",
+                           "counter":"1",
+                           "divClass":"tt_laura_l_m f12",
+                           "id":"e_4_12_1_1_3",
+                           "bubbleContent":"IT’S NOT MY FAULT U GOT SICK IN UR LOCKER",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_12_1_1_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_12_1_2",
+					 "frImage":"f_4_12_1_2",
+                     "panelAudio":"e_4_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_1_1_1_1",
+                           "counter":"0",
+                           "divClass":"tt_max_r_m f12",
+                           "id":"e_4_12_1_2_2",
+                           "bubbleContent":"ITS UR FAULT PEOPLE FOUND OUT ABOUT IT!",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_4_12_1_2_2",
+                           "left":"40px",
+                           "top":"400px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_1_1_1_1",
+                           "counter":"1",
+                           "divClass":"tt_laura_l_s f14",
+                           "id":"e_4_12_1_2_3",
+                           "bubbleContent":"DON’T BE SUCH A BABY!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_4_12_1_2_3"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_1_1_1_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_s f14",
+                           "id":"e_4_12_1_2_4",
+                           "bubbleContent":"OH YEAH?",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_4_12_1_2_4"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_4_1_1_1_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_m f12",
+                           "id":"e_4_12_1_2_5",
+                           "bubbleContent":"THERES OTHER STUFF I CAN TELL PEOPLE ABOUT U…",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_4_12_1_2_5"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_12_1_3",
+					 "frImage":"f_4_12_1_3",
+                     "panelAudio":"e_4_6_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw",
+                           "id":"e_4_12_1_3_2",
+                           "bubbleContent":"Oh, no! I didn’t mean to get mad like that.",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_12_1_3_2",
+                           "left":"520px",
+                           "top":"60px"
+                        },
+                        {  
+                           "divClass":"tb_s_n",
+                           "id":"e_4_12_1_3_3",
+                           "bubbleContent":"I don’t want to make things even worse…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_12_1_3_3",
+                           "left":"680px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne",
+                           "id":"e_4_12_1_3_4",
+                           "bubbleContent":"Should I go talk to him in person, or just leave?",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_12_1_3_4",
+                           "left":"820px",
+                           "top":"30px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimageFr":"f_4_12_q",
+               "solvedPageId":"23",
+               "sortingSceneIndex":"6",
+               "activeAskScene":"13",
+               "activePostScene":"12",
+               "yellowCard":"e_1_1_r",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Laura talk to Max offline or press 2 to have her log off of PixOne.",
+              "secondHelpContent":"It’s easier to say mean things to somebody when you’re talking to them online. Put the reasons why talking to Max offline might make things better for Laura with “Talk to Max.” Put the reasons why it might make things worse with “Log Off PixOne.”",
+               "storyBackgroundimage":"e_4_12_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_4_12_q_1",
+               "panelAudio":"e_4_12_i_s",
+               "VIpanelAudio":"e_4_12_i_v",
+               "activeAsk":"e_4_12_a_1",
+               "activeAskHover":"e_4_12_a_1_h",
+               "activePostHover":"e_4_12_a_2_h",
+               "activeAskLeft":"52",
+               "activeAskTop":"532",
+               "activePostTop":"532",
+               "activePostLeft":"738",
+               "activePost":"e_4_12_a_2",
+               "activeAskHeight":"137",
+               "activeAskWidth":"286",
+               "activePostWidth":"198",
+               "activePostHeight":"137",
+			   "activeAskFr":"f_4_12_a_1",
+               "activeAskHoverFr":"f_4_12_a_1_h",
+               "activePostHoverFr":"f_4_12_a_2_h",
+               "activeAskLeftFr":"43",
+               "activeAskTopFr":"518",
+               "activePostTopFr":"517",
+               "activePostLeftFr":"663",
+               "activePostFr":"f_4_12_a_2",
+               "activeAskHeightFr":"125",
+               "activeAskWidthFr":"297",
+               "activePostWidthFr":"342",
+			   "activePostHeightFr":"125",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"laura_thinking",
+               "inactiveCharacter":"laura_inactive",
+               "e_1_1_r_1":"It’s easier to tell how someone feels when you talk in person.",
+               "e_1_1_r_2":"I should tell Max I’m sorry for making him mad.",
+               "e_1_1_r_3":"It’s harder to get mad at someone when you talk in person.",
+               "e_1_1_r_4":"I don’t want Max to get any more mad at me.",
+               "e_1_1_r_5":"It’s not my fault Max made me mad.",
+               "e_1_1_r_6":"I should give myself some time to cool down offline.",
+               "card1Audio":"e_4_12_r_1",
+               "card2Audio":"e_4_12_r_2",
+               "card3Audio":"e_4_12_r_3",
+               "card4Audio":"e_4_12_r_4",
+               "card5Audio":"e_4_12_r_5",
+               "card6Audio":"e_4_12_r_6",
+               "helpTextOne":"e_4_12_h_1",
+               "helpTextTwo":"e_4_12_h_2",
+               "helpTextOneFr":"f_4_12_h_1",
+               "helpTextTwoFr":"f_4_12_h_2",
+               "correctSortFeedbackAudio":"e_4_12_s_1",
+               "correctSortFeedbackFrAudio":"f_4_12_s_1",
+               "correctSortFeedbackVIAudio":"e_4_12_s_v",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Laura might go talk to Max in person and why she might just log off PixOne.",
+               "purpleBoxText":"Drag the reasons why Laura should talk to Max offline to the left side of the screen and the reasons why she should log off of PixOne to the right.",
+               "purpleBox":"e_4_1_i",
+               "helpContent1":"When you have trouble online, sometimes the best thing to do is just walk away. Put the reasons why logging off PixOne might make things better for Laura with “Log Off PixOne.” Put the reasons why it might be better to talk to Max in person with “Talk to Max Offline.”",
+               "helpContent2":"It’s easier to say mean things to somebody when you’re talking to them online. Put the reasons why talking to Max offline might make things better for Laura with “Talk to Max.” Put the reasons why it might make things worse with “Log Off PixOne.”"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_13_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_13_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_13_1_1",
+					 "frImage":"f_4_13_1_1",
+                     "panelAudio":"e_4_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f12",
+                           "id":"e_4_13_1_1_2",
+                           "bubbleContent":"I’m just going to log out before I make things worse.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_13_1_1_2",
+                           "left":"200px",
+                           "top":"100px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_13_1_2",
+					 "frImage":"f_4_13_1_2",
+                     "panelAudio":"e_4_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_4_13_1_2_2",
+                           "bubbleContent":"I hope he’s not still mad when I see him at school on Monday…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_4_13_1_2_2",
+                           "left":"780px",
+                           "top":"30px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_4_13_w_1",
+               "e_1_6_w_1":"You’ve reached ending 6 of 7. When Laura got in a fight with Max online, she decided to leave before things got worse. How do you think Laura felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Max felt about it?",
+               "blueBox":"e_4_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"max_inactive",
+               "secondCharacterFaceSlot":"max",
+               "character1":"laura_left",
+     			"character2":"max",
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_4_13_f",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_4_13_f",
+                "inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"max",
+     			"character1":"laura_worried",
+     			"character2":"max_mad"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_4_14_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_4_14_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_4_14_1_1",
+                     "panelAudio":"e_4_14_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw",
+                           "id":"e_4_14_1_1_2",
+                           "bubbleContent":"I’ll just bike over to Max’s house to talk to him.",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_4_14_1_1_2",
+                           "left":"30px",
+                           "top":"5px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_14_1_2",
+                     "panelAudio":"e_4_14_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_w f12",
+                           "id":"e_4_14_1_2_2",
+                           "bubbleContent":"What do you want?",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_14_1_2_2",
+                           "left":"400px",
+                           "top":"150px"
+                        },
+                        {  
+                           "divClass":"wb_m_se f10",
+                           "id":"e_4_14_1_2_3",
+                           "bubbleContent":"I’m not supposed to have visitors ‘cause I’m grounded…",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_14_1_2_3",
+                           "left":"650px",
+                           "top":"230px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_14_1_3",
+                     "panelAudio":"e_4_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_se f12",
+                           "id":"e_4_14_1_3_2",
+                           "bubbleContent":"I’m sorry I told everyone about you getting sick in your locker.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_4_14_1_3_2",
+                           "left":"270px",
+                           "top":"560px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_4_14_1_4",
+                     "panelAudio":"e_4_14_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_m_s",
+                           "id":"e_4_14_1_4_2",
+                           "bubbleContent":"Thanks. And I’m sorry I posted that picture of you…",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_14_1_4_2",
+                           "left":"520px",
+                           "top":"570px"
+                        },
+                        {  
+                           "divClass":"wb_m_e f12",
+                           "id":"e_4_14_1_4_3",
+                           "bubbleContent":"… I’ll go take it down.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_4_14_1_4_3",
+                           "left":"650px",
+                           "top":"495px"
+                        },
+                        {  
+                           "divClass":"wb_s_nw f14",
+                           "id":"e_4_11_2_4_3",
+                           "bubbleContent":"Thanks!",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_4_11_2_4_3",
+                           "left":"870px",
+                           "top":"380px"
+                        },
+                        {  
+                           "divClass":"wb_s_sw f12",
+                           "id":"e_4_14_1_4_5",
+                           "bubbleContent":"See you on Monday…",
+                           "bubbleFontClass":"wb_s_text",
+                           "audioInfo":"e_4_14_1_4_5",
+                           "left":"870px",
+                           "top":"550px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_4_14_w_1",
+               "e_1_6_w_1":"You’ve reached ending 7 of 7. When Laura and Max had a fight, she decided to talk to him in person instead of online. How do you think Laura felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Max felt about it?",
+               "blueBox":"e_4_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"max_inactive",
+               "secondCharacterFaceSlot":"max",
+               "character1":"laura_left",
+     			"character2":"max",
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "blueBoxFeedbackFr":"f_4_14_f",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_4_14_f",
+               "inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"max",
+     			"character1":"laura_happy",
+     			"character2":"max_happy"
+            }
+         ]
+      }
+   ]
+}

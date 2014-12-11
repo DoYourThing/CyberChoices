@@ -1,0 +1,334 @@
+#sortThoughtBubble
+{
+	position: absolute;
+	left: 332px;
+	top: 290px;
+	content: url('../images/g_1_1_t.png');
+	width: 339px;
+	height: 279px;
+}
+
+#cardSlots1 div {
+    position: absolute;
+    left: 35px;
+    top: 83px;
+    content: url('../images/e_1_1_r.png');
+    width: 248px;
+    height: 128px;
+}
+
+#cardSlots2 div {
+    position: absolute;
+    left: 35px;
+    top: 225px;
+    content: url('../images/e_1_1_r.png');
+    width: 248px;
+    height: 128px;
+}
+
+#cardSlots3 div {
+    position: absolute;
+    left: 35px;
+    top: 369px;
+    content: url('../images/e_1_1_r.png');
+    width: 248px;
+    height: 128px;
+}
+
+#cardSlots4 div {
+    position: absolute;
+    left: 735px;
+    top: 83px;
+    content: url('../images/e_1_1_r.png');
+    width: 248px;
+    height: 128px;
+}
+
+#cardSlots5 div {
+    position: absolute;
+    left: 735px;
+    top: 225px;
+    content: url('../images/e_1_1_r.png');
+    width: 248px;
+    height: 128px;
+}
+
+#cardSlots6 div {
+    position: absolute;
+    left: 735px;
+    top: 369px;
+    content: url('../images/e_1_1_r.png');
+    width: 248px;
+    height: 128px;
+}
+
+#cardPile0  div {
+    position: absolute;
+    left: 360px;
+    top: 315px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile0Dragged div
+{
+	position: absolute;
+    left: 35px;
+    top: 83px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile1Dragged div
+{
+	position: absolute;
+    left: 35px;
+    top: 225px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile2Dragged div
+{
+	position: absolute;
+    left: 35px;
+    top: 369px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile3Dragged div
+{
+	position: absolute;
+    left: 735px;
+    top: 83px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile4Dragged div
+{
+	position: absolute;
+    left: 735px;
+    top: 225px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile5Dragged div
+{
+	position: absolute;
+    left: 735px;
+    top: 369px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile1  div {
+    position: absolute;
+    left: 360px;
+    top: 315px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile2  div {
+    position: absolute;
+    left: 360px;
+    top: 315px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile3  div {
+    position: absolute;
+    left: 360px;
+    top: 315px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile4  div {
+    position: absolute;
+    left: 360px;
+    top: 315px;
+    width: 248px;
+    height: 128px;
+    z-index: 1;
+}
+
+#cardPile5  div {
+    position: absolute;
+    left: 360px;
+    top: 315px;
+    width: 264px;
+    height: 171px;
+    z-index: 1;
+}
+
+#theImg {
+    float: right;
+    position: absolute;
+    width: 248px;
+	height: 128px;
+}
+
+#Ask {
+    width: 256px;
+    height: 122px;
+    position: absolute;
+    left: 60px;
+    top: 140px;
+}
+
+#Post {
+    width: 256px;
+    height: 122px;
+    position: absolute;
+    left: 740px;
+    top: 140px;
+}
+
+#sortingPageContainer {
+    background: url('../images/background.png')  no-repeat center;
+    width: 1024px;
+    height: 768px;
+}
+
+h1 {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    margin: 0 auto;
+    font-size: 60px;
+    font-style: italic;
+}
+
+.textStyle {
+text-align: center;
+font-size: 16px;
+font-style: italic;
+font-weight: 600;
+position: absolute;
+width: 220px;
+line-height: 17px;
+padding-top: 5px;
+padding-left: 15px;
+}
+
+#successMessage {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0;
+    height: 0;
+    z-index: 100;
+    background: #dfd;
+    border: 2px solid #333;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: .3em .3em .5em rgba(0, 0, 0, .8);
+    -webkit-box-shadow: .3em .3em .5em rgba(0, 0, 0, .8);
+    box-shadow: .3em .3em .5em rgba(0, 0, 0, .8);
+    padding: 10px;
+    font-size: 12px;
+}
+
+#failMessage {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0;
+    height: 0;
+    z-index: 100;
+    background: #dfd;
+    border: 2px solid #333;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: .3em .3em .5em rgba(0, 0, 0, .8);
+    -webkit-box-shadow: .3em .3em .5em rgba(0, 0, 0, .8);
+    box-shadow: .3em .3em .5em rgba(0, 0, 0, .8);
+    padding: 10px;
+    font-size: 12px;
+}
+
+.restartButton {
+    border: 1px solid rgb(215, 231, 243);
+    border-radius: 3px;
+    background-color: #0081ab;
+    color: #fff;
+	font-size:24px;
+    font-style: italic;
+    font-weight: normal;
+	font-family: ActionFigureBB;
+}
+
+.modal-header {
+    background-color: #4497C4;
+    border-radius: 2px;
+    border-bottom-color: #000000;
+    color: #FFF;
+    font-style: italic;
+}
+
+.modal-footer {
+    margin-top: 15px;
+    padding: 8px 8px 8px;
+    text-align: right;
+    border-top: 1px solid #ABBCDB;
+}
+
+
+#purpleBox {
+    background: url('../images/e_1_1_i.png') no-repeat center;
+    position: absolute;
+    left: 295px;
+    top: 85px;
+    width: 428px;
+    height: 193px;
+}
+
+.purpleTextSort
+{
+	position: absolute;
+    left: 44px;
+    width:350px;
+}
+
+.blueTextBox
+{
+	width: 780px;
+	position: absolute;
+	top: 20px;
+	left: 40px;
+}
+
+#bluebox {
+    background: url('../images/e_1_12_w.png') no-repeat center;
+    width: 830px;
+    height: 180px;
+}
+
+.expression 
+{
+	height: 100%;
+}
+

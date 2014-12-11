@@ -1,0 +1,2145 @@
+{  
+   "_comment": "styled-french-audio", 
+   "_comment": "styled-french-audio file names - last edited October 16 at 1pm", 
+   "FrenchTitleImage":"f_2",
+   "EnglishTitleImage":"e_2",
+   "storyNumber":"storyLine2",
+   "storyId":"Story2",
+   "scene":[  
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_1_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_1_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_1_1_1",
+                     "frImage":"f_2_1_1_1",
+                     "panelAudio":"e_2_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_m_l f12",
+                           "id":"e_2_1_1_1_2",
+                           "bubbleContent":"How does it feel when you see one of your friends being mean to somebody?",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_2_1_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"nc_m_l f10",
+                           "id":"e_2_1_1_1_3",
+                           "bubbleContent":"Let's visit Violet as she looks for adventure in UniSaurus Realms.",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_2_1_1_1_3",
+                           "left":"200px",
+                           "top":"310px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_1_1_2",
+                     "frImage":"f_2_1_1_2",
+                     "panelAudio":"e_2_1_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_2_1_1_2_2",
+                           "bubbleContent":"Tonight's the night we get the Gem of Power!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_1_1_2_2",
+                           "left":"645px",
+                           "top":"5px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_1_1_3",
+                     "frImage":"f_2_1_1_3",
+                     "panelAudio":"e_2_1_1_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_1_1_3_2",
+                           "bubbleContent":"VIOLETTA: Hey Laura, is Aadan here yet?",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_1_3_2",
+                           "left":"35px",
+                           "top":"400px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_1_1_3_3",
+                           "bubbleContent":"TYRANNOLAURUS: No. Is Sasha coming?",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_1_1_4",
+                     "frImage":"f_2_1_1_4",
+                     "panelAudio":"e_2_1_1_4_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_1_4_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_1_1_4_2",
+                           "bubbleContent":"VIOLETTA: No, she's posting her photos in Pixone.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_1_4_2",
+                           "left":"520px",
+                           "top":"310px"
+                        },
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_1_4_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_1_1_4_3",
+                           "bubbleContent":"TYRANNOLAURUS: They promised to help us beat this hydrosaur!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_1_4_3"
+                        },
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_1_4_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_1_1_4_4",
+                           "bubbleContent":"SAMEEN: Can I help?",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_1_4_4"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_2_1_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_1_2_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_1_2_1",
+                     "panelAudio":"e_2_1_2_1_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_1_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_1_2_1_2",
+                           "bubbleContent":"TYRANNOLAURUS: Do I know you?",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_1_2",
+                           "left":"30px",
+                           "top":"240px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_1_2_1_3",
+                           "bubbleContent":"VIOLETTA: Hi have you played Realms before? I haven't seen you before.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_1_3"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_1_2_1_4",
+                           "bubbleContent":"SAMEEN: Yes I'm just playing for the first time today",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_1_4"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_1_2_1_5",
+                           "bubbleContent":"SAMEEN: But my brother showed me and Im really good already",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_1_5"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_1_2_2",
+                     "panelAudio":"e_2_1_2_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_1_2_2_2",
+                           "bubbleContent":"SAMEEN: See look I can throw fireballs",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_2_2",
+                           "left":"695px",
+                           "top":"50px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_1_2_2_3",
+                           "bubbleContent":"VIOLETTA: Wait!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_1_2_3",
+                     "panelAudio":"e_2_1_2_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_violet f14",
+                           "id":"e_2_1_2_3_2",
+                           "bubbleContent":"Oh no, he broke the Gem of Power! Laura's going to flip out!",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_1_2_3_2",
+                           "left":"35px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_1_2_4",
+                     "panelAudio":"e_2_1_2_4_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_4_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_1_2_4_2",
+                           "bubbleContent":"TYRANNOLAURUS: Are you stupid? That gem was what we wanted and you broke it!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_4_2",
+                           "left":"525px",
+                           "top":"290px"
+                        },
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_4_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_1_2_4_3",
+                           "bubbleContent":"SAMEEN: Sorry sorry",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_1_2_4_3"
+                        },
+                        {  
+                        	"parentClass":"ic_sm",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_1_2_4_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_2_1_2_2",
+                           "bubbleContent":"TYRANNOLAURUS: Get out of here! We don't want to play with you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_2_1_2_2-S"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_2_1_q",
+               "storyBackgroundimageFr":"f_2_1_q",
+               "solvedPageId":"5",
+               "hashInfo":"sorting",
+               "titleAudio":"e_2_1_q_1",
+               "panelAudio":"e_2_1_i_s",
+               "VIpanelAudio":"e_2_1_i_v",
+                "activeAskScene":"1",
+               "activePostScene":"8",
+               "activeAsk":"e_2_1_a_1",
+               "activeAskHover":"e_2_1_a_1_h",
+               "activeAskHoverWidth":"270",
+               "activeAskHoverHeight":"138",
+               "activePostHover":"e_2_1_a_2_h",
+               "activePostHoverWidth":"321",
+               "activePostHoverHeight":"139",
+               "activeAskLeft":"58",
+               "activeAskTop":"524",
+               "activePostTop":"524",
+               "activePostLeft":"668",
+               "activePost":"e_2_1_a_2",
+               "activeAskHeight":"138",
+               "activeAskWidth":"270",
+               "activePostWidth":"321",
+               "activePostHeight":"139",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"violet_thinking",
+                "inactiveCharacter":"violet_inactive",
+               "e_1_1_r_1":"It's just a game. Laura shouldn't take it too seriously.",
+               "e_1_1_r_2":"The things Laura is saying could really hurt Sameen’s feelings.",
+               "e_1_1_r_3":"It's not okay to be mean to anybody.",
+               "e_1_1_r_4":"It is just a game. Sameen shouldn't take it too seriously.",
+               "e_1_1_r_5":"Laura is my friend. I don't know Sameen at all.",
+               "e_1_1_r_6":"Sameen broke something Laura really wanted to have in the game.",
+               "card1Audio":"e_2_1_r_1",
+               "card2Audio":"e_2_1_r_2",
+               "card3Audio":"e_2_1_r_3",
+               "card4Audio":"e_2_1_r_4",
+               "card5Audio":"e_2_1_r_5",
+               "card6Audio":"e_2_1_r_6",
+               "helpTextOne":"e_2_1_h_1",
+               "helpTextTwo":"e_2_1_h_2",
+               "helpTextOneFr":"f_2_1_h_1",
+               "helpTextTwoFr":"f_2_1_h_2",
+				"correctSortFeedbackAudio":"e_2_1_s_1",
+				"correctSortFeedbackFrAudio":"f_2_1_s_1",
+				"correctSortFeedbackVIAudio":"e_2_1_s_v",
+				"correctSortPurpleText":"Click on “She’s Gone Too Far” if you think Laura was being too mean, or click on “It’s Just Part of the Game” if you think she wasn’t.",
+               "correctSortPurpleTextVI":"Press 1 if you think Laura was being too mean, or press 2 if you think it was just part of the game.",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Violet might think that Laura was being too mean, or that what she said was just part of the game. Click on “She’s Gone Too Far” if you think Laura was being too mean, or click on “It’s Just Part of the Game” if you think she wasn’t.",
+               "purpleBoxText":"Drag the reasons why she should help get rid of Sameen to the left side of the screen. Drag the reasons why she should do nothing to the right side of the screen.",
+               "purpleBox":"e_2_1_i",
+               "helpContent1":"Do you think Laura is right to be mad at Sameen? Put the reasons why she might be mad at him with “It’s Just Part of the Game” and reasons why she shouldn’t be mad at him with “She’s Gone Too Far.”",
+               "helpContent2":"Do you think what Laura is saying would hurt Sameen’s feelings if she said it in person? Put the reasons why it would with “She’s Gone Too Far” and any reasons why it wouldn’t with “It’s Just Part of the Game”",
+               "activeAskFr":"f_2_1_a_1",
+				"activePostFr":"f_2_1_a_2",
+				"activeAskHoverFr":"f_2_1_a_1_h",
+				"activePostHoverFr":"f_2_1_a_2_h",
+				"activeAskHoverFrWidth":"219",
+				"activeAskHoverFrHeight":"166",
+				"activePostHoverFrWidth":"292",
+				"activePostHoverFrHeight":"133",
+				"activeAskLeftFr":"85",
+				"activeAskTopFr":"527",
+				"activePostLeftFr":"696",
+				"activePostTopFr":"527",
+				"activeAskWidthFr":"219",
+				"activeAskHeightFr":"166",
+				"activePostWidthFr":"292",
+				"activePostHeightFr":"133"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_2_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_2_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_2_1_1",
+                     "panelAudio":"e_2_2_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f14",
+                           "id":"e_2_2_1_1_2",
+                           "bubbleContent":"Poor guy! I wish I had told him not to use the fireball… and about how mad Laura can get.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_2_1_1_2",
+                           "left":"20px",
+                           "top":"70px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_2_1_2",
+                     "panelAudio":"e_2_2_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_2_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_2_1_2_2",
+                           "bubbleContent":"TYRANNOLAURUS: Get out of here! We don't want to play with you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_2_1_2_2",
+                           "left":"550px",
+                           "top":"20px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_2_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_2_1_2_3",
+                           "bubbleContent":"SAMEEN: Sorry sorry dont shoot",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_2_1_2_3"
+                        },
+                        {  
+                           "divClass":"cc cc_violet f14",
+                           "id":"e_2_2_1_2_4",
+                           "bubbleContent":"I should do something to help him…",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_2_1_2_4",
+                           "left":"695px",
+                           "top":"255px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_2_1_3",
+                     "panelAudio":"e_2_2_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f18",
+                           "id":"e_2_2_1_3_2",
+                           "bubbleContent":"… but what?",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_2_2_1_3_2",
+                           "left":"540px",
+                           "top":"320px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_2_2_q",
+               "storyBackgroundimageFr":"f_2_2_q",
+               "solvedPageId":"6",
+               "hashInfo":"sorting",
+               "titleAudio":"e_2_2_q_1",
+               "panelAudio":"e_2_2_i_s",
+                "VIpanelAudio":"e_2_2_i_v",
+               "activeAsk":"e_2_2_a_1",
+               "activeAskHover":"e_2_2_a_1_h",
+               "activePostHover":"e_2_2_a_2_h",
+               "activeAskLeft":"64",
+               "activeAskTop":"527",
+               "activePostTop":"527",
+               "activePostLeft":"718",
+               "activePost":"e_2_2_a_2",
+               "activeAskHeight":"136",
+               "activeAskWidth":"254",
+               "activePostWidth":"232",
+               "activePostHeight":"134",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"violet_thinking",
+               "inactiveCharacter":"violet_inactive",
+               "e_1_1_r_1":"If nobody helps Sameen he might quit playing the game.",
+               "e_1_1_r_2":"If Sameen leaves the game I won’t be able to help him.",
+               "e_1_1_r_3":"It’s important that Laura knows she’s being too mean to Sameen.",
+               "e_1_1_r_4":"Trying to help Sameen right now might just make Laura get madder.",
+               "e_1_1_r_5":"If I try to help Sameen right now Laura might get mad at me.",
+               "e_1_1_r_6":"If I try to help Sameen right now he might not believe that I really want to help him.",
+                "card1Audio":"e_2_2_r_1",
+              "card2Audio":"e_2_2_r_2",
+               "card3Audio":"e_2_2_r_3",
+               "card4Audio":"e_2_2_r_4",
+               "card5Audio":"e_2_2_r_5",
+               "card6Audio":"e_2_2_r_4",
+               "helpTextOne":"e_2_2_h_1",
+               "helpTextTwo":"e_2_2_h_2",
+               "helpTextOneFr":"f_2_2_h_1",
+               "helpTextTwoFr":"f_2_2_h_2",
+               "correctSortFeedbackAudio":"e_2_2_s_1",
+   			"correctSortFeedbackFrAudio":"f_2_2_s_1",
+   			"correctSortFeedbackVIAudio":"e_2_2_s_v",
+   			"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Violet help Sameen right now, or press 2 to have her wait to help him later.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Violet might help Sameen right now or might wait to help him later. Now click one of the two choices to decide where the story goes.",
+               "purpleBoxText":"Drag the reasons why she should help Sameen right now to the left side of the screen. Drag the reasons why she should wait until Laura’s not around to the right side of the screen.",
+               "purpleBox":"e_2_1_i",
+               "helpContent1":"What are some reasons why helping right now might make things worse? Put those with “Help Privately.”",
+               "helpContent2":"What are some reasons why it might be important to help right now? Put those with “Help Right Now.”",
+                "activeAskScene":"5",
+				"activePostScene":"2",
+				"storyBackgroundimageFr":"f_2_2_q",
+				"activeAskFr":"f_2_2_a_1",
+				"activePostFr":"f_2_2_a_2",
+				"activeAskHoverFr":"f_2_2_a_1_h",
+				"activePostHoverFr":"f_2_2_a_2_h",
+				"activeAskHoverFrWidth":"304",
+				"activeAskHoverFrHeight":"136",
+				"activePostHoverFrWidth":"233",
+				"activePostHoverFrHeight":"134",
+				"activeAskLeftFr":"37",
+				"activeAskTopFr":"527",
+				"activePostLeftFr":"722",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"304",
+				"activeAskHeightFr":"136",
+				"activePostWidthFr":"233",
+				"activePostHeightFr":"134",
+				 "activeAskHoverWidth":"254",
+				"activeAskHoverHeight":"136",
+				"activePostHoverWidth":"232",
+				"activePostHoverHeight":"134"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_3_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_3_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_3_1_1",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_2_3_1_1_2",
+                           "bubbleContent":"If I try to make Laura stop now she’ll just get madder…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_3_1_1_2",
+                           "left":"30px",
+                           "top":"25px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_3_1_2",
+                     "panelAudio":"e_2_2_1_2_1-2",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_violet f16",
+                           "id":"e_2_3_1_2_2",
+                           "bubbleContent":"… and she might get mad at me, too.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_3_1_2_2",
+                           "left":"40px",
+                           "top":"390px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_2_3",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_3_1_2_3",
+                           "bubbleContent":"TYRANNOLAURUS: Get out before I destroy you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_3_1_2_3",
+                           "left":"350px",
+                           "top":"555px"
+                        },
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_2_3",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_3_1_2_4",
+                           "bubbleContent":"SAMEEN: OK OK",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_3_1_2_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_3_1_3",
+                     "panelAudio":"e_2_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_violet f14",
+                           "id":"e_2_3_1_3_2",
+                           "bubbleContent":"Should I talk to Laura now or make sure that guy’s okay?",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_3_1_3_2",
+                           "left":"535px",
+                           "top":"90px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_2_3_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_2_3_q_1",
+               "panelAudio":"e_2_3_i_s",
+                "VIpanelAudio":"e_2_3_i_v",
+               "activeAsk":"e_2_3_a_1",
+               "activeAskHover":"e_2_3_a_1_h",
+               "activePostHover":"e_2_3_a_2_h",
+               "activeAskLeft":"91",
+               "activeAskTop":"527",
+               "activePostTop":"527",
+               "activePostLeft":"742",
+               "activePost":"e_2_3_a_2",
+               "activeAskHeight":"136",
+               "activeAskWidth":"196",
+               "activePostWidth":"187",
+               "activePostHeight":"135",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"violet_thinking",
+               "inactiveCharacter":"violet_inactive",
+               "e_1_1_r_1":"It really seemed like Sameen’s feelings were hurt.",
+               "e_1_1_r_2":"I don’t think Sameen has any other friends to help him in UniSaurus Realms.",
+               "e_1_1_r_3":"Sameen might quit playing if nobody helps him.",
+               "e_1_1_r_4":"If I don’t talk to Laura she might get mad at somebody else.",
+               "e_1_1_r_5":"I made a promise to Max and I should keep it.",
+               "e_1_1_r_6":"Laura’s my friend and I should help her learn not to get so mad.",
+               "card1Audio":"e_2_3_r_1",
+             "card2Audio":"e_2_3_r_2",
+               "card3Audio":"e_2_3_r_3",
+               "card4Audio":"e_2_3_r_4",
+               "card5Audio":"e_2_3_r_5",
+               "card6Audio":"e_2_3_r_6",
+               "helpTextOne":"e_2_3_h_1",
+               "helpTextTwo":"e_2_3_h_2",
+               "helpTextOneFr":"f_2_3_h_1",
+               "helpTextTwoFr":"f_2_3_h_2",
+               "correctSortFeedbackAudio":"e_2_3_s_1",
+   			"correctSortFeedbackFrAudio":"f_2_3_s_1",
+   			"correctSortFeedbackVIAudio":"e_2_3_s_v",
+   			"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Violet help Sameen, or press 2 to have her talk to Laura.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Violet might help Sameen or why she might decide to talk to Laura. Now click one of the two choices to decide where the story goes.",
+               "purpleBoxText":"Drag the reasons why Violet should find Sameen to the left side of the screen. Drag the reasons why she should tell Laura that what she did was wrong to the right side of the screen.",
+               "purpleBox":"e_2_1_i",
+               "helpContent1":"Violet feels bad about what Laura did to Sameen. Put the reasons why she would want to help him with “Help Sameen.”",
+               "helpContent2":"Violet worried about the way Laura gets so mad all the time. Put the reasons why she should want to help her with “Talk to Laura.”",
+                "activeAskScene":"4",
+				"activePostScene":"3",
+				"storyBackgroundimageFr":"f_2_3_q",
+				"solvedPageId":"7",
+				"activeAskFr":"f_2_3_a_1",
+				"activePostFr":"f_2_3_a_2",
+				"activeAskHoverFr":"f_2_3_a_1_h",
+				"activePostHoverFr":"f_2_3_a_2_h",
+				"activeAskHoverFrWidth":"207",
+				"activeAskHoverFrHeight":"136",
+				"activePostHoverFrWidth":"242",
+				"activePostHoverFrHeight":"144",
+				"activeAskLeftFr":"87",
+				"activeAskTopFr":"527",
+				"activePostLeftFr":"716",
+				"activePostTopFr":"518",
+				"activeAskWidthFr":"207",
+				"activeAskHeightFr":"136",
+				"activePostWidthFr":"242",
+				"activePostHeightFr":"144",
+				 "activeAskHoverWidth":"196",
+				"activeAskHoverHeight":"136",
+				"activePostHoverWidth":"187",
+				"activePostHoverHeight":"135"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_4_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_4_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_4_1_1",
+                     "panelAudio":"e_2_4_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_n f12",
+                           "id":"e_2_4_1_1_2",
+                           "bubbleContent":"I better talk to Laura. She’s way out of control… but maybe I should wait ’til I see her at school.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_4_1_1_2",
+                           "left":"10px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_4_1_2",
+                     "panelAudio":"e_2_4_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_s f14",
+                           "id":"e_1_5_1_1_2",
+                           "bubbleContent":"Later…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_5_1_1_2",
+                           "left":"525px",
+                           "top":"85px"
+                        },
+                        {  
+                           "divClass":"wb_l_sw f12",
+                           "id":"e_2_4_1_2_3",
+                           "bubbleContent":"Hey, Laura, do you think you were being a little hard on that guy Sameen?",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_2_4_1_2_3",
+                           "left":"625px",
+                           "top":"210px"
+                        },
+                        {  
+                           "divClass":"wb_m_ne f12",
+                           "id":"e_2_4_1_2_4",
+                           "bubbleContent":"What do you mean? He messed up our quest.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_2_4_1_2_4",
+                           "left":"650px",
+                           "top":"30px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_4_1_3",
+                     "panelAudio":"e_4_1_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"wb_l_sw",
+                           "id":"e_2_4_1_3_2",
+                           "bubbleContent":"Yeah, but you getting mad didn’t make things better. We’ll never get the Quest Gems if nobody wants to play with us.",
+                           "bubbleFontClass":"wb_l_text",
+                           "audioInfo":"e_2_4_1_3_2",
+                           "left":"150px",
+                           "top":"550px"
+                        },
+                        {  
+                           "divClass":"wb_m_ne",
+                           "id":"e_2_4_1_3_3",
+                           "bubbleContent":"I guess maybe I was a bit too tough on him.",
+                           "bubbleFontClass":"wb_m_text",
+                           "audioInfo":"e_2_4_1_3_3",
+                           "left":"160px",
+                           "top":"400px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_4_1_4",
+                     "panelAudio":"e_2_12_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw",
+                           "id":"e_2_4_1_4_2",
+                           "bubbleContent":"Maybe Laura won’t get so mad the next time something goes wrong. I wish I could have helped that guy out more, though…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_4_1_4_2",
+                           "left":"400px",
+                           "top":"250px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_2_4_w_1",
+               "e_1_6_w_1":"You’ve reached ending 1 of 7. Laura deleted all of the mean things she ever said to anyone. How do you think she felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Violet felt about it?",
+               "blueBox":"e_2_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"violet_inactive",
+               "secondCharacterFaceSlot":"violet_neutral",
+               "character1":"laura_left",
+     			"character2":"violet",	
+                "seenWrapUp":"0",
+                "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+            	"storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_2_4_f",
+                "blueBoxFeedbackFr":"f_2_4_f",
+                "inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"violet",
+                "character1":"laura_guilty",
+     			"character2":"violet_worried"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_5_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_5_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_5_1_1",
+                     "panelAudio":"e_2_4_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_n f16",
+                           "id":"e_2_5_1_1_2",
+                           "bubbleContent":"I better make sure that guy’s okay. I think he might have just been a little kid.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_5_1_1_2",
+                           "left":"100px",
+                           "top":"70px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_5_1_2",
+                     "panelAudio":"e_2_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_5_1_2_2",
+                           "bubbleContent":"VIOLETTA: Hey Sameen are you OK?",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_5_1_2_2",
+                           "left":"720px",
+                           "top":"25px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_5_1_2_3",
+                           "bubbleContent":"VIOLETTA: Sorry Laura was so mean to you…",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_5_1_2_3"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_7_1_3_2",
+                           "bubbleContent":"SAMEEN: Thanks for standing up for me.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_3_2"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_5_1_3",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f12",
+                           "id":"e_2_5_1_3_2",
+                           "bubbleContent":"I wish Laura wouldn’t get so mad when things go wrong. At least I helped Sameen feel better.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_5_1_3_2",
+                           "left":"450px",
+                           "top":"230px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_2_5_w_1",
+               "e_1_6_w_1":"You’ve reached ending 2 of 7. Violet reached out to help someone who was being picked on online. How do you think Violet felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Sameen felt?",
+               "happyFace":"happy_emoticon_inactive",
+               "sadFace":"sad_emoticon_inactive",
+               "madFace":"mad_emoticon_inactive",
+               "worriedFace":"worried_emoticon_inactive",
+               "guiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_2_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"violet_left_active",
+               "secondCharacter":"sameen_right_inactive",
+               "secondCharacterFaceSlot":"sameen_neutral",
+               "character1":"violet_left",
+     			"character2":"sameen_right",	
+               "seenWrapUp":"1",
+				"ENhappyFace":"happy_emoticon_inactive",
+				"ENsadFace":"sad_emoticon_inactive",
+				"ENmadFace":"mad_emoticon_inactive",
+				"ENworriedFace":"worried_emoticon_inactive",
+				"ENguiltyFace":"guilty_emoticon_inactive",
+				"happyFaceFr":"french_happy_emoticon_inactive",
+				"sadFaceFr":"french_sad_emoticon_inactive",
+				"madFaceFr":"french_mad_emoticon_inactive",
+				"worriedFaceFr":"french_worried_emoticon_inactive",
+				"guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_2_5_f",
+               "storyBackgroundimage":"wrapUpBackground",
+				"blueBoxFeedbackFr":"f_2_5_f",
+				"inactiveCharacter1":"violet_left",
+     			"inactiveCharacter2":"samir_right",
+     			"character1":"violet_worried",
+     			"character2":"smair_happy"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_6_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_6_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_6_1_1",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f18",
+                           "id":"e_2_6_1_1_2",
+                           "bubbleContent":"I could try to calm them down…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_6_1_1_2",
+                           "left":"40px",
+                           "top":"90px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_6_1_2",
+                     "panelAudio":"e_2_3_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_3_1_2_3",
+                           "bubbleContent":"TYRANNOLAURUS: Get out before I destroy you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_3_1_2_3-3",
+                           "left":"600px",
+                           "top":"150px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_2_3",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_3_1_2_4",
+                           "bubbleContent":"SAMEEN: OK OK",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_3_1_2_4"
+                        },
+                        {  
+                           "divClass":"cc cc_violet f14",
+                           "id":"e_2_6_1_2_4",
+                           "bubbleContent":"… or maybe I should just try to get Laura to think about something else.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_6_1_2_4",
+                           "left":"695px",
+                           "top":"565px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_2_6_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_2_6_q_1",
+               "panelAudio":"e_2_6_i_s",
+               "VIpanelAudio":"e_2_6_i_v",
+               "activeAsk":"e_2_6_a_1",
+               "activeAskHover":"e_2_6_a_1_h",
+               "activePostHover":"e_2_6_a_2_h",
+               "activeAskLeft":"38",
+               "activeAskTop":"527",
+               "activePostTop":"527",
+               "activePostLeft":"704",
+               "activePost":"e_2_6_a_2",
+               "activeAskHeight":"136",
+               "activeAskWidth":"301",
+               "activePostWidth":"264",
+               "activePostHeight":"137",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"violet_thinking",
+               "inactiveCharacter":"violet_inactive",
+               "e_1_1_r_1":"I want to keep playing with Laura but I don’t like it when she’s mean.",
+               "e_1_1_r_2":"I should help Laura learn to work things out without getting mad.",
+               "e_1_1_r_3":"I want Sameen to be able to keep playing with us.",
+               "e_1_1_r_4":"If Laura doesn’t want to work things out, she might hurt Sameen’s feelings more.",
+               "e_1_1_r_5":"Laura might not listen to me when she’s mad.",
+               "e_1_1_r_6":"Trying to work things out might just get Laura mad at me.",
+                "card1Audio":"e_2_6_r_1",
+               "card2Audio":"e_2_6_r_2",
+               "card3Audio":"e_2_6_r_3",
+               "card4Audio":"e_2_6_r_4",
+               "card5Audio":"e_2_6_r_5",
+               "card6Audio":"e_2_6_r_6",
+               "helpTextOne":"e_2_6_h_1",
+               "helpTextTwo":"e_2_6_h_2",
+               "helpTextOneFr":"f_2_6_h_1",
+               "helpTextTwoFr":"f_2_6_h_2",
+				"correctSortFeedbackAudio":"e_2_6_s_1",
+			"correctSortFeedbackFrAudio":"f_2_6_s_1",
+				"correctSortFeedbackVIAudio":"e_2_6_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+				"correctSortPurpleTextVI":"Press 1 to have Violet try to work things out between Laura and Sameen, or press 2 to have her try to cool Laura down.",               
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Violet might try to work things out between Laura and Sameen and why she might just try to cool Laura down. Now click one of the two choices to decide where the story goes.",
+               "purpleBoxText":"Drag the reasons why she should try to work things out between Laura and Sameen to the left side of the screen. Drag the reasons why she should try to get Laura to stop being mad to the right side of the screen.",
+               "purpleBox":"e_2_1_i",
+			   "helpContent1":"What are the ways that trying to work things out between Laura and Sameen might make things better or worse for Violet?",
+               "helpContent2":"What are the ways that trying to work things out between Laura and Sameen might make things better or worse for them?",
+                "activeAskScene":"7",
+				"activePostScene":"6",
+				"storyBackgroundimageFr":"f_2_6_q",
+				"solvedPageId":"8",
+				"activeAskFr":"f_2_6_a_1",
+				"activePostFr":"f_2_6_a_2",
+				"activeAskHoverFr":"f_2_6_a_1_h",
+				"activePostHoverFr":"f_2_6_a_2_h",
+				"activeAskHoverFrWidth":"359",
+				"activeAskHoverFrHeight":"135",
+				"activePostHoverFrWidth":"205",
+				"activePostHoverFrHeight":"135",
+				"activeAskLeftFr":"30",
+				"activeAskTopFr":"527",
+				"activePostLeftFr":"732",
+				"activePostTopFr":"524",
+				"activeAskWidthFr":"359",
+				"activeAskHeightFr":"135",
+				"activePostWidthFr":"205",
+				"activePostHeightFr":"135",
+				 "activeAskHoverWidth":"301",
+				"activeAskHoverHeight":"136",
+				"activePostHoverWidth":"264",
+				"activePostHoverHeight":"137"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_7_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_7_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_7_1_1",
+                     "panelAudio":"e_2_7_1_1_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_7_1_1_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_7_1_1_2",
+                           "bubbleContent":"VIOLETTA: Hey cool down T-Lex",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_1_2",
+                           "left":"35px",
+                           "top":"50px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_7_1_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_7_1_1_3",
+                           "bubbleContent":"VIOLETTA: Its not a big deal",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_1_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_7_1_2",
+                     "panelAudio":"e_2_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_7_1_2_2",
+                           "bubbleContent":"TYRANNOLAURUS: He messed up our quest!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_2_2",
+                           "left":"700px",
+                           "top":"200px"
+                        },
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_7_1_2_3",
+                           "bubbleContent":"VIOLETTA: Come on -- let’s go see if Sasha or Aadan have logged in yet.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_2_3"
+                        },
+                        {  "parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_7_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_7_1_2_4",
+                           "bubbleContent":"TYRANNOLAURUS: Fine. I’ll go check out Sasha’s castle.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_2_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_7_1_3",
+                     "panelAudio":"e_2_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_7_1_3_2",
+                           "bubbleContent":"SAMEEN: Thanks for standing up for me.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_3_2",
+                           "left":"35px",
+                           "top":"560px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_7_1_3_3",
+                           "bubbleContent":"VIOLETTA: It’s OK. Sorry she was so mean to you.",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_7_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_7_1_4",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f14",
+                           "id":"e_2_7_1_4_2",
+                           "bubbleContent":"I hope Laura doesn’t stay mad. I’m glad I got her to stop picking on that guy though.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_7_1_4_2",
+                           "left":"430px",
+                           "top":"220px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_2_7_w_1",
+               "e_1_6_w_1":"You’ve reached ending 3 of 7. Violet reached out to help someone who was being picked on online. How do you think Sameen felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Violet felt about it?",
+               "happyFace":"happy_emoticon_inactive",
+               "sadFace":"sad_emoticon_inactive",
+               "madFace":"mad_emoticon_inactive",
+               "worriedFace":"worried_emoticon_inactive",
+               "guiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_2_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+              "firstCharacter":"sameen_left_active",
+               "secondCharacter":"violet_right_inactive",
+               "character1":"sameen_left",
+     			"character2":"violet_right",
+               "secondCharacterFaceSlot":"violet_neutral",
+               "seenWrapUp":"0",
+				"ENhappyFace":"happy_emoticon_inactive",
+				"ENsadFace":"sad_emoticon_inactive",
+				"ENmadFace":"mad_emoticon_inactive",
+				"ENworriedFace":"worried_emoticon_inactive",
+				"ENguiltyFace":"guilty_emoticon_inactive",
+				"happyFaceFr":"french_happy_emoticon_inactive",
+				"sadFaceFr":"french_sad_emoticon_inactive",
+				"madFaceFr":"french_mad_emoticon_inactive",
+				"worriedFaceFr":"french_worried_emoticon_inactive",
+				"guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_2_7_f",
+               "storyBackgroundimage":"wrapUpBackground",
+				"blueBoxFeedbackFr":"f_2_7_f",
+				"inactiveCharacter1":"samir",
+     			"inactiveCharacter2":"violet",
+     			"character1":"smair_happy",
+     			"character2":"violet_worried"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"g_2_7_1_1",
+               "hashInfo":"content",
+               "title-Audio":"g_2_7_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_7_1_1",
+                     "panelAudio":"e_2_7_1_1_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_7_1_1_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_8_1_1_2",
+                           "bubbleContent":"VIOLETTA: Hey cmon guys",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_1_2",
+                           "left":"100px",
+                           "top":"5px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_7_1_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_8_1_1_3",
+                           "bubbleContent":"VIOLETTA: Its cool",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_1_3"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_7_1_1_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_8_1_1_4",
+                           "bubbleContent":"VIOLETTA: We can find another gem",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_1_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_8_1_2",
+                     "panelAudio":"e_2_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_8_1_2_2",
+                           "bubbleContent":"TYRANNOLAURUS: U play with him if U want",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_2_2",
+                           "left":"695px",
+                           "top":"250px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_8_1_2_3",
+                           "bubbleContent":"VIOLETTA: We can all play",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_2_3"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_8_1_2_4",
+                           "bubbleContent":"TYRANNOLAURUS: I don’t play with babies",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_2_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_8_1_3",
+                     "panelAudio":"e_2_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_8_1_3_2",
+                           "bubbleContent":"SAMEEN: Its OK, I’ll go",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_3_2",
+                           "left":"35px",
+                           "top":"555px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_8_1_3_3",
+                           "bubbleContent":"SAMEEN: Sorry again",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_8_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_8_1_4",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f16",
+                           "id":"e_2_8_1_4_2",
+                           "bubbleContent":"I hope Laura doesn't stay madÖ and I hope that guy's all right.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_8_1_4_2",
+                           "left":"420px",
+                           "top":"270px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+              "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_2_8_w_1",
+               "e_1_6_w_1":"You’ve reached ending 4 of 7. Violet tried to get Laura to think twice about being mean online, but she wasn’t able to help Sameen feel better. How do you think Laura felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Violet felt about it?",
+               "happyFace":"happy_emoticon_inactive",
+               "sadFace":"sad_emoticon_inactive",
+               "madFace":"mad_emoticon_inactive",
+               "worriedFace":"worried_emoticon_inactive",
+               "guiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_2_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"violet_right_inactive",
+               "character1":"laura_left",
+     			"character2":"violet_right",	
+               "secondCharacterFaceSlot":"violet_neutral",
+               "seenWrapUp":"0",
+				"ENhappyFace":"happy_emoticon_inactive",
+				"ENsadFace":"sad_emoticon_inactive",
+				"ENmadFace":"mad_emoticon_inactive",
+				"ENworriedFace":"worried_emoticon_inactive",
+				"ENguiltyFace":"guilty_emoticon_inactive",
+				"happyFaceFr":"french_happy_emoticon_inactive",
+				"sadFaceFr":"french_sad_emoticon_inactive",
+				"madFaceFr":"french_mad_emoticon_inactive",
+				"worriedFaceFr":"french_worried_emoticon_inactive",
+				"guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_2_8_f",
+               "storyBackgroundimage":"wrapUpBackground",
+				"blueBoxFeedbackFr":"f_2_8_f",
+				"inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"violet",
+     			"character1":"laura_mad",
+     			"character2":"violet_worried"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_9_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_9_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_9_1_1",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_2_9_1_1_2",
+                           "bubbleContent":"Poor guy! I guess I should have told him not to use the fireball…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_9_1_1_2",
+                           "left":"30px",
+                           "top":"5px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_9_1_2",
+                     "panelAudio":"e_2_9_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f16",
+                           "id":"e_2_9_1_2_2",
+                           "bubbleContent":"but he shouldn't be playing Realms if he's not ready for it.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_2_9_1_2_2",
+                           "left":"120px",
+                           "top":"300px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_9_1_3",
+                     "panelAudio":"e_2_2_1_2_1-3",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_2_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_2_1_2_2",
+                           "bubbleContent":"TYRANNOLAURUS: Get out of here! We don't want to play with you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_2_1_2_2",
+                           "left":"580px",
+                           "top":"140px"
+                        },
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_2_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_2_1_2_3",
+                           "bubbleContent":"SAMEEN: Sorry sorry dont shoot",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_2_1_2_3"
+                        },
+                        {  
+                           "divClass":"cc cc_violet f14",
+                           "id":"e_2_9_1_3_4",
+                           "bubbleContent":"Maybe I should just log off until Laura cools down.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_9_1_3_4",
+                           "left":"695px",
+                           "top":"565px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_2_9_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_2_9_q_1",
+               "panelAudio":"e_2_9_i_s",
+                "VIpanelAudio":"e_2_9_i_v",
+               "activeAsk":"e_2_9_a_1",
+               "activeAskHover":"e_2_9_a_1_h",
+               "activePostHover":"e_2_9_a_2_h",
+               "activeAskLeft":"94",
+               "activeAskTop":"526",
+               "activePostTop":"527",
+               "activePostLeft":"704",
+               "activePost":"e_2_9_a_2",
+               "activeAskHeight":"136",
+               "activeAskWidth":"194",
+               "activePostWidth":"260",
+               "activePostHeight":"135",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"violet_thinking",
+               "inactiveCharacter":"violet_inactive",
+               "e_1_1_r_1":"I want to keep playing Unisaurus Realms.",
+               "e_1_1_r_2":"If I stay maybe I can stop Laura from being mean to anyone else.",
+               "e_1_1_r_3":"Laura might get mad at me for leaving.",
+               "e_1_1_r_4":"It probably won't be much fun to play with Laura while she's mad.",
+               "e_1_1_r_5":"If I leave now, maybe Laura will think twice before being mean to someone else.",
+               "e_1_1_r_6":"If I stay Laura might get mad at me for something later.",
+               "card1Audio":"e_2_9_r_1",
+               "card2Audio":"e_2_9_r_2",
+               "card3Audio":"e_2_9_r_3",
+               "card4Audio":"e_2_9_r_4",
+               "card5Audio":"e_2_9_r_5",
+               "card6Audio":"e_2_9_r_6",
+               "helpTextOne":"e_2_9_h_1",
+               "helpTextTwo":"e_2_9_h_2",
+               "helpTextOneFr":"f_2_9_h_1",
+               "helpTextTwoFr":"f_2_9_h_2",
+				"correctSortFeedbackAudio":"e_2_9_s_1",
+				"correctSortFeedbackFrAudio":"f_2_9_s_1",
+				"correctSortFeedbackVIAudio":"e_2_9_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+				"correctSortPurpleTextVI":"Press 1 to have Violet keep playing with Laura, or press 2 to have her log off and come back later.",               
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Violet might choose to keep playing or log off and come back later.",
+               "purpleBoxText":"Drag the reasons why she should keep playing with Laura to the left side of the screen. Drag the reasons why she should log off and come back later to the right side of the screen.",
+               "purpleBox":"e_2_1_i",
+			   "helpContent1":"What are the reasons why it might be good or bad for Violet to keep playing or to log off?",
+               "helpContent2":"What are the reasons why it might be right or wrong for Violet to keep playing or to log off?",
+			   "activeAskScene":"10",
+				"activePostScene":"9",
+				"storyBackgroundimageFr":"f_2_9_q",
+				"solvedPageId":"9",
+				"activeAskFr":"f_2_9_a_1",
+				"activePostFr":"f_2_9_a_2",
+				"activeAskHoverFr":"f_2_9_a_1_h",
+				"activePostHoverFr":"f_2_9_a_2_h",
+				"activeAskHoverFrWidth":"269",
+				"activeAskHoverFrHeight":"136",
+				"activePostHoverFrWidth":"268",
+				"activePostHoverFrHeight":"135",
+				"activeAskLeftFr":"52",
+				"activeAskTopFr":"524",
+				"activePostLeftFr":"702",
+				"activePostTopFr":"524",
+				"activeAskWidthFr":"269",
+				"activeAskHeightFr":"136",
+				"activePostWidthFr":"268",
+				"activePostHeightFr":"135",
+				 "activeAskHoverWidth":"194",
+				"activeAskHoverHeight":"136",
+				"activePostHoverWidth":"260",
+				"activePostHoverHeight":"135"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_10_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_10_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_10_1_1",
+                     "panelAudio":"e_2_10_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_violet f14",
+                           "id":"e_2_10_1_1_2",
+                           "bubbleContent":"If I stay Laura will probably just get mad at me. I'll log out until she cools down.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_10_1_1_2",
+                           "left":"45px",
+                           "top":"90px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_10_1_2",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne",
+                           "id":"e_2_8_1_4_2",
+                           "bubbleContent":"I hope Laura doesn't stay madÖ and I hope that guy's all right.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_8_1_4_2",
+                           "left":"790px",
+                           "top":"60px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_2_10_w_1",
+               "e_1_6_w_1":"You’ve reached ending 5 of 7. Violet decided to walk away when someone was being picked on online. How do you think Laura felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Violet felt about it?",
+               "happyFace":"happy_emoticon_inactive",
+               "sadFace":"sad_emoticon_inactive",
+               "madFace":"mad_emoticon_inactive",
+               "worriedFace":"worried_emoticon_inactive",
+               "guiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_2_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+              "firstCharacter":"laura_left_active",
+               "secondCharacter":"violet_right_inactive",
+               "character1":"laura_left",
+     			"character2":"violet_right",
+               "secondCharacterFaceSlot":"violet_neutral",
+               "seenWrapUp":"0",
+				"ENhappyFace":"happy_emoticon_inactive",
+				"ENsadFace":"sad_emoticon_inactive",
+				"ENmadFace":"mad_emoticon_inactive",
+				"ENworriedFace":"worried_emoticon_inactive",
+				"ENguiltyFace":"guilty_emoticon_inactive",
+				"happyFaceFr":"french_happy_emoticon_inactive",
+				"sadFaceFr":"french_sad_emoticon_inactive",
+				"madFaceFr":"french_mad_emoticon_inactive",
+				"worriedFaceFr":"french_worried_emoticon_inactive",
+				"guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_2_10_f",
+               "storyBackgroundimage":"wrapUpBackground",
+				"blueBoxFeedbackFr":"f_2_10_f",
+				"inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"violet",
+     			"character1":"laura_mad",
+     			"character2":"violet_worried"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_11_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_11_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_11_1_1",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw",
+                           "id":"e_2_11_1_1_2",
+                           "bubbleContent":"If I leave now Laura will probably just get mad at me.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_11_1_1_2",
+                           "left":"20px",
+                           "top":"5px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_11_1_2",
+                     "panelAudio":"e_2_2_1_2_1-4",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_2_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_3_1_2_3",
+                           "bubbleContent":"TYRANNOLAURUS: Get out before I destroy you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_3_1_2_3-4",
+                           "left":"200px",
+                           "top":"330px"
+                        },
+                        {  
+                           "divClass":"cc cc_violet f16",
+                           "id":"e_2_11_1_2_3",
+                           "bubbleContent":"Why doesn’t that guy just leave?",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_11_1_2_3",
+                           "left":"40px",
+                           "top":"565px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_11_1_3",
+                     "panelAudio":"e_2_11_1_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_11_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_sameen",
+                           "id":"e_2_11_1_3_2",
+                           "bubbleContent":"SAMEEN: Im sorry can I help u find another gem",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_11_1_3_2",
+                           "left":"600px",
+                           "top":"170px"
+                        },
+                        {  
+                           "divClass":"cc cc_violet f14",
+                           "id":"e_2_11_1_3_3",
+                           "bubbleContent":"Maybe I should help get rid of him so she can calm down.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_2_11_1_3_3",
+                           "left":"690px",
+                           "top":"565px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_2_11_q",
+               "hashInfo":"sorting",
+               "titleAudio":"e_2_11_q_1",
+               "panelAudio":"e_2_11_i_s",
+               "VIpanelAudio":"e_2_11_i_v",
+               "activeAsk":"e_2_11_a_1",
+               "activeAskHover":"e_2_11_a_1_h",
+               "activePostHover":"e_2_11_a_2_h",
+               "activeAskLeft":"112",
+               "activeAskTop":"527",
+               "activePostTop":"529",
+               "activePostLeft":"755",
+               "activePost":"e_2_11_a_2",
+               "activeAskHeight":"134",
+               "activeAskWidth":"152",
+               "activePostWidth":"166",
+               "activePostHeight":"133",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"violet_thinking",
+               "inactiveCharacter":"violet_inactive",
+               "e_1_1_r_1":"The longer Sameen stays here, the more mean things Laura will say to him.",
+               "e_1_1_r_2":"Laura will stay mad so long as Sameen stays here.",
+               "e_1_1_r_3":"If I don’t help Laura she might get mad at me.",
+               "e_1_1_r_4":"I don’t want to be mean to Sameen.",
+               "e_1_1_r_5":"Sameen might stop playing UniSaurus realms if I get mad at him too.",
+               "e_1_1_r_6":"If I help Laura I might get in trouble.",
+               "card1Audio":"e_2_11_r_1",
+				"card2Audio":"e_2_11_r_2",
+				"card3Audio":"e_2_11_r_3",
+				"card4Audio":"e_2_11_r_4",
+				"card5Audio":"e_2_11_r_5",
+				"card6Audio":"e_2_11_r_6",
+				"helpTextOne":"e_2_11_h_1",
+				"helpTextTwo":"e_2_11_h_2",
+				"helpTextOneFr":"f_2_11_h_1",
+				"helpTextTwoFr":"f_2_11_h_2",
+			"correctSortFeedbackAudio":"e_2_11_s_1",
+				"correctSortFeedbackFrAudio":"f_2_11_s_1",
+				"correctSortFeedbackVIAudio":"e_2_11_s_v",
+				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+				"correctSortPurpleTextVI":"Press 1 to have Violet help Laura get rid of Sameen, or press 2 to have her just watch and do nothing.",
+               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Violet might choose to keep playing or log off and come back later.",
+               "purpleBoxText":"Drag the reasons why she should help get rid of Sameen to the left side of the screen. Drag the reasons why she should do nothing to the right side of the screen.",
+               "purpleBox":"e_2_1_i",
+			   "helpContent1":"What are the reasons why it might make things easier for Violet to help get rid of Sameen? Put those with “Help Laura.”",
+               "helpContent2":"What are the reasons why it might help Violet or Sameen if she does nothing? Put those with “Just Watch.”",
+			   "activeAskScene":"11",
+				"activePostScene":"12",
+				"storyBackgroundimageFr":"f_2_11_q",
+				"solvedPageId":"10",
+				"activeAskFr":"f_2_11_a_1",
+				"activePostFr":"f_2_11_a_2",
+				"activeAskHoverFr":"f_2_11_a_1_h",
+				"activePostHoverFr":"f_2_11_a_2_h",
+				"activeAskHoverFrWidth":"167",
+				"activeAskHoverFrHeight":"135",
+				"activePostHoverFrWidth":"253",
+				"activePostHoverFrHeight":"79",
+				"activeAskLeftFr":"118",
+				"activeAskTopFr":"526",
+				"activePostLeftFr":"709",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"167",
+				"activeAskHeightFr":"135",
+				"activePostWidthFr":"253",
+				"activePostHeightFr":"79",
+				 "activeAskHoverWidth":"152",
+				"activeAskHoverHeight":"134",
+				"activePostHoverWidth":"166",
+				"activePostHoverHeight":"133"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_12_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_12_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_12_1_1",
+                     "panelAudio":"e_2_4_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_2_12_1_1_2",
+                           "bubbleContent":"Laura won’t calm down so long as that guy’s around.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_12_1_1_2",
+                           "left":"5px",
+                           "top":"1px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_12_1_2",
+                     "panelAudio":"e_2_12_1_2_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_12_1_2_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_12_1_2_2",
+                           "bubbleContent":"VIOLETTA: Get out of our way!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_12_1_2_2",
+                           "left":"520px",
+                           "top":"250px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_12_1_2_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_12_1_2_3",
+                           "bubbleContent":"TYRANNOLAURUS: Go back where you belong!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_12_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_12_1_3",
+                     "panelAudio":"e_2_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_12_1_3_2",
+                           "bubbleContent":"TYRANNOLAURUS: Babies should stick to baby games",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_12_1_3_2",
+                           "left":"35px",
+                           "top":"510px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_12_1_3_3",
+                           "bubbleContent":"VIOLETTA: Forget it",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_12_1_3_3"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_12_1_3_4",
+                           "bubbleContent":"VIOLETTA: We can go on with the quest now",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_12_1_3_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_12_1_4",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_2_12_1_4_2",
+                           "bubbleContent":"I hope Laura cools down now… and I hope that guy’s all right.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_12_1_4_2",
+                           "left":"820px",
+                           "top":"280px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"thirdWrapup",
+               "blueBoxAudio":"e_2_12_w_1",
+               "e_1_6_w_1":"You’ve reached ending 6 of 7. Violet decided to join in when someone was being picked on online. How do you think Laura felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Sameen felt about it?",
+               "e_1_6_w_3":"How do think Violet felt about it?",
+               "happyFace":"happy_emoticon_inactive",
+               "sadFace":"sad_emoticon_inactive",
+               "madFace":"mad_emoticon_inactive",
+               "worriedFace":"worried_emoticon_inactive",
+               "guiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_2_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"sameen_inactive",
+               "character1":"laura_left",
+     			"character2":"sameen",
+     			"character3":"violet",	
+               "secondCharacterFaceSlot":"sameen_neutral",
+               "thirdCharacter":"violet_third_inactive",
+              "thirdCharacterFaceSlot":"violet_neutral",
+               "seenWrapUp":"0",
+				"ENhappyFace":"happy_emoticon_inactive",
+				"ENsadFace":"sad_emoticon_inactive",
+				"ENmadFace":"mad_emoticon_inactive",
+				"ENworriedFace":"worried_emoticon_inactive",
+				"ENguiltyFace":"guilty_emoticon_inactive",
+				"happyFaceFr":"french_happy_emoticon_inactive",
+				"sadFaceFr":"french_sad_emoticon_inactive",
+				"madFaceFr":"french_mad_emoticon_inactive",
+				"worriedFaceFr":"french_worried_emoticon_inactive",
+				"guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_2_12_f",
+               "storyBackgroundimage":"wrapUpBackground",
+				"blueBoxFeedbackFr":"f_2_12_f",
+				"inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"samir",
+     			"inactiveCharacter3":"violet_third",
+     			"character1":"laura_mad",
+     			"character2":"samir_sad",
+     			"character3":"violet_guilty"
+            }
+         ]
+      },
+      {  
+         "pages":[  
+            {  
+               "storyBackgroundimage":"e_2_13_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_2_13_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_2_13_1_1",
+                     "panelAudio":"e_2_4_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f14",
+                           "id":"e_2_13_1_1_2",
+                           "bubbleContent":"Laura won’t calm down so long as that guy’s around.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_13_1_1_2",
+                           "left":"70px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_13_1_2",
+                     "panelAudio":"e_2_11_1_3_1-2",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_vs",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_11_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_13_1_2_2",
+                           "bubbleContent":"TYRANNOLAURUS: Get out of here! We don't want to play with you!",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_13_1_2_2",
+                           "left":"525px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                 {  
+                     "image":"e_2_13_1_3",
+                     "panelAudio":"e_2_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                        	"parentClass":"ic_s",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"0",
+                           "divClass":"ic_text ic_tyran",
+                           "id":"e_2_12_1_3_2",
+                           "bubbleContent":"TYRANNOLAURUS: Babies should stick to baby games",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_13_1_3_2",
+                           "left":"40px",
+                           "top":"510px"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_13_1_3_3",
+                           "bubbleContent":"VIOLETTA: Forget it",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_13_1_3_3"
+                        },
+                        {  
+                        	"parentClass":"ic_m",
+                        	"padding":"ic_padding",
+                           "parentClassId":"e_2_3_1_3_1",
+                           "counter":"1",
+                           "divClass":"ic_text ic_violet",
+                           "id":"e_2_12_1_3_4",
+                           "bubbleContent":"VIOLETTA: We can go on with the quest now",
+                           "bubbleFontClass":"",
+                           "audioInfo":"e_2_13_1_3_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_2_13_1_4",
+                     "panelAudio":"e_2_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_2_12_1_4_2",
+                           "bubbleContent":"I hope Laura cools down now… and I hope that guy’s all right.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_2_12_1_4_2",
+                           "left":"820px",
+                           "top":"280px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"wrapUp",
+               "pageInfo":"thirdWrapup",
+               "blueBoxAudio":"e_2_13_w_1",
+               "e_1_6_w_1":"You’ve reached ending 7 of 7. When Laura and Max had a fight, she decided to talk to him in person instead of online. How do you think Laura felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Sameen felt about it?",
+               "e_1_6_w_3":"How do think Violet felt about it?",
+               "happyFace":"happy_emoticon_inactive",
+               "sadFace":"sad_emoticon_inactive",
+               "madFace":"mad_emoticon_inactive",
+               "worriedFace":"worried_emoticon_inactive",
+               "guiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_2_13_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"laura_left_active",
+               "secondCharacter":"sameen_inactive",
+               "character1":"laura_left",
+				"character2":"sameen",
+				"character3":"violet_third",	
+               "secondCharacterFaceSlot":"samir_neutral",
+               "thirdCharacter":"violet_third_inactive",
+               "thirdCharacterFaceSlot":"violet_neutral",
+               "seenWrapUp":"0",
+				"ENhappyFace":"happy_emoticon_inactive",
+				"ENsadFace":"sad_emoticon_inactive",
+				"ENmadFace":"mad_emoticon_inactive",
+				"ENworriedFace":"worried_emoticon_inactive",
+				"ENguiltyFace":"guilty_emoticon_inactive",
+				"happyFaceFr":"french_happy_emoticon_inactive",
+				"sadFaceFr":"french_sad_emoticon_inactive",
+				"madFaceFr":"french_mad_emoticon_inactive",
+				"worriedFaceFr":"french_worried_emoticon_inactive",
+				"guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_2_13_f",
+               "storyBackgroundimage":"wrapUpBackground",
+				"blueBoxFeedbackFr":"f_2_13_f",
+				"inactiveCharacter1":"laura_left",
+     			"inactiveCharacter2":"samir",
+     			"inactiveCharacter3":"violet_third",
+     			"character1":"laura_mad",
+     			"character2":"samir_sad",
+     			"character3":"violet_worried"
+            }
+         ]
+      }
+   ]
+}

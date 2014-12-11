@@ -1,0 +1,2176 @@
+{  
+	"_comment": "styled-french-audio",
+	"_comment": "styled-french-audio-clean-verified audio file names - last edit Oct 17 1pm",
+	"_comment": "styled-french-audio-clean-verified audio file names added fr graphics - last edit Oct 20 11:30 am",
+	"FrenchTitleImage":"f_1",
+	"EnglishTitleImage":"e_1",
+	"storyNumber":"storyLine1",
+	"storyId":"Story1",
+   "scene":[  
+    {  
+         "pages":[  
+            {  
+               "scene":"0",
+               "storyBackgroundimage":"g_1_1_1_1",
+               "hashInfo":"content",
+               "title-Audio":"g_1_1_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_1_1_1",
+                     "panelAudio":"e_1_1_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_m_l f12",
+                           "id":"e_1_1_1_1_2",
+                           "bubbleContent":"How does it feel when you can’t share a picture you really like?",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_1_1_1_2",
+                           "left":"38px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"nc_m_l f12",
+                           "id":"e_1_1_1_1_3",
+                           "bubbleContent":"Let’s visit Sasha as she’s putting up today’s pictures.",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_1_1_1_3",
+                           "left":"195px",
+                           "top":"310px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_1_1_2",
+                     "panelAudio":"e_1_1_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_1_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_violet_r_m f12",
+                           "id":"e_1_1_1_2_2",
+                           "bubbleContent":"HEY SIS YOU COMING TO UNISAURUS REALMS?",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_1_1_2_2",
+                           "left":"665px",
+                           "top":"198px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_1_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_sasha_l_m f12",
+                           "id":"e_1_1_1_2_3",
+                           "bubbleContent":"YEAH WHEN IM DONE POSTING MY PICTURES",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_1_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_1_1_3",
+					 "frImage":"f_1_1_1_3",
+                     "panelAudio":"e_1_1_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_1_1_1_3_2",
+                           "bubbleContent":"Let's see what’s good enough to go up on my photo wall today.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_1_1_3_2",
+                           "left":"220px",
+                           "top":"370px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_1_1_4",
+					 "frImage":"f_1_1_1_4",
+                     "panelAudio":"e_1_1_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f18",
+                           "id":"e_1_1_1_4_2",
+                           "bubbleContent":"Not that one…",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_1_1_1_4_2",
+                           "left":"820px",
+                           "top":"380px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_1_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_1_2_1",
+					 "frImage":"f_1_1_2_1",
+                     "panelAudio":"e_1_1_2_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_1_1_2_1_2",
+                           "bubbleContent":"That’s fun, but Violet would kill me…",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_1_2_1_2",
+                           "left":"30px",
+                           "top":"70px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_1_2_2",
+					 "frImage":"f_1_1_2_2",
+                     "panelAudio":"e_1_1_2_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne",
+                           "id":"e_1_1_2_2_2",
+                           "bubbleContent":"Oh, I have to post that one, or else nobody will believe I made that shot.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_1_2_2_2",
+                           "left":"30px",
+                           "top":"330px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_1_2_3",
+					 "frImage":"f_1_1_2_3",
+                     "panelAudio":"e_1_1_2_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f12",
+                           "id":"e_1_1_2_3_2",
+                           "bubbleContent":"I wonder if Max will mind me putting that up. Maybe I should ask him before I post it…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_1_2_3_2",
+                           "left":"440px",
+                           "top":"60px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_1_q",
+               "storyBackgroundimageFr":"f_1_1_q",
+               "solvedPageId":"0",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_1_q_1",
+               "panelAudio":"e_1_1_i_s",
+            	"VIpanelAudio":"e_1_1_i_v",
+               "activeAsk":"e_1_1_a_1",
+               "activeAskFr":"f_1_1_a_1",
+               "activeAskScene":"1",
+               "activePostScene":"6",
+               "activeAskHover":"e_1_1_a_1_h",
+               "activePostHover":"e_1_1_a_2_h",
+               "activeAskHoverFr":"f_1_1_a_1_h",
+               "activePostHoverFr":"f_1_1_a_2_h",
+               "activeAskLeft":"95",
+               "activeAskTop":"525",
+               "activePostTop":"525",
+               "activePostLeft":"674",
+               "activeAskLeftFr":"37",
+               "activeAskTopFr":"518",
+               "activePostTopFr":"526",
+               "activePostLeftFr":"663",
+               "activePost":"e_1_1_a_2",
+               "activePostFr":"f_1_1_a_2",
+               "activeAskHeight":"135",
+               "activeAskWidth":"217",
+               "activePostWidth":"321",
+               "activePostHeight":"137",
+               "activeAskHeightFr":"136",
+               "activeAskWidthFr":"339",
+               "activePostWidthFr":"340",
+               "activePostHeightFr":"140",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "sortingSceneIndex":"0",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"Max is in the picture too.",
+               "e_1_1_r_2":"There might be some reason I don’t know that Max wouldn’t want people to see the picture.",
+               "e_1_1_r_3":"You should ask someone before posting a picture of them.",
+               "e_1_1_r_4":"I really want people to see this picture of me.",
+               "e_1_1_r_5":"I can’t think of any reason why Max wouldn’t want people to see the picture.",
+               "e_1_1_r_6":"I should get to decide who sees a picture with me in it.",
+               "card1Audio":"e_1_1_r_1",
+               "card2Audio":"e_1_1_r_2",
+               "card3Audio":"e_1_1_r_3",
+               "card4Audio":"e_1_1_r_4",
+               "card5Audio":"e_1_1_r_5",
+               "card6Audio":"e_1_1_r_6",
+               "helpTextOne":"e_1_1_h_1",
+               "helpTextTwo":"e_1_1_h_2",
+               "helpTextOneFr":"f_1_1_h_1",
+               "helpTextTwoFr":"f_1_1_h_2",
+               "correctSortFeedbackAudio":"e_1_1_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_1_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_1_s_v",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might choose to ask Max before posting the photo or post it without asking him.",
+               "purpleBoxText":"Drag the reasons why she should ask Max before posting the photo to the left side of the screen and the reasons why she might post the photo without asking him to the right.",
+               "correctSortPurpleText":"Click on “Ask Max First” to have Sasha ask Max before posting the photo, or click on “Post This Photo” to have her post it without asking.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha ask Max before posting the photo, or press 2 to have her post it without asking him.",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"Max is Sasha’s friend. What are the reasons that show that she’s thinking about what’s best for him? Put those with “Ask Max First.”",
+               "helpContent2":"Sasha really wants to post the photo. What are the reasons why she thinks it might be okay to post it without asking him first? Put those with “Post This Photo.”"
+            }
+         ]
+    },
+    {  
+         "pages":[  
+            {  
+               "scene":"1",
+               "storyBackgroundimage":"e_1_2_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_2_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_2_1_1",
+                     "frImage":"f_1_2_1_1",
+                     "panelAudio":"e_1_2_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_2_1_1_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_r_m f14",
+                           "id":"e_1_2_1_1_2",
+                           "bubbleContent":"IS IT OK IF I POST THIS ON PIXONE",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_2_1_1_2",
+                           "left":"180px",
+                           "top":"222px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_2_1_1_1",
+                           "counter":"1",
+                           "divClass":"tt_max_l_s f14",
+                           "id":"e_1_2_1_1_3",
+                           "bubbleContent":"LET ME SEE IT",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_2_1_1_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_2_1_2",
+                      "frImage":"f_1_2_1_2",
+                     "panelAudio":"e_1_2_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_2_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s f14",
+                           "id":"e_1_2_1_2_2",
+                           "bubbleContent":"OK HERE IT IS",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_2_1_2_2",
+                           "left":"665px",
+                           "top":"83px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_2_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_s f14",
+                           "id":"e_1_2_1_2_3",
+                           "bubbleContent":"PLEASE DON’T POST IT",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_2_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_2_1_3",
+                     "frImage":"f_1_2_1_3",
+                     "panelAudio":"e_1_2_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_2_1_3_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s f14",
+                           "id":"e_1_2_1_3_2",
+                           "bubbleContent":"Y NOT?",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_2_1_3_2",
+                           "left":"110px",
+                           "top":"553px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_2_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_s f14",
+                           "id":"e_1_2_1_3_3",
+                           "bubbleContent":"JUST PLZ DONT K?",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_2_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_2_1_4",
+                     "frImage":"f_1_2_1_4",
+                     "panelAudio":"e_1_1_2_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_ne f12",
+                           "id":"e_1_2_1_4_2",
+                           "bubbleContent":"I don’t want to get Max mad at me. But I really do want people to see me make that goal…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_2_1_4_2",
+                           "left":"740px",
+                           "top":"250px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_2_q",
+               "solvedPageId":"1",
+                "sortingSceneIndex":"1",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_2_q_1",
+               "panelAudio":"e_1_2_i_s",
+               "VIpanelAudio":"e_1_2_i_v",
+               "activeAskScene":"9",
+               "activePostScene":"2",
+               "activeAsk":"e_1_2_a_1",
+               "activeAskHover":"e_1_2_a_1_h",
+               "activePostHover":"e_1_2_a_2_h",
+               "activeAskLeft":"86",
+               "activeAskTop":"525",
+               "activePostTop":"525",
+               "activePostLeft":"704",
+               "activePost":"e_1_2_a_2",
+               "activeAskHeight":"136",
+               "activeAskWidth":"232",
+               "activePostWidth":"267",
+               "activePostHeight":"138",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"Max didn’t say why I shouldn’t post the photo.",
+               "e_1_1_r_2":"I really want people to see this photo.",
+               "e_1_1_r_3":"This photo doesn’t make Max look bad.",
+               "e_1_1_r_4":"Max asked me not to post it.",
+               "e_1_1_r_5":"I don’t want to hurt Max’s feelings.",
+               "e_1_1_r_6":"I don’t want to get Max mad at me.",
+               "card1Audio":"e_1_2_r_1",
+               "card2Audio":"e_1_2_r_2",
+               "card3Audio":"e_1_2_r_3",
+               "card4Audio":"e_1_2_r_4",
+               "card5Audio":"e_1_2_r_5",
+               "card6Audio":"e_1_2_r_6",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might decide not to post the photo or go ahead and post it anyway.",
+               "purpleBoxText":"Drag the reasons why she should post the photo to the left side of the screen. Drag the reasons why she might decide not to post it to the right side of the screen.",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha not post the photo, or press 2 to have her post it.",
+               "correctSortFeedbackAudio":"e_1_2_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_2_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_2_s_v",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"Max is Sasha’s friend. What are the reasons that show that she’s thinking about what’s best for him? Put those with “Ask Max First.”",
+               "helpContent2":"Sasha really wants to post the photo. What are the reasons why she thinks it might be okay to post it without asking him first? Put those with “Post This Photo.”",
+               	"storyBackgroundimageFr":"f_1_2_q",
+				"activeAskFr":"f_1_2_a_1",
+				"activePostFr":"f_1_2_a_2",
+				"activeAskHoverFr":"f_1_2_a_1_h",
+				"activePostHoverFr":"f_1_2_a_2_h",
+				"activeAskLeftFr":"75",
+				"activeAskTopFr":"526",
+				"activePostLeftFr":"677",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"231",
+				"activeAskHeightFr":"118",
+				"activePostWidthFr":"318",
+				"activePostHeightFr":"118"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "scene":"2",
+               "storyBackgroundimage":"g_1_3_1_1",
+               "hashInfo":"content",
+               "title-Audio":"g_1_3_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_3_1_1",
+                     "panelAudio":"e_1_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_1_3_1_1_2",
+                           "bubbleContent":"I guess if Max really doesn’t want me to post it then I won’t.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_3_1_1_2",
+                           "left":"300px",
+                           "top":"70px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_3_1_2",
+                     "panelAudio":"e_1_3_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha",
+                           "id":"e_1_3_1_2_2",
+                           "bubbleContent":"I really want my Mom to see the picture though. I know she wanted to be there…",
+                           "bubbleFontClass":"cc_text f14",
+                           "audioInfo":"e_1_3_1_2_2",
+                           "left":"525px",
+                           "top":"85px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_3_1_3",
+                     "panelAudio":"e_1_3_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f18",
+                           "id":"e_1_3_1_3_2",
+                           "bubbleContent":"I’ll just send it to her. That way she can see it but nobody else will.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_3_1_3_2",
+                           "left":"425px",
+                           "top":"200px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_3_q",
+               "solvedPageId":"2",
+               "sortingSceneIndex":"2",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_3_q_1",
+               "panelAudio":"e_1_3_i_s",
+               "VIpanelAudio":"e_1_3_i_v",
+               "activeAskScene":"3",
+               "activePostScene":"5",
+               "activeAsk":"e_1_3_a_1",
+               "activeAskHover":"e_1_3_a_1_h",
+               "activePostHover":"e_1_3_a_2_h",
+               "activeAskLeft":"39",
+               "activeAskTop":"525",
+               "activePostTop":"525",
+               "activePostLeft":"617",
+               "activePost":"e_1_3_a_2",
+               "activeAskHeight":"134",
+               "activeAskWidth":"328",
+               "activePostWidth":"381",
+               "activePostHeight":"135",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"I really want my Mom to see that goal I made today.",
+               "e_1_1_r_2":"If I send the photo straight to my Mom nobody else will see it.",
+               "e_1_1_r_3":"Max will probably never find out I sent it to my Mom.",
+               "e_1_1_r_4":"Max didn’t want me to show the photo to anybody.",
+               "e_1_1_r_5":"I made a promise to Max and I should keep it.",
+               "e_1_1_r_6":"It’s not right to share pictures of people if they don’t want you to.",
+               "card1Audio":"e_1_3_r_1",
+               "card2Audio":"e_1_3_r_2",
+               "card3Audio":"e_1_3_r_3",
+               "card4Audio":"e_1_3_r_4",
+               "card5Audio":"e_1_3_r_5",
+               "card6Audio":"e_1_3_r_6",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might send the photo to her Mom or decide not to send it.",
+               "purpleBoxText":"Drag the reasons why Sasha might send it to her Mom to the left side of the screen and the reasons why she might not send it to the right.",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha send the photo to her Mom, or press 2 if you think she shouldn’t send it.",
+               "correctSortFeedbackAudio":"e_1_3_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_3_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_3_s_v",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"Max is Sasha’s friend. What are the reasons that show that she’s thinking about what’s best for him? Put those with “Ask Max First.”",
+               "helpContent2":"Sasha really wants to post the photo. What are the reasons why she thinks it might be okay to post it without asking him first? Put those with “Post This Photo.”",
+            	"storyBackgroundimageFr":"f_1_3_q",
+				"activeAskFr":"f_1_3_a_1",
+				"activePostFr":"f_1_3_a_2",
+				"activeAskHoverFr":"f_1_3_a_1_h",
+				"activePostHoverFr":"f_1_3_a_2_h",
+				"activeAskLeftFr":"70",
+				"activeAskTopFr":"526",
+				"activePostLeftFr":"698",
+				"activePostTopFr":"525",
+				"activeAskWidthFr":"246",
+				"activeAskHeightFr":"168",
+				"activePostWidthFr":"282",
+				"activePostHeightFr":"140"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "scene":"3",
+               "storyBackgroundimage":"e_1_4_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_4_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_4_1_1",
+                      "frImage":"f_1_4_1_1",
+                     "panelAudio":"e_1_4_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha",
+                           "id":"e_1_4_1_1_2",
+                           "bubbleContent":"I know Mom would want to see this.",
+                           "bubbleFontClass":"cc_text f14",
+                           "audioInfo":"e_1_4_1_1_2",
+                           "left":"38px",
+                           "top":"83px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_4_1_2",
+                     "frImage":"f_1_4_1_2",
+                     "panelAudio":"e_1_1_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_1_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s f10",
+                           "parentClassId":"e_1_1_1_2_1",
+                           "id":"e_1_4_1_2_2",
+                           "bubbleContent":"DID U GET THE PIC I SENT?",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_4_1_2_2",
+                           "left":"240px",
+                           "top":"330px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_1_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_mom_r_m f12",
+                           "id":"e_1_4_1_2_3",
+                           "bubbleContent":"I’M SO PROUD! CAN I SHOW THIS TO MY FRIENDS?",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_4_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_4_1_3",
+                     "frImage":"f_1_4_1_3",
+                     "panelAudio":"e_1_4_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f18",
+                           "id":"e_1_4_1_3_2",
+                           "bubbleContent":"I guess Max won’t mind if my Mom’s friends see it.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_4_1_3_2",
+                           "left":"435px",
+                           "top":"80px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_4_1_3_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s f14",
+                           "id":"e_1_4_1_3_3",
+                           "bubbleContent":"SURE MOM",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_4_1_3_3",
+                           "left":"600px",
+                           "top":"555px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_4_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_mom_r_s f14",
+                           "id":"e_1_4_1_3_4",
+                           "bubbleContent":"THANKS SWEETIE!",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_4_1_3_4"
+                        }
+                     ]
+                  }
+               ]
+            },
+			{  
+               "scene":"4",
+               "storyBackgroundimage":"e_1_5_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_5_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_5_1_1",
+                     "panelAudio":"e_1_5_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_s f16",
+                           "id":"e_1_5_1_1_2",
+                           "bubbleContent":"Later…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_5_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"tb_l_ne f16",
+                           "id":"e_1_5_1_1_3",
+                           "bubbleContent":"That’s funny, Violet said to meet her in the Quest Realm but I can’t find her.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_5_1_1_3",
+                           "left":"230px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"sfx_bzzt",
+                           "id":"s_1_5_1_1_4",
+                           "bubbleContent":"",
+                           "bubbleFontClass":"",
+                           "audioInfo":"s_1_5_1_1_4",
+                           "left":"40px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_2",
+                     "panelAudio":"e_1_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_max_l_m",
+                           "id":"e_1_5_1_2_2",
+                           "bubbleContent":"HOW COULD U? I ASKD U NOT TO SHARE IT",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_2",
+                           "left":"590px",
+                           "top":"220px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_max_l_s",
+                           "id":"e_1_5_1_2_3",
+                           "bubbleContent":"NOW IM GROUNDED!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_3",
+                     "panelAudio":"e_1_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f16",
+                           "id":"e_1_5_1_3_2",
+                           "bubbleContent":"Oh, no! I never meant to get Max in trouble!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_5_1_3_2",
+                           "left":"350px",
+                           "top":"300px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_4",
+                     "panelAudio":"e_1_5_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha f18",
+                           "id":"e_1_5_1_4_2",
+                           "bubbleContent":"What can I do to make it better?",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_5_1_4_2",
+                           "left":"697px",
+                           "top":"568px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_5_q",
+               "sortingSceneIndex":"3",
+               "solvedPageId":"3",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_5_q_1",
+               "panelAudio":"e_1_5_i_s",
+               "VIpanelAudio":"e_1_5_i_v",
+               "activeAskScene":"10",
+               "activePostScene":"11",
+               "activeAsk":"e_1_5_a_1",
+               "activeAskHover":"e_1_5_a_1_h",
+               "activePostHover":"e_1_5_a_2_h",
+               "activeAskLeft":"81",
+               "activeAskTop":"527",
+               "activePostTop":"528",
+               "activePostLeft":"717",
+               "activePost":"e_1_5_a_2",
+               "activeAskHeight":"135",
+               "activeAskWidth":"245",
+               "activePostWidth":"243",
+               "activePostHeight":"136",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"Max doesn’t want anyone to see the photo.",
+               "e_1_1_r_2":"I’d like to do something that will really help Max.",
+               "e_1_1_r_3":"If I delete the photo, maybe nobody else can see it.",
+               "e_1_1_r_4":"Max is really mad at me.",
+               "e_1_1_r_5":"It’s my fault Max is in trouble.",
+               "e_1_1_r_6":"I feel really bad for hurting Max’s feelings.",
+               "card1Audio":"e_1_5_r_1",
+               "card2Audio":"e_1_5_r_2",
+               "card3Audio":"e_1_5_r_3",
+               "card4Audio":"e_1_5_r_4",
+               "card5Audio":"e_1_5_r_5",
+               "card6Audio":"e_1_5_r_6",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might delete the photo or tell Max she’s sorry.",
+               "purpleBoxText":"Drag the reasons why Sasha might delete the photo to the left side of the screen and the reasons why she say she’s sorry to Max to the right.",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha delete the photo, or press 2 to have her tell Max she’s sorry",
+               "correctSortFeedbackAudio":"e_1_5_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_5_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_5_s_v",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"Is deleting the photo going to make things better for Max or Sasha? Move the reasons for thinking that it will to “Delete the Photo.”",
+               "helpContent2":"Is it more important for Sasha to tell Max that she’s sorry for getting him in trouble? Move the reasons for thinking that it is to “Tell Max I’m Sorry.”",
+               	"storyBackgroundimageFr":"f_1_5_q",
+				"activeAskFr":"f_1_5_a_1",
+				"activePostFr":"f_1_5_a_2",
+				"activeAskHoverFr":"f_1_5_a_1_h",
+				"activePostHoverFr":"f_1_5_a_2_h",
+				"activeAskLeftFr":"47",
+				"activeAskTopFr":"528",
+				"activePostLeftFr":"682",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"285",
+				"activeAskHeightFr":"118",
+				"activePostWidthFr":"319",
+				"activePostHeightFr":"119"
+            }
+         ]
+      },
+    {
+   		"pages":[
+    	{  
+               "scene":"4",
+               "storyBackgroundimage":"e_1_5_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_5_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_5_1_1",
+                     "panelAudio":"e_1_5_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_s f16",
+                           "id":"e_1_5_1_1_2",
+                           "bubbleContent":"Later…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_5_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"tb_l_ne f16",
+                           "id":"e_1_5_1_1_3",
+                           "bubbleContent":"That’s funny, Violet said to meet her in the Unisaurus Realms but I can’t find her.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_5_1_1_3",
+                           "left":"230px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"sfx_bzzt",
+                           "id":"s_1_5_1_1_4",
+                           "bubbleContent":"",
+                           "bubbleFontClass":"",
+                           "audioInfo":"s_1_5_1_1_4",
+                           "left":"40px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_2",
+                     "panelAudio":"e_1_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_max_l_m",
+                           "id":"e_1_5_1_2_2",
+                           "bubbleContent":"HOW COULD U? I ASKD U NOT TO SHARE IT",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_2",
+                           "left":"590px",
+                           "top":"220px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_max_l_s",
+                           "id":"e_1_5_1_2_3",
+                           "bubbleContent":"NOW IM GROUNDED!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_3",
+                     "panelAudio":"e_1_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f16",
+                           "id":"e_1_5_1_3_2",
+                           "bubbleContent":"Oh, no! I never meant to get Max in trouble!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_5_1_3_2",
+                           "left":"350px",
+                           "top":"300px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_4",
+                     "panelAudio":"e_1_5_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha f18",
+                           "id":"e_1_5_1_4_2",
+                           "bubbleContent":"What can I do to make it better?",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_5_1_4_2",
+                           "left":"697px",
+                           "top":"568px"
+                        }
+                     ]
+                  }
+               ]
+            },
+        {  
+		   "storyBackgroundimage":"e_1_5_q",
+		   "solvedPageId":"3",
+		   "sortingSceneIndex":"4",
+		   "hashInfo":"sorting",
+		   "titleAudio":"e_1_5_q_1",
+		   "panelAudio":"e_1_5_i_s",
+		   "VIpanelAudio":"e_1_5_i_v",
+		   "activeAskScene":"10",
+		   "activePostScene":"11",
+		   "activeAsk":"e_1_5_a_1",
+		   "activeAskHover":"e_1_5_a_1_h",
+		   "activePostHover":"e_1_5_a_2_h",
+		   "activeAskLeft":"81",
+		   "activeAskTop":"527",
+		   "activePostTop":"528",
+		   "activePostLeft":"717",
+		   "activePost":"e_1_5_a_2",
+		   "activeAskHeight":"135",
+		   "activeAskWidth":"245",
+		   "activePostWidth":"243",
+		   "activePostHeight":"136",
+		   "yellowCard":"e_1_1_r",
+		   "blueCard":"g_1_1_b",
+		   "yellowBox1Left":"410",
+		   "yellowBox1Top":"256",
+		   "characterImage":"sasha_thinking",
+		    "inactiveCharacter":"sasha_inactive",
+		   "e_1_1_r_1":"Max doesn’t want anyone to see the photo.",
+		   "e_1_1_r_2":"I’d like to do something that will really help Max.",
+		   "e_1_1_r_3":"If I delete the photo, maybe nobody else can see it.",
+		   "e_1_1_r_4":"Max is really mad at me.",
+		   "e_1_1_r_5":"It’s my fault Max is in trouble.",
+		   "e_1_1_r_6":"I feel really bad for hurting Max’s feelings.",
+		   "card1Audio":"e_1_5_r_1",
+		   "card2Audio":"e_1_5_r_2",
+		   "card3Audio":"e_1_5_r_3",
+		   "card4Audio":"e_1_5_r_4",
+		   "card5Audio":"e_1_5_r_5",
+		   "card6Audio":"e_1_5_r_6",
+		   "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might delete the photo or tell Max she’s sorry.",
+		   "purpleBoxText":"Drag the reasons why Sasha might delete the photo to the left side of the screen and the reasons why she say she’s sorry to Max to the right.",
+		   "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+		   "correctSortPurpleTextVI":"Press 1 to have Sasha delete the photo, or press 2 to have her tell Max she’s sorry.",
+		   "correctSortFeedbackAudio":"e_1_5_s_1",
+   			"correctSortFeedbackFrAudio":"f_1_5_s_1",
+   			"correctSortFeedbackVIAudio":"e_1_5_s_v",
+		   "purpleBox":"e_1_1_i",
+		   "helpContent1":"Is deleting the photo going to make things better for Max or Sasha? Move the reasons for thinking that it will to “Delete the Photo.”",
+		   "helpContent2":"Is it more important for Sasha to tell Max that she’s sorry for getting him in trouble? Move the reasons for thinking that it is to “Tell Max I’m Sorry.”",
+			"storyBackgroundimageFr":"f_1_5_q",
+			"activeAskFr":"f_1_5_a_1",
+			"activePostFr":"f_1_5_a_2",
+			"activeAskHoverFr":"f_1_5_a_1_h",
+			"activePostHoverFr":"f_1_5_a_2_h",
+			"activeAskLeftFr":"47",
+			"activeAskTopFr":"528",
+			"activePostLeftFr":"682",
+			"activePostTopFr":"526",
+			"activeAskWidthFr":"285",
+			"activeAskHeightFr":"118",
+			"activePostWidthFr":"319",
+			"activePostHeightFr":"119"
+            }
+    ]
+    },
+    {  
+         "pages":[  
+            {  
+               "scene":"5",
+               "sceneName":"Don't send to mom",
+               "storyBackgroundimage":"g_1_6_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_6_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_6_1_1",
+                     "panelAudio":"e_1_6_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_ne f16",
+                           "id":"e_1_6_1_1_2",
+                           "bubbleContent":"I really would like my Mom to see that picture. She’d be so proud to see me kicking that goal…",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_6_1_1_2",
+                           "audioInfoFr":"",
+                           "left":"280px",
+                           "top":"65px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_6_1_2",
+                     "frImage":"f_1_6_1_2",
+                     "panelAudio":"e_1_6_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha f10",
+                           "id":"e_1_6_1_2_2",
+                           "bubbleContent":"But Max really didn’t want anyone to see this, so I guess I should just delete it.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_6_1_2_2",
+                           "left":"700px",
+                           "top":"260px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_6_1_3",
+                     "frImage":"f_1_6_1_3",
+                     "panelAudio":"e_1_6_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f16",
+                           "id":"e_1_6_1_3_2",
+                           "bubbleContent":"Well, maybe somebody else took a picture.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_6_1_3_2",
+                           "left":"450px",
+                           "top":"350px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "seenWrapUp":"0",
+               "hashInfo":"wrapUp",
+               "pageInfo":"firstWrapup",
+               "blueBoxAudio":"e_1_6_w_1",
+               "e_1_6_w_1":"You’ve reached ending 1 of 3. Sasha decided not to share the photo with anybody. How do you think she felt about what she did?",
+               "e_1_6_w_2":"How do you think Max felt about it?",
+               "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_1_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "secondCharacterFaceSlot":"max_neutral",
+               "firstCharacter":"sasha_active",
+               "firstInactiveCharacter":"sasha_inactive",
+               "secondCharacter":"max_inactive",
+               "character1":"sasha",
+     			"character2":"max",	
+               "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_1_6_f",
+               "blueBoxFeedbackFr":"f_1_6_f",
+               "character1":"sasha_happy",
+     			"character2":"max_happy",
+     			"inactiveCharacter1":"sasha",
+     			"inactiveCharacter2":"max"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "scene":"6",
+               "sceneName":"Send Anyway",
+               "storyBackgroundimage":"e_1_7_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_7_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_7_1_1",
+                     "frImage":"f_1_7_1_1",
+                     "panelAudio":"e_1_3_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f16",
+                           "id":"e_1_7_1_1_2",
+                           "bubbleContent":"I don’t see what Max is so worried about.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_7_1_1_2",
+                           "left":"50px",
+                           "top":"45px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_7_1_2",
+                     "frImage":"f_1_7_1_2",
+                     "panelAudio":"e_1_3_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha f14",
+                           "id":"e_1_7_1_2_2",
+                           "bubbleContent":"Just because I got that goal past him, it doesn’t make him look bad.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_7_1_2_2",
+                           "left":"366px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_7_1_3",
+                     "frImage":"f_1_7_1_3",
+                     "panelAudio":"e_1_7_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_n f14",
+                           "id":"e_1_7_1_3_2",
+                           "bubbleContent":"Max never goes on Pixone anyway. He’ll never know I posted it.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_7_1_3_2",
+                           "left":"700px",
+                           "top":"80px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_7_q",
+               "solvedPageId":"4",
+               "sortingSceneIndex":"6",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_7_q_1",
+               "panelAudio":"e_1_7_i_s",
+               "VIpanelAudio":"e_1_7_i_v",
+               "activeAskScene":"7",
+               "activePostScene":"8",
+               "activeAsk":"e_1_7_a_1",
+               "activeAskHover":"e_1_7_a_1_h",
+               "activePostHover":"e_1_7_a_2_h",
+               "activeAskLeft":"76",
+               "activeAskTop":"526",
+               "activePostTop":"527",
+               "activePostLeft":"627",
+               "activePost":"e_1_7_a_2",
+               "activeAskHeight":"137",
+               "activeAskWidth":"266",
+               "activePostWidth":"372",
+               "activePostHeight":"137",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"I want everyone to see that goal I made.",
+               "e_1_1_r_2":"My Mom would want all her friends to be able to see the picture.",
+               "e_1_1_r_3":"It doesn’t matter if people I don’t know see the picture.",
+               "e_1_1_r_4":"Only the people I know need to see the picture.",
+               "e_1_1_r_5":"If a lot of people see the picture, Max is probably going to find out I shared it.",
+               "e_1_1_r_6":"Only my friends would want to see the picture anyway.",
+                "card1Audio":"e_1_7_r_1",
+			   "card2Audio":"e_1_7_r_2",
+			   "card3Audio":"e_1_7_r_3",
+			   "card4Audio":"e_1_7_r_4",
+			   "card5Audio":"e_1_7_r_5",
+			   "card6Audio":"e_1_7_r_6",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might share the photo with everyone or just with her friends.",
+               "purpleBoxText":"Drag the reasons why Sasha might share it with everyone to the left side of the screen and the reasons why she might only share it with her friends to the right.",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha share the photo with everyone, or press 2 to have her share it with just her friends.",
+               "correctSortFeedbackAudio":"e_1_7_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_7_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_7_s_v",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"What are the reasons why Sasha would want as many people as possible to see the picture? Put them with “Share With Everyone.”",
+               "helpContent2":"What are the reasons why Sasha would want to make sure that not too many people see the picture? Put them with “Share With Just My Friends.”",
+               "storyBackgroundimageFr":"f_1_7_q",
+				"activeAskFr":"f_1_7_a_1",
+				"activePostFr":"f_1_7_a_2",
+				"activeAskHoverFr":"f_1_7_a_1_h",
+				"activePostHoverFr":"f_1_7_a_2_h",
+				"activeAskLeftFr":"54",
+				"activeAskTopFr":"527",
+				"activePostLeftFr":"703",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"275",
+				"activeAskHeightFr":"135",
+				"activePostWidthFr":"273",
+				"activePostHeightFr":"144"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "scene":"7",
+               "sceneName":"Everyone",
+               "storyBackgroundimage":"e_1_8_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_8_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_8_1_1",
+                     "frImage":"f_1_8_1_1",
+                     "panelAudio":"e_1_8_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha f18",
+                           "id":"e_1_8_1_1_2",
+                           "bubbleContent":"Nobody’s going to believe I made that goal unless they see it.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_8_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_8_1_2",
+                     "frImage":"f_1_8_1_2",
+                     "panelAudio":"e_1_8_1_2_1"
+                  }
+               ]
+            },
+            {  
+               "scene":"4",
+               "storyBackgroundimage":"e_1_5_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_5_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_5_1_1",
+                     "panelAudio":"e_1_5_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_s f16",
+                           "id":"e_1_5_1_1_2",
+                           "bubbleContent":"Later…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_5_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"tb_l_ne f16",
+                           "id":"e_1_5_1_1_3",
+                           "bubbleContent":"That’s funny, Violet said to meet her in the Quest Realm but I can’t find her.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_5_1_1_3",
+                           "left":"230px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"sfx_bzzt",
+                           "id":"s_1_5_1_1_4",
+                           "bubbleContent":"",
+                           "bubbleFontClass":"",
+                           "audioInfo":"s_1_5_1_1_4",
+                           "left":"40px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_2",
+                     "panelAudio":"e_1_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_max_l_m",
+                           "id":"e_1_5_1_2_2",
+                           "bubbleContent":"HOW COULD U? I ASKD U NOT TO SHARE IT",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_2",
+                           "left":"590px",
+                           "top":"220px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_max_l_s",
+                           "id":"e_1_5_1_2_3",
+                           "bubbleContent":"NOW IM GROUNDED!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_3",
+                     "panelAudio":"e_1_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f16",
+                           "id":"e_1_5_1_3_2",
+                           "bubbleContent":"Oh, no! I never meant to get Max in trouble!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_5_1_3_2",
+                           "left":"350px",
+                           "top":"300px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_4",
+                     "panelAudio":"e_1_5_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha f18",
+                           "id":"e_1_5_1_4_2",
+                           "bubbleContent":"What can I do to make it better?",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_5_1_4_2",
+                           "left":"697px",
+                           "top":"568px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_5_q",
+               "solvedPageId":"3",
+               "sortingSceneIndex":"7",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_5_q_1",
+               "panelAudio":"e_1_5_i_s",
+               "VIpanelAudio":"e_1_5_i_v",
+               "activeAskScene":"10",
+          		"activePostScene":"11",
+               "activeAsk":"e_1_5_a_1",
+               "activeAskHover":"e_1_5_a_1_h",
+               "activePostHover":"e_1_5_a_2_h",
+               "activeAskLeft":"81",
+               "activeAskTop":"527",
+               "activePostTop":"528",
+               "activePostLeft":"717",
+               "activePost":"e_1_5_a_2",
+               "activeAskHeight":"135",
+               "activeAskWidth":"245",
+               "activePostWidth":"243",
+               "activePostHeight":"136",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"Max doesn’t want anyone to see the photo.",
+               "e_1_1_r_2":"I’d like to do something that will really help Max.",
+               "e_1_1_r_3":"If I delete the photo, maybe nobody else can see it.",
+               "e_1_1_r_4":"Max is really mad at me.",
+               "e_1_1_r_5":"It’s my fault Max is in trouble.",
+               "e_1_1_r_6":"I feel really bad for hurting Max’s feelings.",
+               "card1Audio":"e_1_5_r_1",
+               "card2Audio":"e_1_5_r_2",
+               "card3Audio":"e_1_5_r_3",
+               "card4Audio":"e_1_5_r_4",
+               "card5Audio":"e_1_5_r_5",
+               "card6Audio":"e_1_5_r_6",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might delete the photo or tell Max she’s sorry.",
+               "purpleBoxText":"Drag the reasons why Sasha might delete the photo to the left side of the screen and the reasons why she say she’s sorry to Max to the right.",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha delete the photo, or press 2 to have her tell Max she’s sorry.",
+               "correctSortFeedbackAudio":"e_1_5_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_5_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_5_s_v",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"Is deleting the photo going to make things better for Max or Sasha? Move the reasons for thinking that it will to “Delete the Photo.”",
+               "helpContent2":"Is it more important for Sasha to tell Max that she’s sorry for getting him in trouble? Move the reasons for thinking that it is to “Tell Max I’m Sorry.”",
+               "storyBackgroundimageFr":"f_1_5_q",
+				"activeAskFr":"f_1_5_a_1",
+				"activePostFr":"f_1_5_a_2",
+				"activeAskHoverFr":"f_1_5_a_1_h",
+				"activePostHoverFr":"f_1_5_a_2_h",
+				"activeAskLeftFr":"47",
+				"activeAskTopFr":"528",
+				"activePostLeftFr":"682",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"285",
+				"activeAskHeightFr":"118",
+				"activePostWidthFr":"319",
+				"activePostHeightFr":"119"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "scene":"8",
+               "sceneName":"Just friends",
+               "storyBackgroundimage":"e_1_9_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_9_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_9_1_1",
+                     "frImage":"f_1_9_1_1",
+                     "panelAudio":"e_1_8_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha",
+                           "id":"e_1_8_1_1_2",
+                           "bubbleContent":"Nobody’s going to believe I made that goal unless they see it.",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_8_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_9_1_2",
+                     "frImage":"f_1_9_1_2",
+                     "panelAudio":"e_1_9_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_l_nw f12",
+                           "id":"e_1_9_1_2_2",
+                           "bubbleContent":"Max really didn’t want me to share it, though… maybe there’s a way I can just let some of my friends see it?",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_9_1_2_2",
+                           "left":"390px",
+                           "top":"5px"
+                        },
+                        {  
+                           "divClass":"tb_m_ne f18",
+                           "id":"e_1_9_1_2_3",
+                           "bubbleContent":"Hey, I bet Aadan would know!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_9_1_2_3",
+                           "left":"810px",
+                           "top":"25px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_9_1_3",
+                    "frImage":"f_1_9_1_3",
+                     "panelAudio":"e_1_9_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s",
+                           "id":"e_1_9_1_3_2",
+                           "bubbleContent":"HEY AADAN!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_9_1_3_2",
+                           "left":"40px",
+                           "top":"555px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_aadan_r_s",
+                           "id":"e_1_9_1_3_3",
+                           "bubbleContent":"YEAH WHATS UP?",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_9_1_3_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_9_1_4",
+                     "frImage":"f_1_9_1_4",
+                     "panelAudio":"e_1_9_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_m f10",
+                           "id":"e_1_9_1_4_2",
+                           "bubbleContent":"DO U KNOW HOW I CAN LET JUST SOME PPL SEE A PIC?",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_9_1_4_2",
+                           "left":"500px",
+                           "top":"532px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_aadan_r_s",
+                           "id":"e_1_9_1_4_3",
+                           "bubbleContent":"SURE",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_9_1_4_3"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_9_2_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_9_2_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_9_2_1",
+                     "frImage":"f_1_9_2_1",
+                     "panelAudio":"e_1_9_2_1_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_2_1_1",
+                           "counter":"0",
+                           "divClass":"tt_aadan_l_m f16",
+                           "id":"e_1_9_2_1_2",
+                           "bubbleContent":"PULL DOWN THE MENU THAT SAYS EVERYONE",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_9_2_1_2",
+                           "left":"40px",
+                           "top":"85px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_9_2_2",
+                     "frImage":"f_1_9_2_2",
+                     "panelAudio":"e_1_9_2_2_1",
+                     "bubbles":[  
+                       {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_2_2_1",
+                           "counter":"0",
+                           "divClass":"tt_aadan_l_s f14",
+                           "id":"e_1_9_2_2_2",
+                           "bubbleContent":"AND PICK THE ONE U WANT",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_9_2_2_2",
+                           "left":"40px",
+                           "top":"393px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_9_2_3",
+                     "frImage":"f_1_9_2_3",
+                     "panelAudio":"e_1_9_2_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_2_3_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_r_s f16",
+                           "id":"e_1_9_2_3_2",
+                           "bubbleContent":"COOL THX",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_9_2_3_2",
+                           "left":"530px",
+                           "top":"455px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_2_3_1",
+                           "counter":"1",
+                           "divClass":"tt_aadan_l_l f12",
+                           "id":"e_1_9_2_3_3",
+                           "bubbleContent":"JUST REMEMBER ANYONE U SHARE WITH CAN SHARE IT 2",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_9_2_3_3"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_2_3_1",
+                           "counter":"1",
+                           "divClass":"tt_sasha_r_s f16",
+                           "id":"e_1_9_2_3_4",
+                           "bubbleContent":"OK THX",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_9_2_3_4"
+                        }
+                     ]
+                  }
+               ]
+            },
+        	{  
+               "scene":"4",
+               "storyBackgroundimage":"e_1_5_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_5_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_5_1_1",
+                     "panelAudio":"e_1_5_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"nc_s_s f16",
+                           "id":"e_1_5_1_1_2",
+                           "bubbleContent":"Later…",
+                           "bubbleFontClass":"nc_text",
+                           "audioInfo":"e_1_5_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        },
+                        {  
+                           "divClass":"tb_l_ne f16",
+                           "id":"e_1_5_1_1_3",
+                           "bubbleContent":"That’s funny, Violet said to meet her in the Quest Realm but I can’t find her.",
+                           "bubbleFontClass":"tb_l_text",
+                           "audioInfo":"e_1_5_1_1_3",
+                           "left":"230px",
+                           "top":"10px"
+                        },
+                        {  
+                           "divClass":"sfx_bzzt",
+                           "id":"s_1_5_1_1_4",
+                           "bubbleContent":"",
+                           "bubbleFontClass":"",
+                           "audioInfo":"s_1_5_1_1_4",
+                           "left":"40px",
+                           "top":"250px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_2",
+                     "panelAudio":"e_1_5_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_max_l_m",
+                           "id":"e_1_5_1_2_2",
+                           "bubbleContent":"HOW COULD U? I ASKD U NOT TO SHARE IT",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_2",
+                           "left":"590px",
+                           "top":"220px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_5_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_max_l_s",
+                           "id":"e_1_5_1_2_3",
+                           "bubbleContent":"NOW IM GROUNDED!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_5_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_3",
+                     "panelAudio":"e_1_5_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f16",
+                           "id":"e_1_5_1_3_2",
+                           "bubbleContent":"Oh, no! I never meant to get Max in trouble!",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_5_1_3_2",
+                           "left":"350px",
+                           "top":"300px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_5_1_4",
+                     "panelAudio":"e_1_5_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha f18",
+                           "id":"e_1_5_1_4_2",
+                           "bubbleContent":"What can I do to make it better?",
+                           "bubbleFontClass":"cc_text",
+                           "audioInfo":"e_1_5_1_4_2",
+                           "left":"697px",
+                           "top":"568px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"e_1_5_q",
+               "solvedPageId":"3",
+               "sortingSceneIndex":"8",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_5_q_1",
+               "panelAudio":"e_1_5_i_s",
+               "VIpanelAudio":"e_1_5_i_v",
+               "activeAskScene":"10",
+               "activePostScene":"11",
+               "activeAsk":"e_1_5_a_1",
+               "activeAskHover":"e_1_5_a_1_h",
+               "activePostHover":"e_1_5_a_2_h",
+               "activeAskLeft":"81",
+               "activeAskTop":"527",
+               "activePostTop":"528",
+               "activePostLeft":"717",
+               "activePost":"e_1_5_a_2",
+               "activeAskHeight":"135",
+               "activeAskWidth":"245",
+               "activePostWidth":"243",
+               "activePostHeight":"136",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"Max doesn’t want anyone to see the photo.",
+               "e_1_1_r_2":"I’d like to do something that will really help Max.",
+               "e_1_1_r_3":"If I delete the photo, maybe nobody else can see it.",
+               "e_1_1_r_4":"Max is really mad at me.",
+               "e_1_1_r_5":"It’s my fault Max is in trouble.",
+               "e_1_1_r_6":"I feel really bad for hurting Max’s feelings.",
+               "card1Audio":"e_1_5_r_1",
+               "card2Audio":"e_1_5_r_2",
+               "card3Audio":"e_1_5_r_3",
+               "card4Audio":"e_1_5_r_4",
+               "card5Audio":"e_1_5_r_5",
+               "card6Audio":"e_1_5_r_6",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might delete the photo or tell Max she’s sorry.",
+               "purpleBoxText":"Drag the reasons why Sasha might delete the photo to the left side of the screen and the reasons why she say she’s sorry to Max to the right.",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha delete the photo, or press 2 to have her tell Max she’s sorry.",
+               "correctSortFeedbackAudio":"e_1_5_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_5_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_5_s_v",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"Is deleting the photo going to make things better for Max or Sasha? Move the reasons for thinking that it will to “Delete the Photo.”",
+               "helpContent2":"Is it more important for Sasha to tell Max that she’s sorry for getting him in trouble? Move the reasons for thinking that it is to “Tell Max I’m Sorry.”",
+            	"storyBackgroundimageFr":"f_1_5_q",
+				"activeAskFr":"f_1_5_a_1",
+				"activePostFr":"f_1_5_a_2",
+				"activeAskHoverFr":"f_1_5_a_1_h",
+				"activePostHoverFr":"f_1_5_a_2_h",
+				"activeAskLeftFr":"47",
+				"activeAskTopFr":"528",
+				"activePostLeftFr":"682",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"285",
+				"activeAskHeightFr":"118",
+				"activePostWidthFr":"319",
+				"activePostHeightFr":"119"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "scene":"9",
+               "sceneName":"POST",
+               "storyBackgroundimage":"e_1_10_1_1",
+               "hashInfo":"content",
+               "title-Audio":"e_1_10_1_1",
+               "frames":[  
+                  {  
+                     "image":"e_1_10_1_1",
+                     "frImage":"f_1_10_1_1",
+                     "panelAudio":"e_1_8_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"cc cc_sasha",
+                           "id":"e_1_10_1_1_2",
+                           "bubbleContent":"I’m sure Max won’t mind. Just because I got that goal past him, it doesn’t make him look bad.",
+                           "bubbleFontClass":"cc_text ccsasha",
+                           "audioInfo":"e_1_10_1_1_2",
+                           "left":"40px",
+                           "top":"80px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_10_1_2",
+                     "frImage":"f_1_10_1_2",
+                     "panelAudio":"e_1_10_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f10",
+                           "id":"e_1_10_1_2_2",
+                           "bubbleContent":"Max never goes on Pixone anyway. He’ll never know I posted it.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_10_1_2_2",
+                           "left":"710px",
+                           "top":"30px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"e_1_10_1_3",
+                      "frImage":"f_1_10_1_3",
+                     "panelAudio":"e_1_9_2_2_1",
+                     "bubbles":[
+                     ]
+                  }
+               ]
+            },
+          	{  
+               "storyBackgroundimage":"e_1_7_q",
+               "solvedPageId":"4",
+               "sortingSceneIndex":"9",
+               "hashInfo":"sorting",
+               "titleAudio":"e_1_7_q_1",
+               "panelAudio":"e_1_7_i_s",
+               "VIpanelAudio":"e_1_7_i_v",
+               "activeAskScene":"7",
+               "activePostScene":"8",
+               "activeAsk":"e_1_7_a_1",
+               "activeAskHover":"e_1_7_a_1_h",
+               "activePostHover":"e_1_7_a_2_h",
+               "activeAskLeft":"76",
+               "activeAskTop":"526",
+               "activePostTop":"527",
+               "activePostLeft":"627",
+               "activePost":"e_1_7_a_2",
+               "activeAskHeight":"137",
+               "activeAskWidth":"266",
+               "activePostWidth":"372",
+               "activePostHeight":"137",
+               "yellowCard":"e_1_1_r",
+               "blueCard":"g_1_1_b",
+               "yellowBox1Left":"410",
+               "yellowBox1Top":"256",
+               "characterImage":"sasha_thinking",
+                "inactiveCharacter":"sasha_inactive",
+               "e_1_1_r_1":"I want everyone to see that goal I made.",
+               "e_1_1_r_2":"My Mom would want all her friends to be able to see the picture.",
+               "e_1_1_r_3":"It doesn’t matter if people I don’t know see the picture.",
+               "e_1_1_r_4":"Only the people I know need to see the picture.",
+               "e_1_1_r_5":"If a lot of people see the picture, Max is probably going to find out I shared it.",
+               "e_1_1_r_6":"Only my friends would want to see the picture anyway.",
+               "card1Audio":"e_1_7_r_1",
+			   "card2Audio":"e_1_7_r_2",
+			   "card3Audio":"e_1_7_r_3",
+			   "card4Audio":"e_1_7_r_4",
+			   "card5Audio":"e_1_7_r_5",
+			   "card6Audio":"e_1_7_r_6",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Sasha might share the photo with everyone or just with her friends.",
+               "purpleBoxText":"Drag the reasons why Sasha might share it with everyone to the left side of the screen and the reasons why she might only share it with her friends to the right.",
+               "correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
+               "correctSortPurpleTextVI":"Press 1 to have Sasha share the photo with everyone, or press 2 to have her share it with just her friends.",
+               "correctSortFeedbackAudio":"e_1_7_s_1",
+   				"correctSortFeedbackFrAudio":"f_1_7_s_1",
+   				"correctSortFeedbackVIAudio":"e_1_7_s_v",
+               "purpleBox":"e_1_1_i",
+               "helpContent1":"What are the reasons why Sasha would want as many people as possible to see the picture? Put them with “Share With Everyone.”",
+               "helpContent2":"What are the reasons why Sasha would want to make sure that not too many people see the picture? Put them with “Share With Just My Friends.”",
+               "storyBackgroundimageFr":"f_1_7_q",
+				"activeAskFr":"f_1_7_a_1",
+				"activePostFr":"f_1_7_a_2",
+				"activeAskHoverFr":"f_1_7_a_1_h",
+				"activePostHoverFr":"f_1_7_a_2_h",
+				"activeAskLeftFr":"54",
+				"activeAskTopFr":"527",
+				"activePostLeftFr":"703",
+				"activePostTopFr":"526",
+				"activeAskWidthFr":"275",
+				"activeAskHeightFr":"135",
+				"activePostWidthFr":"273",
+				"activePostHeightFr":"144"
+            }
+         ]
+      },
+    {  
+         "pages":[  
+            {  
+               "scene":"10",
+               "storyBackgroundimage":"g_1_11_1_1",
+               "hashInfo":"content",
+               "title-Audio":"g_1_11_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_11_1_1",
+                     "panelAudio":"e_1_11_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_ne f12",
+                           "id":"e_1_11_1_1_2",
+                           "bubbleContent":"I know, I’ll delete the photo so no one else can see it.",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_11_1_1_2",
+                           "left":"200px",
+                           "top":"50px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_11_1_2",
+                     "panelAudio":"e_1_9_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s f16",
+                           "id":"e_1_11_1_2_2",
+                           "bubbleContent":"I DELETED THE PIC",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_11_1_2_2",
+                           "left":"665px",
+                           "top":"190px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_s f16",
+                           "id":"e_1_11_1_2_3",
+                           "bubbleContent":"YOU DELETED YOUR COPY",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_11_1_2_3"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_m f14",
+                           "id":"e_1_11_1_2_4",
+                           "bubbleContent":"BUT OTHER PEOPLE STILL HAVE COPIES OF IT",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_11_1_2_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_11_1_3",
+                     "panelAudio":"e_1_11_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_s_nw f16",
+                           "id":"e_1_11_1_3_2",
+                           "bubbleContent":"Oh no, I didn’t think of that!",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_1_11_1_3_2",
+                           "left":"40px",
+                           "top":"360px"
+                        },
+                        {  
+                           "divClass":"tb_s_ne f16",
+                           "id":"e_1_11_1_3_3",
+                           "bubbleContent":"I guess all I can do is apologize.",
+                           "bubbleFontClass":"tb_s_text",
+                           "audioInfo":"e_1_11_1_3_3",
+                           "left":"340px",
+                           "top":"350px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_11_1_4",
+                     "panelAudio":"e_1_11_1_4_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_11_1_4_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s f14",
+                           "id":"e_1_11_1_4_2",
+                           "bubbleContent":"IM REALLY SORRY!",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_11_1_4_2",
+                           "left":"590px",
+                           "top":"605px"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "seenWrapUp":"1",
+               "hashInfo":"wrapUp",
+               "pageInfo":"secondWrapup",
+               "blueBoxAudio":"e_1_6_w_1",
+               "e_1_6_w_1":"You’ve reached ending 2 of 3. Sasha’s friend Max didn’t want anyone to see that picture. Sasha decided to delete it – but not until after people had seen it. How do you think Sasha felt about how things turned out?",
+               "e_1_6_w_2":"How do you think Max felt about it?",
+               "ENhappyFace":"happy_emoticon_inactive",
+               "ENsadFace":"sad_emoticon_inactive",
+               "ENmadFace":"mad_emoticon_inactive",
+               "ENworriedFace":"worried_emoticon_inactive",
+               "ENguiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_1_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"sasha_active",
+               "secondCharacter":"max_inactive",
+               "secondCharacterFaceSlot":"max_neutral",
+               "character1":"sasha",
+     			"character2":"max",	
+               "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_1_11_f",
+               "blueBoxFeedbackFr":"f_1_11_f",
+               "character1":"sasha_guilty",
+     			"character2":"max_mad",
+     			"inactiveCharacter1":"sasha",
+     			"inactiveCharacter2":"max"
+            }
+         ]
+      },
+    {
+      	"pages":[
+      		{  
+               "scene":"11",
+               "storyBackgroundimage":"g_1_12_1_1",
+               "hashInfo":"content",
+               "title-Audio":"g_1_12_1_1",
+               "frames":[  
+                  {  
+                     "image":"g_1_12_1_1",
+                     "panelAudio":"e_1_11_1_1_1",
+                     "bubbles":[  
+                        {  
+                           "divClass":"tb_m_nw f10",
+                           "id":"e_1_12_1_1_2",
+                           "bubbleContent":"Max’s mom has already seen the picture, so all I can do is say I’m sorry….",
+                           "bubbleFontClass":"tb_m_text",
+                           "audioInfo":"e_1_12_1_1_2",
+                           "left":"10px",
+                           "top":"10px"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_12_1_2",
+                     "panelAudio":"e_1_9_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_s f12",
+                           "id":"e_1_12_1_2_2",
+                           "bubbleContent":"HEY MAX IM REALLY SORRY",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_12_1_2_2",
+                           "left":"665px",
+                           "top":"200px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_9_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_sasha_l_m f14",
+                           "id":"e_1_12_1_2_3",
+                           "bubbleContent":"I DIDNT THINK U WOULD GET IN TROUBLE",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_12_1_2_3"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_12_1_3",
+                     "panelAudio":"e_1_12_1_3_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_12_1_3_1",
+                           "counter":"0",
+                           "divClass":"tt_max_r_s f12",
+                           "id":"e_1_12_1_3_2",
+                           "bubbleContent":"I KNOW U DIDN’T",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_12_1_3_2",
+                           "left":"175px",
+                           "top":"300px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_12_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_m f14",
+                           "id":"e_1_12_1_3_3",
+                           "bubbleContent":"IM IN TROUBLE CUZ I WAS AT THE GAME",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_12_1_3_3"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_12_1_3_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_m f16",
+                           "id":"e_1_12_1_3_4",
+                           "bubbleContent":"NOT BECAUSE U SHARED THE PIC",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_12_1_3_4"
+                        }
+                     ]
+                  },
+                  {  
+                     "image":"g_1_12_1_4",
+                     "panelAudio":"e_1_11_1_2_1",
+                     "bubbles":[  
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_11_1_2_1",
+                           "counter":"0",
+                           "divClass":"tt_sasha_l_m f16",
+                           "id":"e_1_12_1_4_2",
+                           "bubbleContent":"WHAT CAN I DO TO HELP?",
+                           "bubbleFontClass":"tt_l_text",
+                           "audioInfo":"e_1_12_1_4_2",
+                           "left":"665px",
+                           "top":"430px"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_11_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_m f14",
+                           "id":"e_1_12_1_4_3",
+                           "bubbleContent":"IM OK… JUST BORED CUZ I CANT GO OUT",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_12_1_4_3"
+                        },
+                        {  
+                           "parentClass":"tt_bg",
+                           "parentClassId":"e_1_11_1_2_1",
+                           "counter":"1",
+                           "divClass":"tt_max_r_m f14",
+                           "id":"e_1_12_1_4_4",
+                           "bubbleContent":"WANT TO PLAY UNISAURUS REALMS?",
+                           "bubbleFontClass":"tt_r_text",
+                           "audioInfo":"e_1_12_1_4_4"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "seenWrapUp":"2",
+               "hashInfo":"wrapUp",
+               "pageInfo":"thirdWrapup",
+               "blueBoxAudio":"e_1_12_w_1",
+               "e_1_6_w_1":"You’ve reached ending 3 of 3. Sasha decided to say she was sorry to Max for sharing the picture. How do you think she felt about it?",
+               "e_1_6_w_2":"How do you think Max felt about it?",
+               "happyFace":"happy_emoticon_inactive",
+               "sadFace":"sad_emoticon_inactive",
+               "madFace":"mad_emoticon_inactive",
+               "worriedFace":"worried_emoticon_inactive",
+               "guiltyFace":"guilty_emoticon_inactive",
+               "blueBox":"e_1_12_w",
+               "happyFaceLeft":"-20",
+               "emoticonsTop":"205",
+               "madFaceLeft":"180",
+               "sadFaceLeft":"380",
+               "worriedFaceLeft":"580",
+               "guiltyFaceLeft":"780",
+               "firstCharacter":"sasha_active",
+               "secondCharacter":"max_inactive",
+               "secondCharacterFaceSlot":"max_neutral",
+               "character1":"sasha",
+     			"character2":"max",	
+                "happyFaceFr":"french_happy_emoticon_inactive",
+               "sadFaceFr":"french_sad_emoticon_inactive",
+               "madFaceFr":"french_mad_emoticon_inactive",
+               "worriedFaceFr":"french_worried_emoticon_inactive",
+               "guiltyFaceFr":"french_guilty_emoticon_inactive"
+            },
+            {  
+               "storyBackgroundimage":"wrapUpBackground",
+               "hashInfo":"feedback",
+               "blueBoxFeedback":"e_1_12_f",
+               "blueBoxFeedbackFr":"f_1_12_f",
+               "character1":"sasha_guilty",
+     			"character2":"max_happy",
+     			"inactiveCharacter1":"sasha",
+     			"inactiveCharacter2":"max"
+            }
+      	]
+      }
+   ]
+}
