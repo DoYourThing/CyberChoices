@@ -1531,7 +1531,7 @@
                            "id":"e_4_10_2_2_2",
                            "bubbleContent":"Hey Max, I’m sorry I posted that pic of you throwing up in your locker… you were right to be mad.",
                            "bubbleFontClass":"tt_l_text",
-                           "audioInfo":"e_4_10_2_2_1",
+                           "audioInfo":"e_4_10_2_2_2",
                            "left":"650px",
                            "top":"250px"
                         }
@@ -1540,7 +1540,7 @@
                   {  
                      "image":"e_4_10_2_3",
 					 "frImage":"f_4_10_2_3",
-                     "panelAudio":"e_4_10_2_3_1",
+                     "panelAudio":"e_4_10_2_2_1",
                      "bubbles":[  
                         {  
                            "parentClass":"tt_bg",
