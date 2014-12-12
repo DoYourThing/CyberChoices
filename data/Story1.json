@@ -628,6 +628,7 @@
                "frames":[  
                   {  
                      "image":"g_1_5_1_1",
+                     "frImage":"f_1_5_1_1",
                      "panelAudio":"e_1_5_1_1_1",
                      "bubbles":[  
                         {  
@@ -661,6 +662,7 @@
                   },
                   {  
                      "image":"g_1_5_1_2",
+                     "frImage":"f_1_5_1_2",
                      "panelAudio":"e_1_5_1_2_1",
                      "bubbles":[  
                         {  
@@ -689,6 +691,7 @@
                   },
                   {  
                      "image":"g_1_5_1_3",
+                     "frImage":"f_1_5_1_3",
                      "panelAudio":"e_1_5_1_3_1",
                      "bubbles":[  
                         {  
@@ -704,6 +707,7 @@
                   },
                   {  
                      "image":"g_1_5_1_4",
+                     "frImage":"f_1_5_1_4",
                      "panelAudio":"e_1_5_1_4_1",
                      "bubbles":[  
                         {  
@@ -795,6 +799,7 @@
                "frames":[  
                   {  
                      "image":"g_1_5_1_1",
+                     "frImage":"f_1_5_1_1",
                      "panelAudio":"e_1_5_1_1_1",
                      "bubbles":[  
                         {  
@@ -828,6 +833,7 @@
                   },
                   {  
                      "image":"g_1_5_1_2",
+                     "frImage":"f_1_5_1_2",
                      "panelAudio":"e_1_5_1_2_1",
                      "bubbles":[  
                         {  
@@ -871,6 +877,7 @@
                   },
                   {  
                      "image":"g_1_5_1_4",
+                     "frImage":"f_1_5_1_4",
                      "panelAudio":"e_1_5_1_4_1",
                      "bubbles":[  
                         {  
@@ -1222,6 +1229,7 @@
                "frames":[  
                   {  
                      "image":"g_1_5_1_1",
+                     "frImage":"f_1_5_1_1",
                      "panelAudio":"e_1_5_1_1_1",
                      "bubbles":[  
                         {  
@@ -1255,6 +1263,7 @@
                   },
                   {  
                      "image":"g_1_5_1_2",
+                     "frImage":"f_1_5_1_2",
                      "panelAudio":"e_1_5_1_2_1",
                      "bubbles":[  
                         {  
@@ -1298,6 +1307,7 @@
                   },
                   {  
                      "image":"g_1_5_1_4",
+                     "frImage":"f_1_5_1_4",
                      "panelAudio":"e_1_5_1_4_1",
                      "bubbles":[  
                         {  
@@ -1581,6 +1591,7 @@
                "frames":[  
                   {  
                      "image":"g_1_5_1_1",
+                     "frImage":"f_1_5_1_1",
                      "panelAudio":"e_1_5_1_1_1",
                      "bubbles":[  
                         {  
@@ -1614,6 +1625,7 @@
                   },
                   {  
                      "image":"g_1_5_1_2",
+                     "frImage":"f_1_5_1_2",
                      "panelAudio":"e_1_5_1_2_1",
                      "bubbles":[  
                         {  
@@ -1642,6 +1654,7 @@
                   },
                   {  
                      "image":"g_1_5_1_3",
+                     "frImage":"f_1_5_1_3",
                      "panelAudio":"e_1_5_1_3_1",
                      "bubbles":[  
                         {  
@@ -1657,6 +1670,7 @@
                   },
                   {  
                      "image":"g_1_5_1_4",
+                     "frImage":"f_1_5_1_4",
                      "panelAudio":"e_1_5_1_4_1",
                      "bubbles":[  
                         {  
