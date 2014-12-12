@@ -34,7 +34,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
     var character1 = wrapUp.character1;
     var character3 = wrapUp.character3;
 	var previousId = "happy";
-	//console.log(e.keyCode);
+	console.log(e.keyCode);
 	switch(e.keyCode) {
 
 			case 49:	
@@ -143,6 +143,9 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				else
 				{
 					$("#secondText").css("display", "");
+					var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'2';
+					console.log($('body').find("#"+audio).length);
+					if($('body').find("#"+audio).length < 1) (router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
 				}
 				tabs.newCounter =  tabs.newCounter + 1;
 				switch(tabs.newCounter) {
@@ -173,6 +176,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 							
 							$("." + character3 + "_inactive").addClass(character3 + "_active_wrapup").removeClass(character3 + "_inactive");
 							$("." + character2 + "_active_wrapup").addClass(character2 + "_inactive_wrapup").removeClass(character2 + "_active_wrapup");
+							tabs.clickNext();
 						}
 					break;
 				};
@@ -204,10 +208,10 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 			break;
 				
 			case 88:
-				playAudio.stopAudioPlaying();
-				$('.modal.fade.in').modal('hide');
+				playAudio.stopAudioPlaying();			
 				if($("#ask").length != 0)
 				{
+					if($("#evaluationModalFail").is(':visible')) router.loadSortingJSFile();
 					if (router.VIStaus == 'ON')
 					{
 						if ($(".ui-draggable-disabled")[0])
@@ -218,7 +222,10 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 							playAudio.playFiles(tabs.card6Audio);
 						}
 					}
+
 				}
+				$('.modal.fade.in').modal('hide');
+
 			break;
 			
 			case 51:	

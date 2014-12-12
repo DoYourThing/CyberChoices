@@ -229,6 +229,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
     this.yellowBox1Left = page.yellowBox1Left;
     this.yellowBox1Top = page.yellowBox1Top;
     this.blueCard = page.blueCard;
+    this.feedbackAudio = page.feedbackAudio;
     this.e_1_1_r_1 = page.e_1_1_r_1;
     this.e_1_1_r_2 = page.e_1_1_r_2;
     this.e_1_1_r_3 = page.e_1_1_r_3;
@@ -359,7 +360,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 		this.character1 = page.character1;
 		this.character2 = page.character2;
 		this.character3 = page.character3;
-		var blueBoxAudio = page.blueBoxAudio;
+		var blueBoxAudio = this.blueBoxAudio = page.blueBoxAudio;
 		
 	    wrapUp.getCharacters(page);
 	    wrapUp.setActiveCharacter();	
@@ -721,7 +722,9 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 		$("#mainContainer").html(body);
 		router.loadWrapUpJSFile();
 		(router.getLanguage() == 'french'? playAudio.playFiles('f_g_h_5'):playAudio.playFiles('e_g_h_5'));
-		(router.VIStaus == 'OFF' ? tabs.showModal('wrapupPageHelp') : wrapUp.wrapUpFirstVisit());
+		//(router.VIStaus == 'OFF' ? tabs.showModal('wrapupPageHelp') : wrapUp.wrapUpFirstVisit());
+		wrapUp.wrapUpFirstVisit()
+		
 	}
 	
 	else if (hashInfo == 'feedback')
@@ -1089,7 +1092,7 @@ Tabs.prototype.sortingResult = function ()
 		$.get( "server.php?action=addNewSortingPage&newSortingPageId=" + tabs.solvedPageId );
 		tabs.myArray[tabs.solvedPageId] = 'checked';
 	   $('#evaluationModalSuccess').modal('show');
-	   (router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles(correctSortFeedbackFrAudio):playAudio.playFiles(correctSortFeedbackAudio)));
+	   (router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? playAudio.playFiles(correctSortFeedbackFrAudio):playAudio.playFiles(correctSortFeedbackAudio)):(router.getLanguage() == 'french'? playAudio.playFiles(correctSortFeedbackVIAudio.replace("e_","f_")):playAudio.playFiles(correctSortFeedbackVIAudio)));
 	   sortingPageAudio.correctFeedbackAudio(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio);
 	   
 	    //$('.purpleTextSort span').text(translator.T(correctSortFeedback));

@@ -1524,7 +1524,7 @@ HTMLFactory.prototype.unsolvedSortingPage = function ()
 						'<audio id="4" src="sounds/' + (router.getLanguage() == 'french'? 'f_1_1_r_5':'e_1_1_r_5') + '.mp3"></audio>' +
 						'<audio id="5" src="sounds/' + (router.getLanguage() == 'french'? 'f_1_1_r_6':'e_1_1_r_6') + '.mp3"></audio>' +
 						'<div id="purpleBox" style="position:absolute; left:298px; top:92px;"'+
-							' onclick=javascript:playAudio.playFiles("e_1_1_i_s"); >'+
+							' onclick=javascript:playAudio.playFiles("'+(router.getLanguage() == 'french'? 'f_1_1_r_6':'e_1_1_r_6')+'"); >'+
 							'<div class="cc_text f18 purpleTextSort">' +
 								'<span>' + translator.T(tabs.purpleBoxText) + '</span>' +
 							'</div>' +

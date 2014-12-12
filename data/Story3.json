@@ -48,7 +48,7 @@
                   },
                   {  
                      "image":"e_3_1_1_2",
-					 "frImage":"f_3_1_1_2",
+                     "frImage":"f_3_1_1_2",
                      "panelAudio":"e_3_1_1_2_1-1",
                      "bubbles":[  
                         {  
@@ -64,7 +64,7 @@
                   },
                   {  
                      "image":"e_3_1_1_3",
-					 "frImage":"f_3_1_1_3",
+                     "frImage":"f_3_1_1_3",
                      "panelAudio":"e_3_1_1_3_1",
                      "bubbles":[  
                         {  
@@ -80,7 +80,7 @@
                   },
                   {  
                      "image":"e_3_1_1_4",
-					 "frImage":"f_3_1_1_4",
+                     "frImage":"f_3_1_1_4",
                      "panelAudio":"e_3_1_1_4_1",
                      "bubbles":[  
                         {  
@@ -379,7 +379,7 @@
                "hashInfo":"sorting",
                "titleAudio":"e_3_2_q_1",
                "panelAudio":"e_3_2_i_s",
-                "VIpanelAudio":"e_3_2_i_v",
+               "VIpanelAudio":"e_3_2_i_v",
                "activeAsk":"e_3_2_a_1",
                "activeAskHover":"e_3_2_a_1_h",
                "activePostHover":"e_3_2_a_2_h",
@@ -676,6 +676,7 @@
                "hashInfo":"wrapUp",
                "pageInfo":"firstWrapup",
                "blueBoxAudio":"e_3_4_w_1",
+               "feedBackAudio":"e_3_4_f_1",
                "e_1_6_w_1":"You’ve reached ending 1 of 6. Sam decided not to do anything about being picked on in UniSaurus Realms. Aadan knew something was wrong, but Sam didn’t want to talk to him about it. How do you think Sam felt about how things turned out?",
                "e_1_6_w_2":"How do you think Aadan felt about it?",
                "blueBox":"e_3_12_w",
@@ -1036,6 +1037,7 @@
                "hashInfo":"wrapUp",
                "pageInfo":"firstWrapup",
                "blueBoxAudio":"e_3_6_w_1",
+               "feedBackAudio":"e_3_4_f_1",
                "e_1_6_w_1":"You’ve reached ending 2 of 6. Sam decided to try to get even with Laura for being mean to him. How do you think Sam felt about what happened?",
                "e_1_6_w_2":"How do you think Laura felt about it?",
                "blueBox":"e_3_12_w",
@@ -1319,6 +1321,7 @@
                "hashInfo":"wrapUp",
                "pageInfo":"firstWrapup",
                "blueBoxAudio":"e_3_8_w_1",
+               "feedBackAudio":"e_3_4_f_1",
                "e_1_6_w_1":"You’ve reached ending 3 of 6. Sam decided to try to make a joke out of Laura being mad at him. How do you think he felt about how things turned out?",
                "e_1_6_w_2":"",
                "blueBox":"e_3_12_w",
@@ -1529,6 +1532,7 @@
                "hashInfo":"wrapUp",
                "pageInfo":"firstWrapup",
                "blueBoxAudio":"e_3_9_w_1",
+               "feedBackAudio":"e_3_4_f_1",
                "e_1_6_w_1":"You’ve reached ending 4 of 6. Sam told Laura how she had made him feel. Laura found out that what she said hurt him a lot more than she thought it would. How do you think Sam felt about how things turned out?",
                "e_1_6_w_2":"How do you think Laura felt about it?",
                "blueBox":"e_3_12_w",
@@ -1872,6 +1876,7 @@
                "hashInfo":"wrapUp",
                "pageInfo":"firstWrapup",
                "blueBoxAudio":"e_3_11_w_1",
+               "feedBackAudio":"e_3_4_f_1",
                "e_1_6_w_1":"You’ve reached ending 5 of 6. Sam talked to Aadan about Laura being mean to him. How do you think Sam felt about how things turned out?",
                "e_1_6_w_2":"How do you think Aadan felt about it?",
                "blueBox":"e_3_12_w",
@@ -2102,6 +2107,7 @@
                "hashInfo":"wrapUp",
                "pageInfo":"thirdWrapup",
                "blueBoxAudio":"e_3_12_w_1",
+               "feedBackAudio":"e_3_4_f_1",
                "e_1_6_w_1":"You’ve reached ending 6 of 6. Sam and Aadan decided to tell a teacher that Laura was mean to Sam. How do you think Sam felt about how things turned out?",
                "e_1_6_w_2":"How do you think Aadan felt about it?",
                "blueBox":"e_3_12_w",

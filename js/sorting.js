@@ -20,9 +20,23 @@ if (tabs.myArray[tabs.solvedPageId] != 'checked')
 		if (currentHashArray[4].length == 1 && router.sortingFirstVisit == 0)
 		{
 			router.sortingFirstVisit ++;
-			(router.getLanguage() == 'french'? playAudio.playFiles('f_g_h_3'):playAudio.playFiles('e_g_h_3'));
+		
+			var introFile =  router.getLanguage() == 'french'? 'f_g_h_3':'e_g_h_3';
+
 			tabs.showModal('sortingFirstVisit');
-			(router.VIStaus == 'OFF' ? '' : sortingPageAudio.sortingVisit());
+			playAudio.playFiles(introFile);
+			$("#"+introFile).bind('ended', function(){
+				
+				$('.modal.fade.in').modal('hide');
+				
+				(router.VIStaus == 'OFF' ? playAudio.playFiles(tabs.panelAudio) : '');
+				$("#"+tabs.panelAudio).bind('ended', function(){
+					
+				});
+			});
+			sortingPageAudio.sortingVisit();
+			
+			
 		}
 		else
 		{

@@ -71,6 +71,10 @@ SortingPageAudio.prototype.sortingVisit = function()
 				$("#e_v_h_4").bind('ended', function(){
 					(router.VIStaus == 'OFF' ? playAudio.playFiles(panelAudio) : playAudio.playFiles(VIpanelAudio));
 					$('.modal.fade.in').modal('hide');
+					
+					$("#"+panelAudio).bind('ended', function(){
+						playAudio.playFiles(tabs.titleAudio);
+					});
 				});
 		});
 	}
@@ -83,6 +87,11 @@ SortingPageAudio.prototype.sortingVisit = function()
 			(router.getLanguage() == 'french'? playAudio.playFiles('f_v_h_4'):playAudio.playFiles('e_v_h_4'));
 			$("#f_v_h_4").bind('ended', function(){
 				(router.VIStaus == 'OFF' ? playAudio.playFiles(panelAudioFr) : playAudio.playFiles(VIpanelAudioFr));
+				$('.modal.fade.in').modal('hide');
+					
+				$("#"+panelAudioFr).bind('ended', function(){
+					playAudio.playFiles(tabs.titleAudio.replace("e_", "f_"));
+				});
 			});
 		});
 	}

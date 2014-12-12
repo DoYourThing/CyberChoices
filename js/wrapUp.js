@@ -147,7 +147,13 @@ WrapUp.prototype.wrapUpKeydownControl = function(c,previousId)
 
 WrapUp.prototype.feedbackFirstVisit = function()
 {
-	(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles('f_1_6_f_v_1'):playAudio.playFiles('e_1_6_f_v_1')) );
+	var audio = "french" == router.getLanguage() ? tabs.feedbackAudio.replace("e_","f_") : tabs.feedbackAudio;//'f_1_6_f_1' : 'e_1_6_f_1';
+	playAudio.playFiles(audio);
+	
+	$("#"+audio).bind('ended', function(){
+		(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles('f_1_6_f_v_1'):playAudio.playFiles('e_1_6_f_v_1')) );
+	});
+	
 };
 WrapUp.prototype.wrapUpFirstVisit = function()
 {
@@ -157,8 +163,17 @@ WrapUp.prototype.wrapUpFirstVisit = function()
 		$("#e_g_h_5").bind('ended', function(){
 				playAudio.stopAudioPlaying();
 				$('.modal.fade.in').modal('hide');
-				tabs.showModal('VIWrapUpHelp');
-				(router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_6'):playAudio.playHelpFile('e_v_h_6'));
+				
+				if(router.VIStaus != 'OFF') tabs.showModal('VIWrapUpHelp');
+				
+				var audioFile = router.VIStaus == 'OFF' ? 'e_s_h_6': 'e_v_h_6';
+				playAudio.playFiles(audioFile);
+				$("#"+audioFile).bind('ended', function(){
+					$('.modal.fade.in').modal('hide');	
+					//if(router.VIStaus != 'OFF') 
+						playAudio.playFiles(tabs.blueBoxAudio);
+				});
+				//(router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_6'):playAudio.playHelpFile('e_v_h_6'));
 		});
 	}
 	else if ($('#f_g_h_5').length > 0)
@@ -166,8 +181,16 @@ WrapUp.prototype.wrapUpFirstVisit = function()
 		$("#f_g_h_5").bind('ended', function(){
 			playAudio.stopAudioPlaying();
 			$('.modal.fade.in').modal('hide');
-			tabs.showModal('VIWrapUpHelp');
-			(router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_6'):playAudio.playHelpFile('e_v_h_6'));
+			if(router.VIStaus != 'OFF')  tabs.showModal('VIWrapUpHelp');
+			//(router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_6'):playAudio.playHelpFile('e_v_h_6'));
+			var audioFile = router.VIStaus == 'OFF' ? 'f_s_h_6': 'f_v_h_6';
+			playAudio.playFiles(audioFile);
+			$("#"+audioFile).bind('ended', function(){
+				$('.modal.fade.in').modal('hide');
+				
+				//if(router.VIStaus != 'OFF') 
+					playAudio.playFiles(tabs.blueBoxAudio.replace("e_","f_"));
+			});
 		});
 	}
 };

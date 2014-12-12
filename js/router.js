@@ -4,6 +4,7 @@ function Router()
 	this.VIStaus = 'OFF';
 	this.FirstHomevisit = 0;
 	this.lastHash = '';
+	this.sortingFirstVisit = 0;
 };
 
 Router.prototype.updateHashTab = function (tabName) {
