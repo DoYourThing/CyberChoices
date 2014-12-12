@@ -34,7 +34,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
     var character1 = wrapUp.character1;
     var character3 = wrapUp.character3;
 	var previousId = "happy";
-	console.log(e.keyCode);
+	//console.log(e.keyCode);
 	switch(e.keyCode) {
 
 			case 49:	
@@ -219,7 +219,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 						}
 						else
 						{
-							playAudio.playFiles(tabs.card6Audio);
+							(router.getLanguage() == 'french'? playAudio.playFiles(tabs.card6Audio.replace("e_", "f_")):playAudio.playFiles(tabs.card6Audio));							
 						}
 					}
 

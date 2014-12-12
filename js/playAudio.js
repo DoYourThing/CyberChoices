@@ -5,11 +5,17 @@ function PlayAudio() {
 
 PlayAudio.prototype.playFiles = function (AudioID)
 {
+	if($("#"+AudioID)) $("#"+AudioID).remove();
 	var newAudio = 
     	'<audio id="' + AudioID + '" src="./sounds/' + AudioID + '.mp3"></audio>' ;
     	$('#mainContainer').append(newAudio);
    		var audio = document.getElementById(AudioID);
 		audio.play();
+	$("#"+AudioID).bind('ended', function(){
+		$("#"+AudioID).remove();
+		
+	});
+
 };
 
 PlayAudio.prototype.playHelpFile = function (AudioID)
@@ -55,6 +61,7 @@ PlayAudio.prototype.stopAudioPlaying = function()
 		var duration = audio[0].duration;
 		audio[0].pause();
 		if(duration) audio[0].currentTime = 0;
+		$(audio).remove();
 	}
 	for (index = audio.length - 1; index >= 0; index--) 
 	{
