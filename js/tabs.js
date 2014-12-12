@@ -228,8 +228,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
     this.yellowCard = page.yellowCard;
     this.yellowBox1Left = page.yellowBox1Left;
     this.yellowBox1Top = page.yellowBox1Top;
-    this.blueCard = page.blueCard;
-    this.feedbackAudio = page.feedbackAudio;
+    this.blueCard = page.blueCard;    
     this.e_1_1_r_1 = page.e_1_1_r_1;
     this.e_1_1_r_2 = page.e_1_1_r_2;
     this.e_1_1_r_3 = page.e_1_1_r_3;
@@ -312,7 +311,8 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 	var firstCharacter = page.firstCharacter;
 
 	this.card6Audio = page.card6Audio;
-    
+    this.blueBoxAudio = page.blueBoxAudio;
+    this.feedbackAudio = page.feedbackAudio;
     if (hashInfo == 'sorting') 
     {
     	router.pageInfo('sorting');
@@ -730,6 +730,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 	else if (hashInfo == 'feedback')
 	{	
 		router.pageInfo('feedback');
+		this.feedbackAudio = page.feedbackAudio;
 		tabs.newCounter = 0;
 		$('#mainContainer').empty();
      	$("#mainContainer").append(htmlFactory.getFeedbackPage(page)).fadeIn('fast');
