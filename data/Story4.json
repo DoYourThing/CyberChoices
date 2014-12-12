@@ -1492,10 +1492,11 @@
                "storyBackgroundimage":"g_4_10_2_1",
                "hashInfo":"content",
                "title-Audio":"e_4_10_2_1",
+
                "frames":[  
                   {  
                      "image":"g_4_10_2_1",
-                     "panelAudio":"e_4_10_2_1_1",
+                     "panelAudio":"e_4_10_2_1_1",                     
                      "bubbles":[  
                         {  
                            "divClass":"tb_m_nw f14",

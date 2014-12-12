@@ -49,7 +49,7 @@
                   {  
                      "image":"e_3_1_1_2",
                      "frImage":"f_3_1_1_2",
-                     "panelAudio":"e_3_1_1_2_1-1",
+                     "panelAudio":"e_3_1_1_2_1",
                      "bubbles":[  
                         {  
                            "divClass":"cc cc_samir f14",
@@ -1087,7 +1087,7 @@
                "frames":[  
                   {  
                      "image":"e_3_7_1_1",
-                     "panelAudio":"e_3_6_2_2_1-1",
+                     "panelAudio":"e_3_6_2_2_1",
                      "bubbles":[  
                         {  
                            "divClass":"tb_m_nw f12",
@@ -1641,7 +1641,7 @@
                   },
                   {  
                      "image":"e_3_10_1_3",
-                     "panelAudio":"e_3_4_1_4_1-1",
+                     "panelAudio":"e_3_4_1_4_1",
                      "bubbles":[  
                         {  
                            "divClass":"wb_l_ne f12",
@@ -1656,7 +1656,7 @@
                   },
                   {  
                      "image":"e_3_10_1_4",
-                     "panelAudio":"e_3_10_1_2_1-1",
+                     "panelAudio":"e_3_10_1_2_1",
                      "bubbles":[  
                         {  
                            "divClass":"wb_s_sw f14",
