@@ -34,7 +34,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
     var character1 = wrapUp.character1;
     var character3 = wrapUp.character3;
 	var previousId = "happy";
-	//console.log(e.keyCode);
+	//console.log(e.keyCode+' , '+e.keyCode);
 	switch(e.keyCode) {
 
 			case 49:	
@@ -293,7 +293,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				playAudio.stopAudioPlaying();
 				playAudio.playFiles('g_m_2');	
 			break;
-			
+			//v
 			case 86:
 				if (typeof router.pageType == 'undefined' || router.pageType == 'home')
 				{
@@ -306,7 +306,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				{
 					playAudio.stopAudioPlaying();
 					router.updateVI();
-					(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVist'):tabs.showModal('VIHomeFirstVisit')));
+					//(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVist'):tabs.showModal('VIHomeFirstVisit')));
 				}
 			break;
 			
