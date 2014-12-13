@@ -101,7 +101,7 @@ left: 130px;
 }
 
 .modal-header h4{
-	font-family: ActionFigureBB;
+	font-family: 'actionfigure_bbregular';
 	font-size:35px;
 }
 
@@ -849,7 +849,7 @@ left: 130px;
 .modal-body {
     color: #FFFF38;
     font-style: italic;
-	font-family: ActionFigureBB;
+	font-family: 'actionfigure_bbregular';
     font-size: 30px;
     padding: 20px;
     font-weight: normal;
@@ -857,20 +857,83 @@ left: 130px;
     text-shadow: 3px 2px #000000;
 }
 
-/* Embed fonts */
+/* Embed fonts 
 @font-face {
-    font-family:ActionFigureBB;
-    src: url('../fonts/ActionFigureBB.otf')
+    font-family:'actionfigure_bbregular';
+    src: url('../fonts/actionfigure_bbregular.otf')
    
 }
 @font-face {
-    font-family:ActionFigureBBbold;
-    src:url('../fonts/ActionFigureBB_bold.otf');
+    font-family:actionfigure_bbregularbold;
+    src:url('../fonts/actionfigure_bbregular_bold.otf');
 }
 @font-face {
-    font-family:ActionFigureBBital;
-    src:url('../fonts/ActionFigureBB_ital.otf');
+    font-family:actionfigure_bbregularital;
+    src:url('../fonts/actionfigure_bbregular_ital.otf');
 }
+*/
+
+@font-face {
+    font-family: 'actionfigure_bbitalic';
+    src: url('../fonts/actionfigurebb_ital-webfont.eot');
+    src: url('../fonts/actionfigurebb_ital-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionfigurebb_ital-webfont.woff2') format('woff2'),
+         url('../fonts/actionfigurebb_ital-webfont.woff') format('woff'),
+         url('../fonts/actionfigurebb_ital-webfont.ttf') format('truetype'),
+         url('../fonts/actionfigurebb_ital-webfont.svg#actionfigure_bbitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'actionfigure_bbregular';
+    src: url('../fonts/actionfigurebb-webfont.eot');
+    src: url('../fonts/actionfigurebb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionfigurebb-webfont.woff2') format('woff2'),
+         url('../fonts/actionfigurebb-webfont.woff') format('woff'),
+         url('../fonts/actionfigurebb-webfont.ttf') format('truetype'),
+         url('../fonts/actionfigurebb-webfont.svg#actionfigure_bbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'actionfigure_bbbold_italic';
+    src: url('../fonts/actionfigurebb_boldital-webfont.eot');
+    src: url('../fonts/actionfigurebb_boldital-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionfigurebb_boldital-webfont.woff2') format('woff2'),
+         url('../fonts/actionfigurebb_boldital-webfont.woff') format('woff'),
+         url('../fonts/actionfigurebb_boldital-webfont.ttf') format('truetype'),
+         url('../fonts/actionfigurebb_boldital-webfont.svg#actionfigure_bbbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'actionfigure_bbbold';
+    src: url('../fonts/actionfigurebb_bold-webfont.eot');
+    src: url('../fonts/actionfigurebb_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionfigurebb_bold-webfont.woff2') format('woff2'),
+         url('../fonts/actionfigurebb_bold-webfont.woff') format('woff'),
+         url('../fonts/actionfigurebb_bold-webfont.ttf') format('truetype'),
+         url('../fonts/actionfigurebb_bold-webfont.svg#actionfigure_bbbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 
 /* word bubble - large size */
 /* the naming convention is as follows: blockname_size_direction, ie wb_l_nw = Word Bubble, Large, North West */
@@ -879,7 +942,7 @@ left: 130px;
 	margin:33px 0 0 37px;
 	text-align:center;
 	overflow:hidden;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:19px;
 }
 .wb_l_nw{
@@ -938,7 +1001,7 @@ left: 130px;
 	margin:37px 0 0 36px;
 	text-align:center;
 	overflow:hidden;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:19px;
 }
 .wb_m_nw{
@@ -1002,7 +1065,7 @@ left: 130px;
 	margin:35px 0 0 36px;
 	text-align:center;
 	overflow:hidden;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:19px;
 }
 .wb_s_nw{
@@ -1067,7 +1130,7 @@ left: 130px;
 	margin:25px 0 0 35px;
 	text-align:center;
 	overflow:hidden;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:19px;
 }
 .tb_l_nw .tb_l_text{
@@ -1101,7 +1164,7 @@ left: 130px;
 	margin:22px 0 0 28px;
 	text-align:center;
 	/*overflow:hidden;*/
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:19px;
 }
 .tb_m_nw .tb_m_text{
@@ -1135,7 +1198,7 @@ left: 130px;
 	margin:18px 0 0 24px;
 	text-align:center;
 	overflow:hidden;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:19px;
 }
 .tb_s_ne .tb_s_text{
@@ -1238,13 +1301,13 @@ left: 130px;
 }
 .ic_padding{
 	padding:42px 30px 0 20px;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:18px;
 	color:#FFFFFF;
 }
 .ic_padding1{
 	padding:42px 30px 0 20px;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height:18px;
 	color:#FFFFFF;
 }
@@ -1277,7 +1340,7 @@ left: 130px;
 /* narrator and character captions */
 .nc_text{
 	padding:3px 10px;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height: 22px
 }
 .nc_s_s{
@@ -1354,7 +1417,7 @@ left: 130px;
 }
 .cc_text{
 	padding:8px 10px;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height: 18px;
 	width:210px;
 }
@@ -1401,12 +1464,12 @@ left: 130px;
 
 .tt_l_text{
 	padding:22px 10px 0 80px;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height: 22px;
 }
 .tt_r_text{
 	padding:22px 80px 0 15px;
-	font-family:ActionFigureBB;
+	font-family:'actionfigure_bbregular';
 	line-height: 22px;
 }
 /* the naming convention is as follows: blockname_charactername_left-or-right_size, ie .tt_aadan_l_s = TickTalk, Aadan, Left, Small */
