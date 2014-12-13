@@ -87,7 +87,7 @@ init = function() {
             var words = ['ask', 'ask', 'ask', 'ask', 'post', 'post', 'post'];
 
             for (var i = 0; i <= 6; i++) {
-                $('<div>' + words[i - 1] + '</div>').data('words', words[i]).appendTo('#cardSlots' + [i]).droppable({
+                $('<div></div>').data('words', words[i]).appendTo('#cardSlots' + [i]).droppable({
                     hoverClass: 'hovered',
                     drop: handleCardDrop
                 });
