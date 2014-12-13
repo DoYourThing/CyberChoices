@@ -361,7 +361,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 		this.character2 = page.character2;
 		this.character3 = page.character3;
 		var blueBoxAudio = this.blueBoxAudio = page.blueBoxAudio;
-		
+		blueBoxAudio = router.getLanguage() == 'french' ? blueBoxAudio.replace("e_", "f_") : blueBoxAudio;
 	    wrapUp.getCharacters(page);
 	    wrapUp.setActiveCharacter();	
 
