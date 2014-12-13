@@ -1085,6 +1085,7 @@ Tabs.prototype.sortingResult = function ()
 			tabs.failCounter = 0;
 		}
     }
+    //show success
 	if (($('#cardPile0').find('#post').length) && 
 		($('#cardPile1').find('#post').length) && 
 		($('#cardPile2').find('#post').length))
@@ -1093,7 +1094,14 @@ Tabs.prototype.sortingResult = function ()
 		$.get( "server.php?action=addNewSortingPage&newSortingPageId=" + tabs.solvedPageId );
 		tabs.myArray[tabs.solvedPageId] = 'checked';
 	   $('#evaluationModalSuccess').modal('show');
-	   (router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? playAudio.playFiles(correctSortFeedbackFrAudio):playAudio.playFiles(correctSortFeedbackAudio)):(router.getLanguage() == 'french'? playAudio.playFiles(correctSortFeedbackVIAudio.replace("e_","f_")):playAudio.playFiles(correctSortFeedbackVIAudio)));
+	   playAudio.stopAudioPlaying();
+	   var audioToPlay;
+	   if(router.VIStaus == 'OFF'){
+			audioToPlay = router.getLanguage() == 'french' ? correctSortFeedbackFrAudio : correctSortFeedbackAudio;
+		}else{
+			audioToPlay = router.getLanguage() == 'french'? correctSortFeedbackVIAudio.replace("e_","f_") : correctSortFeedbackVIAudio;
+		}
+	   playAudio.playFiles(audioToPlay);
 	   sortingPageAudio.correctFeedbackAudio(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio);
 	   
 	    //$('.purpleTextSort span').text(translator.T(correctSortFeedback));

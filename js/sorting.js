@@ -132,7 +132,6 @@ function handleCardDrop(event, ui)
 	tabs.dropCounter ++;
 	tabs.cardCounter ++;
 	
-
 	if (slotNumber == cardNumber) {
 		correctCards++;
 	} else {
@@ -140,6 +139,8 @@ function handleCardDrop(event, ui)
 	}
 
 	if (tabs.dropCounter == 6) {
+		tabs.sortingResult();
+		return;
 		if (correctCards == 6) 
 		{
 			$('#evaluationModalSuccess').modal('show');
