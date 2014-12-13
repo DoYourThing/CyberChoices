@@ -981,14 +981,15 @@ Tabs.prototype.animateAskCards = function()
 			else break;
 		}
 	}
+	sortingPageAudio.cardAudios(tabs.cardCounter);
 	$(".ui-draggable#cardPile" + this.cardCounter).attr('id','ask').animate({
 		"left": $slot.position().left + 'px',
 		"top": $slot.position().top + 'px',
 		"z-index": "1"}, 1000, function()
 		{
-			var cardNumber = tabs.cardCounter;
-			var page = tabs.page;
-			sortingPageAudio.cardAudios(cardNumber);
+			//var cardNumber = ;
+			//var page = tabs.page;
+			
 		});
 	this.askLeft = this.askLeft;
 	
@@ -1023,15 +1024,16 @@ Tabs.prototype.animatePostCards = function()
 		}
 	}
 
+	sortingPageAudio.cardAudios(tabs.cardCounter);
     $(".ui-draggable#cardPile" + this.cardCounter).attr('id','post').animate({
 		"left": $slot.position().left+ 'px',
 		"top": $slot.position().top + 'px',
 		"z-index": "1"
     }, 1000, function()
     {
-    	var cardNumber = tabs.cardCounter;
-		var page = tabs.page;
-		sortingPageAudio.cardAudios(cardNumber);
+  //   	var cardNumber = tabs.cardCounter;
+		// var page = tabs.page;
+		// sortingPageAudio.cardAudios(cardNumber);
     });
     
     this.postLeft = this.postLeft;
@@ -1101,8 +1103,11 @@ Tabs.prototype.sortingResult = function ()
 		}else{
 			audioToPlay = router.getLanguage() == 'french'? correctSortFeedbackVIAudio.replace("e_","f_") : correctSortFeedbackVIAudio;
 		}
-	   playAudio.playFiles(audioToPlay);
-	   sortingPageAudio.correctFeedbackAudio(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio);
+	   
+		playAudio.playFiles(audioToPlay);
+		sortingPageAudio.correctFeedbackAudio(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio);
+		
+	   
 	   
 	    //$('.purpleTextSort span').text(translator.T(correctSortFeedback));
 		(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleText)): $('.purpleTextSort span').text((tabs.correctSortPurpleText))): (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleTextVI)): $('.purpleTextSort span').text((tabs.correctSortPurpleTextVI))));
@@ -1111,6 +1116,8 @@ Tabs.prototype.sortingResult = function ()
 			router.getLanguage() == 'french'? this.activePostFr:this.activePost);
 
 		 $('#sortThoughtBubble').remove();
+
+		 
 	}
 	
 	this.cardCounter = -1;

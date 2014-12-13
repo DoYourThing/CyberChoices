@@ -109,7 +109,7 @@ SortingPageAudio.prototype.setSortingHelpContent = function(){
 
 SortingPageAudio.prototype.correctFeedbackAudio = function(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio){
 	
-	$("#"+correctSortFeedbackAudio).bind('ended', function(){
+	$("#"+correctSortFeedbackVIAudio).bind('ended', function(){
 		playAudio.playFiles(correctSortFeedbackVIAudio);
 	});
 };
