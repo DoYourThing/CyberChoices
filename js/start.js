@@ -26,8 +26,17 @@ $(document).ready(function()
 	{
 		router.route();
 	});
+	soundManager.setup({
+	  url: '../swf/',
+	  flashVersion: 8, // optional: shiny features (default = 8)
+	  // optional: ignore Flash where possible, use 100% HTML5 mode
+	  preferFlash: false,
+	  onready: function() {
+	    // Ready to use; soundManager.createSound() etc. can now be called.
+	    router.route();
+	  }
+	});
 	
-	router.route();
 	window.addEventListener("keydown", keyboardBinder.bindKeys, false);
 
 	var startloading = function(){

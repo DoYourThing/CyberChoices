@@ -3022,7 +3022,10 @@ height: 292px;
 
 
 
-
+.ie8 .modal-dialog{
+    max-width: 600px;
+    width: 600px;
+}
 
 #VIWrapUpHelp .restartButton, 
 #wrapUpFirstVisit .restartButton,

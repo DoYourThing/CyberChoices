@@ -1,11 +1,27 @@
 function PlayAudio() {
 	this.audioArray = Array();
 	this.audioCounter = -1;
+
+	
 };
 
 PlayAudio.prototype.playFiles = function (AudioID)
 {
 	if($("#"+AudioID)) $("#"+AudioID).remove();
+
+	var link = './sounds/' + AudioID + '.mp3';
+	if (soundManager.canPlayURL(link)) {
+	 soundManager.play(AudioID, link);
+	}
+	return;
+	soundManager.createSound({
+	    id: AudioID,
+	    url: './sounds/' + AudioID + '.mp3',
+	    autoLoad: true,
+  		autoPlay: true,
+	  });
+	return;
+
 	var newAudio = 
     	'<audio id="' + AudioID + '" src="./sounds/' + AudioID + '.mp3"></audio>' ;
     	$('#mainContainer').append(newAudio);
@@ -54,6 +70,9 @@ PlayAudio.prototype.playRepeatedFiles = function (AudioID)
           
 PlayAudio.prototype.stopAudioPlaying = function()
 {
+	soundManager.stopAll();
+	return;
+	//soundManager.reset();
 	var audio = document.getElementsByTagName("audio");
 	if (audio.length > 0)
 	{
