@@ -278,7 +278,7 @@ Fr['What are the reasons why it might be good or bad for Violet to keep playing 
 Fr['What are the reasons why it might be right or wrong for Violet to keep playing or to log off?'] = 'Quelles sont les raisons pour lesquelles il serait bien ou mal pour Violette de continuer de jouer ou de se déconnecter?';
 Fr['Good job! You’ve sorted out the reasons why Violet might choose to keep playing or log off and come back later.'] = 'Beau travail! Tu as trié les raisons pour lesquelles Violette pourrait choisir de continuer de jouer ou de se déconnecter et de revenir plus tard. Maintenant, clique sur un des deux choix pour décider comment l’histoire se déroulera.';
 Fr["If I stay Laura will probably just get mad at me. I'll log out until she cools down."] = 'Si je reste, Laura se fâchera probablement contre moi. Je vais me déconnecter jusqu’à ce qu’elle se calme.';
-Fr["I hope Laura doesn't stay madÖ and I hope that guy's all right."] = 'J’espère que Laura ne restera pas fâchée… et j’espère que Sameen va bien.';
+Fr["I hope Laura doesn't stay mad — and I hope that guy's all right."] = 'J’espère que Laura ne restera pas fâchée… et j’espère que Sameen va bien.';
 Fr['You’ve reached ending 5 of 7. Violet decided to walk away when someone was being picked on online. How do you think Laura felt about how things turned out?'] = 'Tu as atteint la fin 5 de 7. Violette a décidé de partir alors que quelqu’un se faisait intimider en ligne. Comment crois-tu que Laura s’est sentie?';
 Fr['How do you think Violet felt about it?'] = 'Comment crois-tu que Violette s’est sentie?';
 Fr['If I leave now Laura will probably just get mad at me.'] = 'Si je quitte le jeu maintenant, Laura se fâchera probablement contre moi.';
