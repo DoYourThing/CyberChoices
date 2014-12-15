@@ -518,7 +518,7 @@
                "frames":[  
                   {  
                      "image":"e_4_4_1_1",
-					 "frImage":"f_4_4_1_1",
+                     "frImage":"f_4_4_1_1",
                      "panelAudio":"e_4_4_1_1_1",
                      "bubbles":[  
                         {  
@@ -534,8 +534,8 @@
                   },
                   {  
                      "image":"e_4_4_1_2",
-					 "frImage":"f_4_4_1_2",
-                     "panelAudio":"e_4_1_1_2_1",
+                     "frImage":"f_4_4_1_2",
+                     "panelAudio":"e_4_4_1_2_1",
                      "bubbles":[  
                         {  
                            "divClass":"tb_s_nw f14",
@@ -550,7 +550,7 @@
                   },
                   {  
                      "image":"e_4_4_1_3",
-					 "frImage":"f_4_4_1_3",
+                     "frImage":"f_4_4_1_3",
                      "panelAudio":"e_4_4_1_3_1",
                      "bubbles":[  
                         {  
