@@ -207,6 +207,7 @@ WrapUp.prototype.feedbackFirstVisit = function()
 WrapUp.prototype.wrapUpFirstVisit = function()
 {
 	tabs.showModal('wrapUpFirstVisit');
+
 	if($('#e_g_h_5').length > 0)
 	{
 		$("#e_g_h_5").bind('ended', function(){
@@ -214,8 +215,9 @@ WrapUp.prototype.wrapUpFirstVisit = function()
 				$('.modal.fade.in').modal('hide');
 				
 				if(router.VIStaus != 'OFF') tabs.showModal('VIWrapUpHelp');
-				
+				else tabs.showModal('wrapupPageHelp');
 				var audioFile = router.VIStaus == 'OFF' ? 'e_s_h_6': 'e_v_h_6';
+
 				playAudio.playFiles(audioFile);
 				$("#"+audioFile).bind('ended', function(){
 					$('.modal.fade.in').modal('hide');	

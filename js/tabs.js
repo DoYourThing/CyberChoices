@@ -722,7 +722,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 		$("#mainContainer").html(body);
 		router.loadWrapUpJSFile();
 		(router.getLanguage() == 'french'? playAudio.playFiles('f_g_h_5'):playAudio.playFiles('e_g_h_5'));
-		//(router.VIStaus == 'OFF' ? tabs.showModal('wrapupPageHelp') : wrapUp.wrapUpFirstVisit());
+		
 		wrapUp.wrapUpFirstVisit()
 		
 	}
@@ -1067,6 +1067,7 @@ Tabs.prototype.sortingResult = function ()
 		$('#cardPile1').find('#ask').length || 
 		$('#cardPile2').find('#ask').length)
     {
+    	playAudio.stopAudioPlaying();
     	
 		tabs.failCounter++;
 		if (tabs.failCounter == 1)
