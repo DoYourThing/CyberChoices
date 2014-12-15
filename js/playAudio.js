@@ -7,7 +7,7 @@ function PlayAudio() {
 
 PlayAudio.prototype.playFiles = function (AudioID)
 {
-	//if($("#"+AudioID)) $("#"+AudioID).remove();
+	if($("#"+AudioID)) $("#"+AudioID).remove();
 var newAudio = 
     	'<audio id="' + AudioID + '" src="./sounds/' + AudioID + '.mp3"></audio>' ;
     	$('#mainContainer').append(newAudio);
