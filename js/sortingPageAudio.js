@@ -52,8 +52,41 @@ SortingPageAudio.prototype.cardAudios = function(cardNumber)
     	(router.getLanguage() == 'french'? playAudio.playFiles(FRcard6Audio):playAudio.playFiles(card6Audio));
     }
 };
+SortingPageAudio.prototype.playIntro = function()
+{
+	//eg f_1_1_q_1
+	var introFile =  router.getLanguage() == 'french'? tabs.titleAudio.replace("e_", "f_"): tabs.titleAudio;
+	
+	playAudio.playFiles(introFile);
+	$("#"+introFile).bind('ended', function(){
+		
+		$('.modal.fade.in').modal('hide');		
+		sortingPageAudio.playPanelAudio();
+	});
 
+}
 
+SortingPageAudio.prototype.playPanelAudio = function()
+{
+	var panelAudio = router.VIStaus == 'OFF' ? tabs.panelAudio : tabs.VIpanelAudio;
+	panelAudio = router.getLanguage() == 'french' ? nextFile.replace("e_","f_") : nextFile;
+	
+	playAudio.playFiles(panelAudio);
+	$("#"+panelAudio).bind('ended', function(){
+		$('.modal.fade.in').modal('hide');
+	});
+}
+
+SortingPageAudio.prototype.playHelpAudio = function()
+{
+	var panelAudio = router.VIStaus == 'OFF' ? tabs.panelAudio : tabs.VIpanelAudio;
+	panelAudio = router.getLanguage() == 'french' ? nextFile.replace("e_","f_") : nextFile;
+	
+	playAudio.playFiles(panelAudio);
+	$("#"+panelAudio).bind('ended', function(){
+		$('.modal.fade.in').modal('hide');
+	});
+}
 SortingPageAudio.prototype.sortingVisit = function()
 {
 	var panelAudio = tabs.panelAudio;
@@ -61,12 +94,20 @@ SortingPageAudio.prototype.sortingVisit = function()
 	var panelAudioFr = panelAudio.replace("e_", "f_");
 	var VIpanelAudioFr = VIpanelAudio.replace("e_", "f_");
 	
+	
+	
+	
+
 	if($('#e_g_h_3').length > 0)
 	{
 		$("#e_g_h_3").bind('ended', function(){
-				playAudio.stopAudioPlaying();
 				$('.modal.fade.in').modal('hide');
-				tabs.showModal('VISortingHelp');
+				playAudio.stopAudioPlaying();
+				//tabs.showModal('VISortingHelp');
+				sortingPageAudio.playIntro();
+				return;
+
+				
 				(router.getLanguage() == 'french'? playAudio.playFiles('f_v_h_4'):playAudio.playFiles('e_v_h_4'));
 				$("#e_v_h_4").bind('ended', function(){
 					(router.VIStaus == 'OFF' ? playAudio.playFiles(panelAudio) : playAudio.playFiles(VIpanelAudio));
@@ -81,8 +122,12 @@ SortingPageAudio.prototype.sortingVisit = function()
 	else if ($('#f_g_h_3').length > 0)
 	{
 		$("#f_g_h_3").bind('ended', function(){
-			playAudio.stopAudioPlaying();
 			$('.modal.fade.in').modal('hide');
+			playAudio.stopAudioPlaying();
+			//tabs.showModal('VISortingHelp');
+			sortingPageAudio.playIntro();
+			return;
+			
 			tabs.showModal('VISortingHelp');
 			(router.getLanguage() == 'french'? playAudio.playFiles('f_v_h_4'):playAudio.playFiles('e_v_h_4'));
 			$("#f_v_h_4").bind('ended', function(){
@@ -98,7 +143,8 @@ SortingPageAudio.prototype.sortingVisit = function()
 	else
 	{
 		$('.modal-open').modal('hide');
-		(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? playAudio.playFiles(panelAudioFr):playAudio.playFiles(panelAudio)) : (router.getLanguage() == 'french'? playAudio.playFiles(VIpanelAudioFr):playAudio.playFiles(VIpanelAudio)));
+		sortingPageAudio.playIntro();
+		//(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? playAudio.playFiles(panelAudioFr):playAudio.playFiles(panelAudio)) : (router.getLanguage() == 'french'? playAudio.playFiles(VIpanelAudioFr):playAudio.playFiles(VIpanelAudio)));
 	}
 };
 
