@@ -936,7 +936,7 @@
                      "panelAudio":"e_4_1_1_1_1",
                      "bubbles":[  
                         {  
-                           "divClass":"tb_s_nw",
+                           "divClass":"tb_s_nw f10",
                            "id":"e_4_7_1_1_2",
                            "bubbleContent":"I’m going to tell that thief just what I think of him!",
                            "bubbleFontClass":"tb_s_text",
