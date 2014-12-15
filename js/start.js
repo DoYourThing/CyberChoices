@@ -1,10 +1,26 @@
 $(document).ready(function()
 {	
+
+	router = new Router();
+	// soundManager.setup({
+	// 	  url: './swf/',
+	// 	  //flashVersion: 8, // optional: shiny features (default = 8)
+	// 	  debugFlash: true,
+	// 	  flashLoadTimeout: 0,
+	// 	  //useFlashBlock: false,
+	// 	  // optional: ignore Flash where possible, use 100% HTML5 mode
+	// 	  preferFlash: true,
+	// 	  onready: function() {
+	// 	    // Ready to use; soundManager.createSound() etc. can now be called.
+		    
+
+	// 	  }
+	// });
 	htmlFactory = new HTMLFactory();
 	keyboardBinder = new KeyboardBinder();
 	translator = new Translator();
 	tabs = new Tabs();
-	router = new Router();
+	
 	uiHover = new UIHover();
 	wrapUp = new WrapUp();
 	playAudio = new PlayAudio();
@@ -26,18 +42,16 @@ $(document).ready(function()
 	{
 		router.route();
 	});
-	soundManager.setup({
-	  url: '../swf/',
-	  flashVersion: 8, // optional: shiny features (default = 8)
-	  // optional: ignore Flash where possible, use 100% HTML5 mode
-	  preferFlash: false,
-	  onready: function() {
-	    // Ready to use; soundManager.createSound() etc. can now be called.
-	    router.route();
-	  }
-	});
+	router.route();
+
+		
+	if (window.addEventListener) {
+		window.addEventListener("keydown", keyboardBinder.bindKeys, false);
+	}
+	else {
+		window.attachEvent("keydown", keyboardBinder.bindKeys, false);	
+	}
 	
-	window.addEventListener("keydown", keyboardBinder.bindKeys, false);
 
 	var startloading = function(){
 						

@@ -26,6 +26,55 @@ WrapUp.prototype.setActiveCharacter = function ()
     var character3 = this.character3;
 };
 
+WrapUp.prototype.advanceEmotionFeedback = function ()
+{
+	tabs.nextIsClicked();
+	if (typeof tabs.e_1_6_w_2 === "undefined") 
+	{}
+	else
+	{
+		$("#secondText").css("display", "");
+		var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'2';
+		console.log($('body').find("#"+audio).length);
+		if($('body').find("#"+audio).length < 1) (router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
+	}
+	tabs.newCounter =  tabs.newCounter + 1;
+	var character2 = this.character2;
+    var character1 = this.character1; 
+    var character3 = this.character3;
+	switch(tabs.newCounter) {
+		case 1:
+			if ($("." + character1 + "_active_wrapup")[0]) 
+			{
+				$("#SashaFaceSlot").attr("id", "changed");
+				$("." + character2 + "_inactive").addClass(character2 + "_active_wrapup").removeClass(character2 + "_inactive");
+				$("." + character1 + "_active_wrapup").addClass(character1 + "_inactive_wrapup").removeClass(character1 + "_active_wrapup");
+			}
+			break;
+
+		case 2:
+			if ($("." + character1 + "_active_wrapup")[0]) 
+			{
+				$("#SashaFaceSlot").attr("id", "changed");
+				$("." + character2 + "_inactive").addClass(character2 + "_active_wrapup").removeClass(character2 + "_inactive");
+				$("." + character1 + "_active_wrapup").addClass(character1 + "_inactive_wrapup").removeClass(character1 + "_active_wrapup");
+			}
+			else if ($("." + character2 + "_active_wrapup")[0]) 
+			{
+				if (typeof tabs.e_1_6_w_3 === "undefined") 
+				{}
+				else
+				{
+					$("#thirdText").css("display", "");
+				}
+				
+				$("." + character3 + "_inactive").addClass(character3 + "_active_wrapup").removeClass(character3 + "_inactive");
+				$("." + character2 + "_active_wrapup").addClass(character2 + "_inactive_wrapup").removeClass(character2 + "_active_wrapup");
+				tabs.clickNext();
+			}
+		break;
+	};
+}
 WrapUp.prototype.emotoiconClick = function (emoticonId) 
 {
 	var character2 = this.character2;
@@ -62,7 +111,7 @@ WrapUp.prototype.emotoiconClick = function (emoticonId)
 	}
 	a = b;
 	$(".emoticons#" + b).addClass("selected");
-
+	wrapUp.advanceEmotionFeedback();
 
 };
 

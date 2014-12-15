@@ -7,22 +7,8 @@ function PlayAudio() {
 
 PlayAudio.prototype.playFiles = function (AudioID)
 {
-	if($("#"+AudioID)) $("#"+AudioID).remove();
-
-	var link = './sounds/' + AudioID + '.mp3';
-	if (soundManager.canPlayURL(link)) {
-	 soundManager.play(AudioID, link);
-	}
-	return;
-	soundManager.createSound({
-	    id: AudioID,
-	    url: './sounds/' + AudioID + '.mp3',
-	    autoLoad: true,
-  		autoPlay: true,
-	  });
-	return;
-
-	var newAudio = 
+	//if($("#"+AudioID)) $("#"+AudioID).remove();
+var newAudio = 
     	'<audio id="' + AudioID + '" src="./sounds/' + AudioID + '.mp3"></audio>' ;
     	$('#mainContainer').append(newAudio);
    		var audio = document.getElementById(AudioID);
@@ -32,6 +18,23 @@ PlayAudio.prototype.playFiles = function (AudioID)
 		
 	});
 
+	return;
+	
+	soundManager.createSound({
+	    id: AudioID,
+	    url: './sounds/' + AudioID + '.mp3',
+	    autoLoad: true,
+  		autoPlay: true,
+	  });
+	return;
+	var link = './sounds/' + AudioID + '.mp3';
+	if (soundManager.canPlayURL(link)) {
+	 soundManager.play(AudioID, link);
+	}
+	return;
+	
+	
+	
 };
 
 PlayAudio.prototype.playHelpFile = function (AudioID)
@@ -70,8 +73,7 @@ PlayAudio.prototype.playRepeatedFiles = function (AudioID)
           
 PlayAudio.prototype.stopAudioPlaying = function()
 {
-	soundManager.stopAll();
-	return;
+	
 	//soundManager.reset();
 	var audio = document.getElementsByTagName("audio");
 	if (audio.length > 0)

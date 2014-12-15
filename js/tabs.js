@@ -922,6 +922,7 @@ Tabs.prototype.nextIsClicked = function()
 	//router.updateHashTab();
 };
 
+
 Tabs.prototype.changeImage = function(activeAsk, activePost)
 {
 	var askDiv = 

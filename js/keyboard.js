@@ -137,6 +137,8 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				};
 			break;
 			case 13:
+				wrapUp.advanceEmotionFeedback();
+				return;
 				tabs.nextIsClicked();
 				if (typeof tabs.e_1_6_w_2 === "undefined") 
 				{}
@@ -147,6 +149,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 					console.log($('body').find("#"+audio).length);
 					if($('body').find("#"+audio).length < 1) (router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
 				}
+				//wrapUp.advanceEmotionFeedback();
 				tabs.newCounter =  tabs.newCounter + 1;
 				switch(tabs.newCounter) {
 					case 1:
