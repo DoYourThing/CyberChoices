@@ -38,10 +38,8 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 	{}
 	else
 	{
-		$("#secondText").css("display", "");
-		var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'2';
-		console.log($('body').find("#"+audio).length);
-		if($('body').find("#"+audio).length < 1) (router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
+		
+		
 	}
 	tabs.newCounter =  tabs.newCounter + 1;
 	var character2 = this.character2;
@@ -54,6 +52,9 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 				$("#SashaFaceSlot").attr("id", "changed");
 				$("." + character2 + "_inactive").addClass(character2 + "_active_wrapup").removeClass(character2 + "_inactive");
 				$("." + character1 + "_active_wrapup").addClass(character1 + "_inactive_wrapup").removeClass(character1 + "_active_wrapup");
+				var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'2';		
+				(router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
+				$("#secondText").css("display", "");
 			}
 			break;
 
@@ -75,6 +76,20 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 				
 				$("." + character3 + "_inactive").addClass(character3 + "_active_wrapup").removeClass(character3 + "_inactive");
 				$("." + character2 + "_active_wrapup").addClass(character2 + "_inactive_wrapup").removeClass(character2 + "_active_wrapup");
+				var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'3';		
+				(router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
+				//tabs.clickNext();
+			}
+			break;
+		case 3:
+			if ($("." + character2 + "_active_wrapup")[0]) 
+			{
+				$("#SashaFaceSlot").attr("id", "changed");
+				$("." + character3 + "_inactive").addClass(character2 + "_active_wrapup").removeClass(character3 + "_inactive");
+				$("." + character2 + "_active_wrapup").addClass(character2 + "_inactive_wrapup").removeClass(character2 + "_active_wrapup");
+			}
+			else if ($("." + character3 + "_active_wrapup")[0]) 
+			{
 				tabs.clickNext();
 			}
 		break;
