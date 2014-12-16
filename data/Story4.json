@@ -936,10 +936,10 @@
                      "panelAudio":"e_4_1_1_1_1",
                      "bubbles":[  
                         {  
-                           "divClass":"tb_s_nw f10",
+                           "divClass":"tb_m_nw f11",
                            "id":"e_4_7_1_1_2",
                            "bubbleContent":"I’m going to tell that thief just what I think of him!",
-                           "bubbleFontClass":"tb_s_text",
+                           "bubbleFontClass":"tb_m_text",
                            "audioInfo":"e_4_7_1_1_2",
                            "left":"220px",
                            "top":"10px"
