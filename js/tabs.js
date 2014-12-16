@@ -371,8 +371,8 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
     		var body =
     	 		'<div style="background: url(images/' + 
 					tabs.storyBackgroundimage + '.png) no-repeat center;  width: 1024px; height: 768px;">' +
-					'<div class="' + 
-				(router.getLanguage() == 'french'? 'FrNext':'Next') + '" onclick="tabs.clickNext();"' +
+					'<div id="wrapup-next-button" class="' + 
+				(router.getLanguage() == 'french'? 'FrNext':'Next') + '" onclick="wrapUp.clickNext();"' +
 				' onmouseout=uiHover.homeOffHover("Next"); ' + 
 			' onmouseover=uiHover.homeOnHover("Next"); ></div>'+
 				'<div id="title" style="background: url(images/' + 	 
@@ -512,9 +512,9 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
     	  var body = 
             '<div style="background: url(images/' + tabs.storyBackgroundimage + 
 				'.png) no-repeat center;  width: 1024px; height: 768px;">' +
-				'<div class="' + 
+				'<div id="wrapup-next-button" class="' + 
 				(router.getLanguage() == 'french'? 'FrNext':'Next') +
-				 '" onclick="tabs.clickNext();"' +
+				 '" onclick="wrapUp.clickNext();"' +
 				'" onmouseout=uiHover.homeOffHover("Next"); ' + 
 			' onmouseover=uiHover.homeOnHover("Next"); ></div>'+
 				'<div id="title" style="background: url(images/' + 

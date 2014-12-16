@@ -28,7 +28,12 @@ WrapUp.prototype.setActiveCharacter = function ()
 
 WrapUp.prototype.advanceEmotionFeedback = function ()
 {
+	
+	if( !wrapUp.emoticonIsSelected() ) return;
+
 	tabs.nextIsClicked();
+	playAudio.stopAudioPlaying();
+	$("#wrapup-next-button").hide();
 	if (typeof tabs.e_1_6_w_2 === "undefined") 
 	{}
 	else
@@ -74,6 +79,8 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 			}
 		break;
 	};
+
+	wrapUp.resetSelectedEmoticons();
 }
 WrapUp.prototype.emotoiconClick = function (emoticonId) 
 {
@@ -111,8 +118,8 @@ WrapUp.prototype.emotoiconClick = function (emoticonId)
 	}
 	a = b;
 	$(".emoticons#" + b).addClass("selected");
-	wrapUp.advanceEmotionFeedback();
-
+	//wrapUp.advanceEmotionFeedback();
+	$("#wrapup-next-button").show();
 };
 
 WrapUp.prototype.applySelectedEmoticons = function(b)
@@ -139,12 +146,23 @@ WrapUp.prototype.applySelectedEmoticons = function(b)
 
 WrapUp.prototype.resetSelectedEmoticons = function()
 {
+	$("#wrapup-next-button").hide();
 	$("#sad").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") + "sad_emoticon_inactive.png)");
 	$("#worried").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") + "worried_emoticon_inactive.png)");
 	$("#mad").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") + "mad_emoticon_inactive.png)");
 	$("#happy").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") +"happy_emoticon_inactive.png)");
 	$("#guilty").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") +"guilty_emoticon_inactive.png)");
 	$(".emoticons").removeClass("selected");
+};
+WrapUp.prototype.emoticonIsSelected = function()//:Boolean
+{
+	// loop through to verify an emoticon has been selected
+	var isSelected = false;
+	$(".emoticons").each( function( index, value ) {
+	  if($(this).hasClass("selected")) isSelected = true;
+	});
+
+	return isSelected;
 };
 
 WrapUp.prototype.wrapUpKeydownControl = function(c,previousId)
@@ -196,6 +214,7 @@ WrapUp.prototype.wrapUpKeydownControl = function(c,previousId)
 
 WrapUp.prototype.feedbackFirstVisit = function()
 {
+
 	var audio = "french" == router.getLanguage() ? tabs.feedbackAudio.replace("e_","f_") : tabs.feedbackAudio;//'f_1_6_f_1' : 'e_1_6_f_1';
 	playAudio.playFiles(audio);
 	
@@ -204,9 +223,17 @@ WrapUp.prototype.feedbackFirstVisit = function()
 	});
 	
 };
+
+WrapUp.prototype.clickNext = function()
+{
+	wrapUp.advanceEmotionFeedback();
+}
 WrapUp.prototype.wrapUpFirstVisit = function()
 {
 	tabs.showModal('wrapUpFirstVisit');
+	
+	$(".emoticons#happy").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") + "happy_emoticon_active.png)");
+	wrapUp.applySelectedEmoticons('happy');
 
 	if($('#e_g_h_5').length > 0)
 	{
@@ -282,5 +309,6 @@ $(window).keydown(function(a) {
         var c = "guilty";
         wrapUp.wrapUpKeydownControl(c,previousId);
     } 
+    if( wrapUp.emoticonIsSelected()  && 88 != a.which) $("#wrapup-next-button").show();
     
 });
