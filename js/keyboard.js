@@ -215,6 +215,8 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				if($("#ask").length != 0)
 				{
 					if($("#evaluationModalFail").is(':visible')) router.loadSortingJSFile();
+					if($("#sortingFirstVisit").is(':visible')) sortingPageAudio.showAndPlayHelp();
+					
 					if (router.VIStaus == 'ON')
 					{
 						if ($(".ui-draggable-disabled")[0])

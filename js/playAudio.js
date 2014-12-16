@@ -32,10 +32,17 @@ var newAudio =
 	 soundManager.play(AudioID, link);
 	}
 	return;
-	
-	
-	
+		
 };
+PlayAudio.prototype.translateAndPlayWithCallback = function (AudioID, callback)
+{
+	AudioID = translator.translateAudioPath(AudioID);	
+	playAudio.playFiles(AudioID);
+	
+	$("#"+AudioID).bind('ended', function(){
+		if(callback) callback();
+	});	
+}
 
 PlayAudio.prototype.playHelpFile = function (AudioID)
 {

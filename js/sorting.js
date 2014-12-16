@@ -22,9 +22,8 @@ if (tabs.myArray[tabs.solvedPageId] != 'checked')
 			router.sortingFirstVisit ++;
 			tabs.showModal('sortingFirstVisit');
 			
-			sortingPageAudio.sortingVisit();
-			
-			
+			sortingPageAudio.sortingFirstVisit();
+						
 		}
 		else
 		{

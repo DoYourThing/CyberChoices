@@ -19,3 +19,8 @@ Translator.prototype.translatePage = function()
 {
 
 };
+
+Translator.prototype.translateAudioPath = function(audio)
+{
+	return router.getLanguage() == 'french' ? audio.replace("e_","f_") : audio;
+};

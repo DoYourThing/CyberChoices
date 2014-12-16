@@ -257,7 +257,7 @@
                   {  
                      "image":"e_4_2_1_3",
 					 "frImage":"f_4_2_1_3",
-                     "panelAudio":"e_4_2_1_3_1",
+                     "panelAudio":"e_4_1_1_4_1",
                      "bubbles":[  
                         {  
                            "divClass":"tb_l_ne f12",
@@ -2184,10 +2184,10 @@
                            "top":"150px"
                         },
                         {  
-                           "divClass":"wb_m_se f10",
+                           "divClass":"wb_l_se f12",
                            "id":"e_4_14_1_2_3",
                            "bubbleContent":"I’m not supposed to have visitors ‘cause I’m grounded…",
-                           "bubbleFontClass":"wb_m_text",
+                           "bubbleFontClass":"wb_l_text",
                            "audioInfo":"e_4_14_1_2_3",
                            "left":"650px",
                            "top":"230px"

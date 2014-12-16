@@ -52,51 +52,48 @@ SortingPageAudio.prototype.cardAudios = function(cardNumber)
     	(router.getLanguage() == 'french'? playAudio.playFiles(FRcard6Audio):playAudio.playFiles(card6Audio));
     }
 };
-SortingPageAudio.prototype.playIntro = function()
-{
-	//eg f_1_1_q_1
-	var introFile =  router.getLanguage() == 'french'? tabs.titleAudio.replace("e_", "f_"): tabs.titleAudio;
-	
-	playAudio.playFiles(introFile);
-	$("#"+introFile).bind('ended', function(){
-		
-		$('.modal.fade.in').modal('hide');		
-		sortingPageAudio.playPanelAudio();
-	});
 
-}
 
-SortingPageAudio.prototype.playPanelAudio = function()
-{
-	var panelAudio = router.VIStaus == 'OFF' ? tabs.panelAudio : tabs.VIpanelAudio;
-	panelAudio = router.getLanguage() == 'french' ? nextFile.replace("e_","f_") : nextFile;
-	
-	playAudio.playFiles(panelAudio);
-	$("#"+panelAudio).bind('ended', function(){
-		$('.modal.fade.in').modal('hide');
-	});
-}
+
 
 SortingPageAudio.prototype.playHelpAudio = function()
 {
-	var panelAudio = router.VIStaus == 'OFF' ? tabs.panelAudio : tabs.VIpanelAudio;
-	panelAudio = router.getLanguage() == 'french' ? nextFile.replace("e_","f_") : nextFile;
+	//tabs.checkVIStatus("sortingHelp","VISortingHelp","f_s_h_4","e_s_h_4","f_v_h_4","e_v_h_4");
+
+	(router.VIStaus == 'OFF' ? tabs.showModal("sortingHelp"):tabs.showModal("VISortingHelp"));
 	
-	playAudio.playFiles(panelAudio);
-	$("#"+panelAudio).bind('ended', function(){
+	var modalID = router.VIStaus == 'OFF' ? "sortingHelp" : "VISortingHelp";
+	tabs.showModal(modalID);
+
+	var audioID = router.VIStaus == 'OFF' ? "e_s_h_4" : "e_v_h_4";
+	
+	playAudio.translateAndPlayWithCallback("e_g_h_3", sortingPageAudio.playClickXToClose);
+
+	translator.translateAudioPath(audioID);
+
+	playAudio.playFiles(audioID);
+
+	$("#"+audioID).bind('ended', function(){
 		$('.modal.fade.in').modal('hide');
 	});
 }
-SortingPageAudio.prototype.sortingVisit = function()
+
+
+
+SortingPageAudio.prototype.playClickXToClose = function()
+{
+	playAudio.translateAndPlayWithCallback("e_v_h_2", function(){});
+}
+
+SortingPageAudio.prototype.sortingFirstVisit = function()
 {
 	var panelAudio = tabs.panelAudio;
 	var VIpanelAudio = tabs.VIpanelAudio;
 	var panelAudioFr = panelAudio.replace("e_", "f_");
 	var VIpanelAudioFr = VIpanelAudio.replace("e_", "f_");
 	
-	
-	
-	
+	sortingPageAudio.playDecisionTime();
+	return;
 
 	if($('#e_g_h_3').length > 0)
 	{
@@ -147,6 +144,49 @@ SortingPageAudio.prototype.sortingVisit = function()
 		//(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? playAudio.playFiles(panelAudioFr):playAudio.playFiles(panelAudio)) : (router.getLanguage() == 'french'? playAudio.playFiles(VIpanelAudioFr):playAudio.playFiles(VIpanelAudio)));
 	}
 };
+SortingPageAudio.prototype.playDecisionTime = function()
+{
+	playAudio.stopAudioPlaying();
+
+	playAudio.translateAndPlayWithCallback("e_g_h_3", sortingPageAudio.showAndPlayHelp);	
+}
+
+SortingPageAudio.prototype.showAndPlayHelp = function()
+{
+	playAudio.stopAudioPlaying();
+	$('.modal.fade.in').modal('hide');
+
+	var modalID = router.VIStaus == 'OFF' ? "sortingHelp" : "VISortingHelp";
+	tabs.showModal(modalID);
+
+	var audioID = router.VIStaus == 'OFF' ? "e_s_h_4" : "e_v_h_4";
+	playAudio.translateAndPlayWithCallback(audioID, sortingPageAudio.playSortingTitle);
+}
+
+SortingPageAudio.prototype.playSortingTitle = function()
+{	
+	playAudio.stopAudioPlaying();
+	$('.modal.fade.in').modal('hide');
+
+	playAudio.translateAndPlayWithCallback(tabs.titleAudio, sortingPageAudio.playPanelAudio);
+}
+
+SortingPageAudio.prototype.playPanelAudio = function()
+{
+	$('.modal.fade.in').modal('hide');
+	playAudio.stopAudioPlaying();
+
+	var audioID = router.VIStaus == 'OFF' ? tabs.panelAudio : tabs.VIpanelAudio;
+	var onComplete = router.VIStaus == 'OFF' ? function(){} : sortingPageAudio.playFirstSortingCardAudio;
+	playAudio.translateAndPlayWithCallback(audioID, onComplete);
+}
+SortingPageAudio.prototype.playFirstSortingCardAudio = function()
+{
+	$('.modal.fade.in').modal('hide');
+	playAudio.stopAudioPlaying();
+
+	sortingPageAudio.cardAudios(5);
+}
 
 SortingPageAudio.prototype.setSortingHelpContent = function(){
 	var failCounter = tabs.failCounter;
