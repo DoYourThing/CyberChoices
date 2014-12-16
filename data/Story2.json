@@ -2139,9 +2139,10 @@
 				"guiltyFaceFr":"french_guilty_emoticon_inactive"
             },
             {  
-               "hashInfo":"feedback",
-               "blueBoxFeedback":"e_2_13_f",
-               "storyBackgroundimage":"wrapUpBackground",
+            "hashInfo":"feedback",
+            "blueBoxFeedback":"e_2_13_f",
+            "feedbackAudio":"e_2_13_f_s_1",
+            "storyBackgroundimage":"wrapUpBackground",
 				"blueBoxFeedbackFr":"f_2_13_f",
 				"inactiveCharacter1":"laura_left",
      			"inactiveCharacter2":"samir",

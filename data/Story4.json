@@ -363,7 +363,7 @@
                   {  
                      "image":"e_4_3_1_1",
 					 "frImage":"f_4_3_1_1",
-                     "panelAudio":"e_4_1_1_1_1",
+                     "panelAudio":"e_4_1_1_1_1-1",
                      "bubbles":[  
                         {  
                            "divClass":"tb_m_nw",
@@ -1130,7 +1130,7 @@
                   {  
                      "image":"g_4_8_1_4",
                      "frImage":"f_4_8_1_4",
-                     "panelAudio":"e_4_1_1_1_1",
+                     "panelAudio":"e_4_1_1_1_1-1",
                      "bubbles":[  
                         {  
                            "divClass":"nc_s_s f16",
@@ -1910,7 +1910,7 @@
                   {  
                      "image":"g_4_12_1_2",
 					 "frImage":"f_4_12_1_2",
-                     "panelAudio":"e_4_1_1_1_1",
+                     "panelAudio":"e_4_1_1_1_1-1",
                      "bubbles":[  
                         {  
                            "parentClass":"tt_bg",
@@ -2072,7 +2072,7 @@
                "frames":[  
                   {  
                      "image":"g_4_13_1_1",
-					 "frImage":"f_4_13_1_1",
+					       "frImage":"f_4_13_1_1",
                      "panelAudio":"e_4_1_1_1_1",
                      "bubbles":[  
                         {  

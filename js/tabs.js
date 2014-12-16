@@ -771,11 +771,14 @@ Tabs.prototype.drawFrame = function (newPageIndex, newFrameIndex)
     var panelAudioFr = panelAudio.replace("e_", "f_");
 	this.audioCounter ++;
 
+	//playAudio.stopAllAudios();
+
 	(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.CheckPlayedAudios(panelAudioFr):playAudio.CheckPlayedAudios(panelAudio)));
 	
 	if (tabs.stopAllAudios == 'newFrame')
 	{
 		(router.getLanguage() == 'french'? playAudio.CheckPlayedAudios(panelAudioFr):playAudio.CheckPlayedAudios(panelAudio));
+
 		(router.getLanguage() == 'french'? playAudio.playFiles(panelAudioFr):playAudio.playFiles(panelAudio));
 	}
 };
