@@ -30,7 +30,7 @@ if (tabs.myArray[tabs.solvedPageId] != 'checked')
 			$('.modal-backdrop').css({
 				'position': 'relative'
 			});
-			(router.VIStaus == 'OFF' ? '' : sortingPageAudio.sortingVisit());
+			(router.VIStaus == 'OFF' ? '' : sortingPageAudio.playPanelAudio());
 		}
 	}
 
@@ -126,39 +126,7 @@ function handleCardDrop(event, ui)
 	}
 
 	if (tabs.dropCounter == 6) {
-		tabs.sortingResult();
-		return;
-		if (correctCards == 6) 
-		{
-			$('#evaluationModalSuccess').modal('show');
-			$.get( "server.php?action=addNewSortingPage&newSortingPageId=" + tabs.solvedPageId );
-			tabs.myArray[tabs.solvedPageId] = 'checked';
-			(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleText)): $('.purpleTextSort span').text((tabs.correctSortPurpleText))): (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleTextVI)): $('.purpleTextSort span').text((tabs.correctSortPurpleTextVI))));
-			tabs.changeImage();
-			$('#sortThoughtBubble').remove();
-		} 
-		else if (correctCards != 6) 
-		{
-			tabs.failCounter++;
-			
-			if (tabs.failCounter == 1) {
-				$('#evaluationModalFail').modal('show');
-				$('#sortThoughtBubble').remove();
-				var helpModalId = tabs.failCounter;
-
-				$('.modal-body').html(translator.T(tabs.helpContent1));
-				$('#helpContent').html(translator.T(tabs.helpContent1));
-
-			}
-			if (tabs.failCounter == 2) {
-				$('#evaluationModalFail').modal('show');
-				$('#sortThoughtBubble').remove();
-				var helpModalId = tabs.failCounter;
-				$('.modal-body').html(translator.T(tabs.helpContent2));
-				$('#helpContent').html(translator.T(tabs.helpContent2));
-				tabs.failCounter = 0;
-			}
-		}
+		tabs.sortingResult();		
 	}
 };
 

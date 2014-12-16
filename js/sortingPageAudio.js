@@ -199,3 +199,27 @@ SortingPageAudio.prototype.correctFeedbackAudio = function(correctSortFeedbackVI
 		playAudio.playFiles(correctSortFeedbackVIAudio);
 	});
 };
+SortingPageAudio.prototype.failedFirstTime = function()
+{
+	sortingPageAudio.playFailedResult(tabs.page.helpTextOneFr, tabs.page.helpTextOne);
+}
+
+SortingPageAudio.prototype.failedSecondTime = function()
+{	
+	sortingPageAudio.playFailedResult(tabs.page.helpTextTwoFr, tabs.page.helpTextTwo);
+}
+
+SortingPageAudio.prototype.playFailedResult = function(frenchID, englishID)
+{
+	$('.modal.fade.in').modal('hide');
+	playAudio.stopAudioPlaying();
+
+	var audioID 	= router.getLanguage() == 'french'? frenchID : englishID;
+	var callback 	= router.VIStaus == 'OFF' ? function (){ } : router.loadSortingJSFile;
+
+	playAudio.playWithCallback(audioID, callback);
+}
+
+
+
+

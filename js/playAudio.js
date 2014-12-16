@@ -34,15 +34,22 @@ var newAudio =
 	return;
 		
 };
-PlayAudio.prototype.translateAndPlayWithCallback = function (AudioID, callback)
-{
-	AudioID = translator.translateAudioPath(AudioID);	
+PlayAudio.prototype.playWithCallback = function (AudioID, callback)
+{	
 	playAudio.playFiles(AudioID);
 	
 	$("#"+AudioID).bind('ended', function(){
 		if(callback) callback();
 	});	
 }
+
+PlayAudio.prototype.translateAndPlayWithCallback = function (AudioID, callback)
+{
+	AudioID = translator.translateAudioPath(AudioID);	
+	
+	playAudio.playWithCallback(AudioID, callback);
+}
+
 
 PlayAudio.prototype.playHelpFile = function (AudioID)
 {

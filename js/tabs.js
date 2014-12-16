@@ -1055,7 +1055,7 @@ Tabs.prototype.sortingResult = function ()
 	var helpTextOneFr = page.helpTextOneFr;
     var helpTextTwoFr = page.helpTextTwoFr;
     var correctSortFeedbackAudio = page.correctSortFeedbackAudio;
-     var correctSortFeedback = page.correctSortFeedback;
+    var correctSortFeedback = page.correctSortFeedback;
     var correctSortFeedbackFrAudio = page.correctSortFeedbackFrAudio;
     var correctSortFeedbackVIAudio = page.correctSortFeedbackVIAudio;
     var finalCounter = 0;
@@ -1074,10 +1074,10 @@ Tabs.prototype.sortingResult = function ()
 		{
 			$('#evaluationModalFail').modal('show');
 			$('#sortThoughtBubble').remove();
-			$('.modal-body').html(translator.T(tabs.helpContent1));
-			(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles(helpTextOneFr):playAudio.playFiles(helpTextOne)));
+			$('.modal-body').html(translator.T(tabs.helpContent1));			
 		    $('#helpContent').html(translator.T(tabs.helpContent1));
 		    
+		    sortingPageAudio.failedFirstTime();
 		}
 		else if (tabs.failCounter == 2)
 		{
@@ -1085,7 +1085,7 @@ Tabs.prototype.sortingResult = function ()
 			 $('#sortThoughtBubble').remove();
 			$('.modal-body').html(translator.T(tabs.helpContent2));
 			$('#helpContent').html(translator.T(tabs.helpContent2));
-			(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles(helpTextTwoFr):playAudio.playFiles(helpTextTwo)));
+			sortingPageAudio.failedSecondTime();
 			tabs.failCounter = 0;
 		}
     }
