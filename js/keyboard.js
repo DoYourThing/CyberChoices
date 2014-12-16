@@ -137,52 +137,28 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				};
 			break;
 			case 13:
-				wrapUp.advanceEmotionFeedback();
-				return;
-				tabs.nextIsClicked();
-				if (typeof tabs.e_1_6_w_2 === "undefined") 
-				{}
-				else
-				{
-					$("#secondText").css("display", "");
-					var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'2';
-					console.log($('body').find("#"+audio).length);
-					if($('body').find("#"+audio).length < 1) (router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
-				}
-				//wrapUp.advanceEmotionFeedback();
-				tabs.newCounter =  tabs.newCounter + 1;
-				switch(tabs.newCounter) {
-					case 1:
-						if ($("." + character1 + "_active_wrapup")[0]) 
-						{
-							$("#SashaFaceSlot").attr("id", "changed");
-							$("." + character2 + "_inactive").addClass(character2 + "_active_wrapup").removeClass(character2 + "_inactive");
-							$("." + character1 + "_active_wrapup").addClass(character1 + "_inactive_wrapup").removeClass(character1 + "_active_wrapup");
-						}
-						break;
 
-					case 2:
-						if ($("." + character1 + "_active_wrapup")[0]) 
-						{
-							$("#SashaFaceSlot").attr("id", "changed");
-							$("." + character2 + "_inactive").addClass(character2 + "_active_wrapup").removeClass(character2 + "_inactive");
-							$("." + character1 + "_active_wrapup").addClass(character1 + "_inactive_wrapup").removeClass(character1 + "_active_wrapup");
-						}
-						else if ($("." + character2 + "_active_wrapup")[0]) 
-						{
-							if (typeof tabs.e_1_6_w_3 === "undefined") 
-							{}
-							else
-							{
-								$("#thirdText").css("display", "");
-							}
-							
-							$("." + character3 + "_inactive").addClass(character3 + "_active_wrapup").removeClass(character3 + "_inactive");
-							$("." + character2 + "_active_wrapup").addClass(character2 + "_inactive_wrapup").removeClass(character2 + "_active_wrapup");
-							tabs.clickNext();
-						}
+			switch(router.pageType) {
+					case 'wrapUp':
+						wrapUp.advanceEmotionFeedback();
 					break;
+						
+					case 'sorting':						
+					break;
+					
+					case 'content':
+					break;
+					
+					case 'home':
+						tabs.nextIsClicked();
+					break;
+					
+					default:
+						tabs.nextIsClicked();
+					break;
+						
 				};
+							
 			break;
 				
 			case 69:
