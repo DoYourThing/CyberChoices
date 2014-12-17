@@ -79,7 +79,7 @@ HTMLFactory.prototype.getModalContent = function(modalId)
 		break;
 		
 		case 'VIFrHomeFirstVist':
-			return "Il y a quatre histoires à explorer. Appuie sur les touches 1 à 4 pour entendre une description de chacune. Pour sélectionner celle qui t’intéresse, appuie sur la touche du chiffre correspondant puis sur la touche Retour. Tu pourras revenir et choisir une autre histoire lorsque tu auras terminé. Appuie sur la touche ‘a’ pour obtenir de l’aide. Appuie sur la touche ‘o’ pour entendre les options. Appuie sur la touche ‘x’ pour continuer.";
+			return "Il y a quatre histoires à explorer. Appuie sur les touches 1 à 4 pour entendre une description de chacune. Pour sélectionner celle qui t’intéresse, appuie sur la touche du chiffre correspondant puis sur la touche Retour. Tu pourras revenir et choisir une autre histoire lorsque tu auras terminé. Appuie sur la touche ‘h’ pour obtenir de l’aide. Appuie sur la touche ‘o’ pour entendre les options. Appuie sur la touche ‘x’ pour continuer.";
 		break;
 		
 		case 'VIHomeFirstVisit':
