@@ -58,6 +58,19 @@ Tabs.prototype.showHelpModal = function () {
     $('#story4HelpModal').modal('show');
 };
 
+Tabs.prototype.showContentHelpModal = function () {
+	playAudio.stopAudioPlaying();
+
+
+	tabs.showModal("contentPageHelp");	
+	
+	var audioID = "e_s_h_2"; //router.VIStaus == 'OFF' ? "e_s_h_2" : "e_v_h_2";	
+		
+	audioID = router.getLanguage() == 'french' ? audioID.replace('e_', 'f_') : audioID;
+	playAudio.playModalAudioFile(audioID);
+};
+
+
 Tabs.prototype.showModal = function(modalId)
 {
 	$('#' + modalId).modal('show');
@@ -408,7 +421,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 						translator.T(e_1_6_w_3) +
 					'</div>'+
 				'</div>' +
-				'<div id="happy" class="emoticons selected"  onclick=wrapUp.emotoiconClick("happy"); '+
+				'<div id="happy" class="emoticons"  onclick=wrapUp.emotoiconClick("happy"); '+
 					'style="background: url(images/' + 
 					(router.getLanguage() == 'french'? 'french_happy_emoticon_inactive':'e_1_1_w_h') + 
 					'.png) no-repeat center;  width: 268px; height: 258px; position:absolute; left:' + 
@@ -550,7 +563,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 						translator.T(e_1_6_w_3) +
 					'</div>'+
 				'</div>' +                                     
-				'<div id="happy" class="emoticons selected"  onclick=wrapUp.emotoiconClick("happy"); '+
+				'<div id="happy" class="emoticons"  onclick=wrapUp.emotoiconClick("happy"); '+
 					'style="background: url(images/' + 
 					(router.getLanguage() == 'french'? 'french_happy_emoticon_inactive':'e_1_1_w_h') + 
 					'.png) no-repeat center;  width: 268px; height: 258px; position:absolute; left:' + 

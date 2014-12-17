@@ -81,7 +81,7 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 				//tabs.clickNext();
 			}
 			break;
-		case 3:
+		default:
 			if ($("." + character2 + "_active_wrapup")[0]) 
 			{
 				$("#SashaFaceSlot").attr("id", "changed");
@@ -90,8 +90,9 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 			}
 			else if ($("." + character3 + "_active_wrapup")[0]) 
 			{
-				tabs.clickNext();
+				//tabs.clickNext();
 			}
+			tabs.clickNext();
 		break;
 	};
 
@@ -247,8 +248,8 @@ WrapUp.prototype.wrapUpFirstVisit = function()
 {
 	tabs.showModal('wrapUpFirstVisit');
 	
-	$(".emoticons#happy").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") + "happy_emoticon_active.png)");
-	wrapUp.applySelectedEmoticons('happy');
+	//$(".emoticons#happy").css("background-image", "url(images/" + ("french" == router.getLanguage() ? "french_" : "") + "happy_emoticon_active.png)");
+	//wrapUp.applySelectedEmoticons('happy');
 
 	if($('#e_g_h_5').length > 0)
 	{

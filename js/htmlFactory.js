@@ -38,7 +38,7 @@ HTMLFactory.prototype.getModalContent = function(modalId)
 		break;
 		
 		case 'sortingHelp':
-			return 'Use the mouse to drag each the reasons for making a choice to the spaces on each side of the screen. After you’ve sorted the reasons correctly, click on one of those choices to decide what happens next. When you’ve played to the end of this story, you can try again and see what happens if you make different choices.';
+			return 'Use the mouse to drag each of the reasons for making a choice to the spaces on each side of the screen. After you’ve sorted the reasons correctly, click on one of those choices to decide what happens next. When you’ve played to the end of this story, you can try again and see what happens if you make different choices.';
 			return tabs.purpleBoxText;
 		return;
 	
@@ -71,7 +71,7 @@ HTMLFactory.prototype.getModalContent = function(modalId)
 		break;
 		
 		case 'e_s_h_4':
-			return "Use the mouse to drag each the reasons for making a choice to the spaces on each side of the screen. After you’ve sorted the reasons correctly, click on one of those choices to decide what happens next. When you’ve played to the end of this story, you can try again and see what happens if you make different choices.";
+			return "Use the mouse to drag each of the reasons for making a choice to the spaces on each side of the screen. After you’ve sorted the reasons correctly, click on one of those choices to decide what happens next. When you’ve played to the end of this story, you can try again and see what happens if you make different choices.";
 		break;
 	
 		case 'wrapupPageHelp':
@@ -150,7 +150,7 @@ HTMLFactory.prototype.getStory1Page = function ()
 			'onmouseover=uiHover.homeOnHover("Next");></div>'+
 			'<div class="' + 
 			(router.getLanguage() == 'french'? 'FrhelpImage':'helpImage') +
-			'" onclick=javascript:tabs.showModal("contentPageHelp"); '+
+			'" onclick=javascript:tabs.showContentHelpModal(); '+
 			'" onmouseout=uiHover.homeOffHover("helpImage"); '+
 			'onmouseover=uiHover.homeOnHover("helpImage");></div>'+
     		
@@ -428,7 +428,7 @@ HTMLFactory.prototype.getStory2Page = function ()
                 '</div>' +
                 '<div class="' + 
 			(router.getLanguage() == 'french'? 'FrhelpImage':'helpImage') +
-			'" onclick=javascript:tabs.showModal("contentPageHelp"); '+
+			'" onclick=javascript:tabs.showContentHelpModal(); '+
 			'" onmouseout=uiHover.homeOffHover("helpImage"); '+
 			'onmouseover=uiHover.homeOnHover("helpImage");></div>'+
     '</div>';
@@ -456,7 +456,7 @@ HTMLFactory.prototype.getStory3Page = function ()
 			'onmouseover=uiHover.homeOnHover("Next");></div>'+
 			'<div class="' + 
 			(router.getLanguage() == 'french'? 'FrhelpImage':'helpImage') +
-			'" onclick=javascript:tabs.showModal("contentPageHelp"); '+
+			'" onclick=javascript:tabs.showContentHelpModal(); '+
 			'" onmouseout=uiHover.homeOffHover("helpImage"); '+
 			'onmouseover=uiHover.homeOnHover("helpImage");></div>'+
     		'<div class="modal fade" id="optionModal" tabindex="-1" '+
@@ -620,7 +620,7 @@ HTMLFactory.prototype.getStory4Page = function () {
 			
 			'<div class="' + 
 			(router.getLanguage() == 'french'? 'FrhelpImage':'helpImage') +
-			'" onclick=javascript:tabs.showModal("contentPageHelp"); '+
+			'" onclick=javascript:tabs.showContentHelpModal(); '+
 			'" onmouseout=uiHover.homeOffHover("helpImage"); '+
 			'onmouseover=uiHover.homeOnHover("helpImage");></div>'+
 			
