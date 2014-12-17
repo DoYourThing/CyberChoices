@@ -264,7 +264,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 					break;
 				}
 			break;
-				
+			//h
 			case 72:
 				playAudio.stopAudioPlaying();
 				router.pageHelp();	

@@ -490,8 +490,9 @@ Router.prototype.pageHelp = function()
 {
 	switch(router.pageType) {
 	    case 'sorting':
+
 	    		(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? translator.T(tabs.showModal('sortingHelp')):tabs.showModal('sortingHelp')) : (router.getLanguage() == 'french'? translator.T(tabs.showModal('VISortingHelp')):tabs.showModal('VISortingHelp')));
-				(router.VIStaus == 'OFF' ? '' : (router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_4'):playAudio.playHelpFile('e_v_h_4')));	
+				(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? playAudio.playHelpFile("f_s_h_4"):playAudio.playHelpFile('e_s_h_4')) : (router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_4'):playAudio.playHelpFile('e_v_h_4')));	
 	    break;
 	        
 	    case 'wrapUp':
@@ -513,4 +514,4 @@ Router.prototype.pageHelp = function()
 			    (router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVist'):tabs.showModal('VIHomeFirstVisit'));
 				(router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_1'):playAudio.playHelpFile('e_v_h_1'));
 	}
-};
+}
