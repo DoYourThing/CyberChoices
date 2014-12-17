@@ -185,7 +185,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 			case 70:
 				keyboardBinder.caseF();
 			break;
-				
+			//x	
 			case 88:
 				playAudio.stopAudioPlaying();			
 				if($("#ask").length != 0)
@@ -200,7 +200,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 						}
 						else
 						{
-							(router.getLanguage() == 'french'? playAudio.playFiles(tabs.card6Audio.replace("e_", "f_")):playAudio.playFiles(tabs.card6Audio));							
+							//(router.getLanguage() == 'french'? playAudio.playFiles(tabs.card6Audio.replace("e_", "f_")):playAudio.playFiles(tabs.card6Audio));							
 						}
 					}
 

@@ -38,6 +38,7 @@ HTMLFactory.prototype.getModalContent = function(modalId)
 		break;
 		
 		case 'sortingHelp':
+			return 'Use the mouse to drag each the reasons for making a choice to the spaces on each side of the screen. After you’ve sorted the reasons correctly, click on one of those choices to decide what happens next. When you’ve played to the end of this story, you can try again and see what happens if you make different choices.';
 			return tabs.purpleBoxText;
 		return;
 	

@@ -188,17 +188,7 @@ SortingPageAudio.prototype.playFirstSortingCardAudio = function()
 	sortingPageAudio.cardAudios(5);
 }
 
-SortingPageAudio.prototype.setSortingHelpContent = function(){
-	var failCounter = tabs.failCounter;
-	return failCounter;
-};
 
-SortingPageAudio.prototype.correctFeedbackAudio = function(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio){
-	
-	$("#"+correctSortFeedbackVIAudio).bind('ended', function(){
-		playAudio.playFiles(correctSortFeedbackVIAudio);
-	});
-};
 SortingPageAudio.prototype.failedFirstTime = function()
 {
 	sortingPageAudio.playFailedResult(tabs.page.helpTextOneFr, tabs.page.helpTextOne);
@@ -219,6 +209,49 @@ SortingPageAudio.prototype.playFailedResult = function(frenchID, englishID)
 
 	playAudio.playWithCallback(audioID, callback);
 }
+
+SortingPageAudio.prototype.playCorrectResult = function()
+{	
+	$('.modal.fade.in').modal('hide');
+	playAudio.stopAudioPlaying();
+
+	var audioID  = router.getLanguage() == 'french' ? tabs.page.correctSortFeedbackFrAudio : tabs.page.correctSortFeedbackAudio;
+	var callback = (router.VIStaus == 'OFF') ? sortingPageAudio.playSortingFinished : sortingPageAudio.playSortingFinishedVI; 
+
+	playAudio.playWithCallback(audioID, callback);
+}
+
+SortingPageAudio.prototype.playSortingFinished = function()
+{	
+	playAudio.stopAudioPlaying();	
+	$('.modal.fade.in').modal('hide');
+	
+	var audioID  = router.getLanguage() == 'french'? "f_1_2_s_s" : "e_1_2_s_s";
+	playAudio.playFiles(audioID);	
+}
+SortingPageAudio.prototype.playSortingFinishedVI = function()
+{	
+	playAudio.stopAudioPlaying();
+	$('.modal.fade.in').modal('hide');
+
+	var audioID  = router.getLanguage() == 'french'? tabs.page.correctSortFeedbackVIAudio.replace("e_","f_") : tabs.page.correctSortFeedbackVIAudio;
+	playAudio.playFiles(audioID);
+}
+
+SortingPageAudio.prototype.setSortingHelpContent = function(){
+	var failCounter = tabs.failCounter;
+	return failCounter;
+};
+
+
+
+//deprecated
+// SortingPageAudio.prototype.correctFeedbackAudio = function(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio){
+	
+// 	$("#"+correctSortFeedbackVIAudio).bind('ended', function(){
+// 		playAudio.playFiles(correctSortFeedbackVIAudio);
+// 	});
+// };
 
 
 

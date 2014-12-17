@@ -29,8 +29,8 @@ if (tabs.myArray[tabs.solvedPageId] != 'checked')
 		{
 			$('.modal-backdrop').css({
 				'position': 'relative'
-			});
-			(router.VIStaus == 'OFF' ? '' : sortingPageAudio.playPanelAudio());
+			});			
+			sortingPageAudio.playSortingTitle();
 		}
 	}
 
@@ -38,7 +38,8 @@ else
 	{
 		$('#mainContainer').empty();
 		$("#mainContainer").html(htmlFactory.solvedSortingPage()); 
-		(router.VIStaus == 'OFF' ? '' : sortingPageAudio.sortingVisit());
+
+		//(router.VIStaus == 'OFF' ? '' : sortingPageAudio.sortingVisit());
 	}
 	
 init = function() {

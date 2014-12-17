@@ -1100,21 +1100,10 @@ Tabs.prototype.sortingResult = function ()
 		// Assing the proper value to sortingPageId.
 		$.get( "server.php?action=addNewSortingPage&newSortingPageId=" + tabs.solvedPageId );
 		tabs.myArray[tabs.solvedPageId] = 'checked';
-	   $('#evaluationModalSuccess').modal('show');
-	   playAudio.stopAudioPlaying();
-	   var audioToPlay;
-	   if(router.VIStaus == 'OFF'){
-			audioToPlay = router.getLanguage() == 'french' ? correctSortFeedbackFrAudio : correctSortFeedbackAudio;
-		}else{
-			audioToPlay = router.getLanguage() == 'french'? correctSortFeedbackVIAudio.replace("e_","f_") : correctSortFeedbackVIAudio;
-		}
+		$('#evaluationModalSuccess').modal('show');
 	   
-		playAudio.playFiles(audioToPlay);
-		sortingPageAudio.correctFeedbackAudio(correctSortFeedbackVIAudio,correctSortFeedbackFrAudio,correctSortFeedbackAudio);
-		
-	   
-	   
-	    //$('.purpleTextSort span').text(translator.T(correctSortFeedback));
+		sortingPageAudio.playCorrectResult();
+	      
 		(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleText)): $('.purpleTextSort span').text((tabs.correctSortPurpleText))): (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleTextVI)): $('.purpleTextSort span').text((tabs.correctSortPurpleTextVI))));
 		tabs.changeImage(
 			router.getLanguage() == 'french'? this.activeAskFr:this.activeAsk ,
