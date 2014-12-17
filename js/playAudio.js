@@ -72,7 +72,7 @@ PlayAudio.prototype.playModalAudioFile = function (AudioID)
 			playAudio.stopAudioPlaying();
 			//$('.modal.fade.in').modal('hide');
 			//tabs.showModal('viSupportContentPage');
-			(router.getLanguage() == 'french'? playAudio.playFiles('f_v_h_2'):playAudio.playFiles('e_v_h_2'));
+			(router.getLanguage() == 'french'? playAudio.playFiles('f_v_h_3'):playAudio.playFiles('e_v_h_3'));
 		});
 	}
 };

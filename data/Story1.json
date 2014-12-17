@@ -662,10 +662,10 @@
                         },
                         {  
                            "divClass":"sfx_bzzt",
-                           "id":"s_1_5_1_1_4",
+                           "id":"g_1_5_1_1_4",
                            "bubbleContent":"",
                            "bubbleFontClass":"",
-                           "audioInfo":"s_1_5_1_1_4",
+                           "audioInfo":"g_1_5_1_1_4",
                            "left":"40px",
                            "top":"250px"
                         }
@@ -837,10 +837,10 @@
                         },
                         {  
                            "divClass":"sfx_bzzt",
-                           "id":"s_1_5_1_1_4",
+                           "id":"g_1_5_1_1_4",
                            "bubbleContent":"",
                            "bubbleFontClass":"",
-                           "audioInfo":"s_1_5_1_1_4",
+                           "audioInfo":"g_1_5_1_1_4",
                            "left":"40px",
                            "top":"250px"
                         }
@@ -1275,10 +1275,10 @@
                         },
                         {  
                            "divClass":"sfx_bzzt",
-                           "id":"s_1_5_1_1_4",
+                           "id":"g_1_5_1_1_4",
                            "bubbleContent":"",
                            "bubbleFontClass":"",
-                           "audioInfo":"s_1_5_1_1_4",
+                           "audioInfo":"g_1_5_1_1_4",
                            "left":"40px",
                            "top":"250px"
                         }
@@ -1641,10 +1641,10 @@
                         },
                         {  
                            "divClass":"sfx_bzzt",
-                           "id":"s_1_5_1_1_4",
+                           "id":"g_1_5_1_1_4",
                            "bubbleContent":"",
                            "bubbleFontClass":"",
-                           "audioInfo":"s_1_5_1_1_4",
+                           "audioInfo":"g_1_5_1_1_4",
                            "left":"40px",
                            "top":"250px"
                         }
