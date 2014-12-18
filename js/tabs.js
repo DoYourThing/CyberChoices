@@ -747,7 +747,7 @@ Tabs.prototype.gotoNewPage = function (action, hashInfo, newPageIndex, newFrameI
 		tabs.newCounter = 0;
 		$('#mainContainer').empty();
      	$("#mainContainer").append(htmlFactory.getFeedbackPage(page)).fadeIn('fast');
-     	(router.VIStaus == 'OFF' ? '':tabs.showModal('VIFeedbackHelp') );
+     	//(router.VIStaus == 'OFF' ? '':tabs.showModal('VIFeedbackHelp') );
      	wrapUp.feedbackFirstVisit();
      	tabs.wrapUpArray[this.seenWrapUp] = 'checked';
      	$("#mainContainer" ).attr("checked", false);

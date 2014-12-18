@@ -2,7 +2,7 @@ var Fr = {};
 // Terry's version Last edit October 17
 Fr['How does it feel when you can’t share a picture you really like?'] = 'Comment te sens-tu lorsque tu ne peux pas partager une photo que tu aimes vraiment?';
 Fr['Let’s visit Sasha as she’s putting up today’s pictures.'] = 'Visitons Sasha alors qu’elle diffuse les photos de la journée.';
-Fr['HEY SIS YOU COMING TO UNISAURUS REALMS?'] = 'HÉ MA SŒUR TU VIENS JOUER À  Le royaume des UniSaures?';
+Fr['HEY SIS YOU COMING TO UNISAURUS REALMS?'] = 'HÉ MA SŒUR TU VIENS JOUER À Le royaume des UniSaures?';
 Fr['YEAH WHEN IM DONE POSTING MY PICTURES'] = 'OUI, QUAND J’AURAI FINI DE METTRE MES PHOTOS EN LIGNE.';
 Fr["Let's see what’s good enough to go up on my photo wall today."] = 'Voyons voir ce qui vaut la peine de mettre sur mon mur aujourd’hui.';
 Fr['Not that one…'] = 'Pas celle-là…';
@@ -137,7 +137,7 @@ Fr['IM IN TROUBLE CUZ I WAS AT THE GAME'] = 'J’AI DES ENNUIS PARCE QUE J’ÉT
 Fr['NOT BECAUSE U SHARED THE PIC'] = 'PAS PARCE QUE TU AS PARTAGÉ LA PHOTO.';
 Fr['WHAT CAN I DO TO HELP?'] = 'QU’EST-CE QUE JE PEUX FAIRE POUR T’AIDER?';
 Fr['IM OK… JUST BORED CUZ I CANT GO OUT'] = 'ÇA VA… JE M’ENNUIE PARCE QUE JE NE PEUX PAS SORTIR.';
-Fr['WANT TO PLAY UNISAURUS REALMS?'] = 'TU VEUX JOUER À Le royaume des UniSaures?';
+Fr['WANT TO PLAY UNISAURUS REALMS?'] = 'TU VEUX JOUER au royaume des UniSaures?';
 Fr['You’ve reached ending 3 of 3. Sasha decided to say she was sorry to Max for sharing the picture. How do you think she felt about it?'] = 'Tu as atteint la fin 3 de 3. Sasha a décidé de s’excuser auprès de Max pour avoir partagé la photo. Comment crois-tu qu’elle s’est sentie?';
 Fr['How does it feel when you see one of your friends being mean to somebody?'] = 'Comment te sens-tu lorsque tu vois un de tes amis être méchant envers quelqu’un?';
 Fr["Let's visit Violet as she looks for adventure in UniSaurus Realms."] = 'Voyons voir auprès de Violette alors qu’elle recherche l’aventure dans le Royaume des Unisaures.';
