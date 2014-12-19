@@ -422,7 +422,7 @@
                "correctSortPurpleTextVI":"Press 1 to have Sam stay and talk to Laura or press 2 to have him go away.",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might stay and talk to Laura and why he might go to another part of UniSaurus Realms.",
                "purpleBoxText":"Drag the reasons why Sam might stay to the left side of the screen and the reasons why he might leave to the right.",
-               "purpleBox":"e_3_1_i",
+               "purpleBox":"e_3_2_i",
                "helpContent1":"Sometimes it’s good to stand up and face your problems. What are the reasons why this would be a good thing for Sam to do? Put those with “Stay Here.”",
                "helpContent2":"Sometimes it’s good to go away when someone’s being mean to you. What are the reasons why this would be a good thing for Sam to do? Put those with “Go Away.”",
                "activeAskScene":"4",
