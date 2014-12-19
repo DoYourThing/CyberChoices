@@ -56,6 +56,8 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 				(router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
 				$("#secondText").css("display", "");
 			}
+
+			if (typeof character2 === "undefined") tabs.clickNext();
 			break;
 
 		case 2:
@@ -79,6 +81,7 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 				var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'3';		
 				(router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
 				//tabs.clickNext();
+				if (typeof character3 === "undefined") tabs.clickNext();
 			}
 			break;
 		default:
