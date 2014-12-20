@@ -34,7 +34,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
     var character1 = wrapUp.character1;
     var character3 = wrapUp.character3;
 	var previousId = "happy";
-	console.log(e.keyCode+' , '+e.keyCode);
+	
 	switch(e.keyCode) {
 
 			case 49:	
@@ -308,6 +308,10 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				}
 				else if (router.pageType == 'sorting')
 				{}
+				else if (router.pageType == 'feedback')
+				{
+					
+				}
 				else if (router.pageType == 'wrapUp')
 				{
 					wrapUp.advanceEmotionFeedback();

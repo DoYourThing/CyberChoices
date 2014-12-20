@@ -554,7 +554,7 @@
                "correctSortPurpleTextVI":"Press 1 to have Sam play with Aadan or press 2 to have him say he doesn’t want to play.",
                "correctSortFeedback":"Good job! You've sorted out the reasons why Sam might tell Aadan what happened or why he might say he doesn’t want to play.",
                "purpleBoxText":"Drag the reasons why Sam might tell Aadan what happened to the left side of the screen and the reasons why he might tell him he doesn’t want to play to the right.",
-               "purpleBox":"e_3_1_i",
+               "purpleBox":"e_3_3_i",
                "helpContent1":"What are the reasons why telling Aadan about what happened might make it easier for Sam to keep playing the game? Put those with “Play With Aadan” and the reasons why telling him might make it harder for Sam to keep playing with “Say I Don’t Want to Play.”",
                "helpContent2":"What are the reasons why telling Aadan might make Sam feel better about what happened? Put those with “Play With Aadan.” Put the reasons why telling him might make Sam feel worse with “Say I Don’t Want to Play.”",
                "activeAskScene":"9",
@@ -833,7 +833,7 @@
                "correctSortPurpleTextVI":"Press 1 to have Sam try go get back at Laura or press 2 to have him talk to her instead.",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might try to get back at Tyrannolaurus and why he might talk to her instead.",
                "purpleBoxText":"Drag the reasons why Sam might try to get back at Laura to the left side of the screen and the reasons why he might talk to her to the right.",
-               "purpleBox":"e_3_1_i",
+               "purpleBox":"e_3_5_i",
                "helpContent1":"What are the reasons why getting back at Tyrannolaurus might make things better for Sam? Put those with “Get Back at Her.” Put the reasons why it might make things worse with “Talk to Her.”",
                "helpContent2":"What are the reasons why getting back at Tyrannolaurus might be the right thing to do? Put those with “Get Back at Her.” Put the reasons why it might be the wrong thing to do with “Talk to Her.”",
                "activeAskScene":"5",
@@ -1073,7 +1073,7 @@
                "inactiveCharacter1":"samir",
      			"inactiveCharacter2":"laura",
      			"character1":"samir_sad",
-            "feedbackAudio":"e_3_4_f_1",
+            "feedbackAudio":"e_3_6_f_1",
      			"character2":"laura_mad"
             }
          ]
@@ -1180,7 +1180,7 @@
                "correctSortPurpleTextVI":"Press 1 to have Sam make a joke about it or press 2 to have him tell her how she made him feel.",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might make a joke to Tyrannolaurus or tell her how she made him feel.",
                "purpleBoxText":"Drag the reasons why Sam might make a joke about it to the left side of the screen and the reasons why he might tell her how she made him feel to the right.",
-               "purpleBox":"e_3_1_i",
+               "purpleBox":"e_3_7_i",
                "helpContent1":"You can’t always tell if somebody meant to hurt your feelings when you’re online. Put the reasons why it might be a good idea to act like Tyrannolaurus didn’t mean to hurt you with “Make a Joke About It.” Put the reasons why that might be a bad idea with “Tell Her How She Made Me Feel.”",
                "helpContent2":"People don’t always know they’ve hurt someone’s feelings when they’re online. Put the reasons why it might be a good idea to make sure Tyrannolaurus know she hurt your feelings with “Tell Her How She Made Me Feel.” Put the reasons why that might be a bad idea with “Make a Joke About It.”",
                "activeAskScene":"7",
@@ -1357,7 +1357,7 @@
                "inactiveCharacter1":"samir_center",
      			"inactiveCharacter2":"",
      			"character1":"samir_worried",
-            "feedbackAudio":"e_3_4_f_1",
+            "feedbackAudio":"e_3_8_f_1",
      			"character2":""
             }
          ]
@@ -1659,7 +1659,7 @@
                      "panelAudio":"e_3_10_1_2_1",
                      "bubbles":[  
                         {  
-                           "divClass":"wb_s_sw f14",
+                           "divClass":"wb_s_sw f10",
                            "id":"e_3_10_1_4_2",
                            "bubbleContent":"Well, she did!",
                            "bubbleFontClass":"wb_s_text",
@@ -1728,7 +1728,7 @@
                "correctSortPurpleTextVI":"Press 1 to have Sam talk to a teacher or press 2 to have him talk to Aadan.",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Sam might talk to a teacher about what Laura did or just talk to Aadan about it.",
                "purpleBoxText":"Drag the reasons why Sam might talk to a teacher to the left side of the screen and the reasons why he might talk to Aadan to the right.",
-               "purpleBox":"e_3_1_i",
+               "purpleBox":"e_3_10_i",
                "helpContent1":"When you have trouble online, sometimes your friends or a big brother or sister can help you a lot. Put the reasons why getting help from Aadan might be the best choice with “Talk to Aadan.” Put the reasons why it might be better to get help from a teacher with “Talk to a Teacher.”",
                "helpContent2":"When you have trouble online, sometimes it can help a lot to tell other people – your parents, a teacher, or the people who run the site you’re on. Put the reasons why this might be a good idea with “Talk to a Teacher.” Put the reasons why it might not be a good idea with “Talk to Aadan.”",
                "activeAskScene":"11",
@@ -1913,10 +1913,10 @@
                "storyBackgroundimage":"wrapUpBackground",
                "blueBoxFeedbackFr":"f_3_11_f",
                 "inactiveCharacter1":"samir",
-     			"inactiveCharacter2":"aadan",
-     			"character1":"samir_happy",
-            "feedbackAudio":"e_3_4_f_1",
-     			"character2":"aadan_happy"
+        			"inactiveCharacter2":"aadan",
+        			"character1":"samir_happy",
+               "feedbackAudio":"e_3_11_f_1",
+        			"character2":"aadan_happy"
             }
          ]
       },
@@ -2144,7 +2144,7 @@
                "blueBoxFeedback":"e_3_12_f",
                "storyBackgroundimage":"wrapUpBackground",
                "blueBoxFeedbackFr":"f_3_12_f",
-               "inactiveCharacter1":"samir",
+               "inactiveCharacter1":"samir",              
      			"inactiveCharacter2":"aadan",
      			"character1":"samir_happy",
      			"character2":"aadan_happy"

@@ -1133,7 +1133,9 @@ HTMLFactory.prototype.getFeedbackPage = function(page)
 				(router.getLanguage() == 'french'? page.blueBoxFeedbackFr:page.blueBoxFeedback) + 
 				'.png) no-repeat center;  width: 867px; height: 287px; '+
 				'position:absolute; left:78px; top:116px;" '+
-				' onclick=javascript:playAudio.playFiles("' + page.blueBoxFeedback +'"); >'+
+				' onclick=javascript:playAudio.playFiles("' + 
+					(router.getLanguage() == 'french'? page.blueBoxFeedbackFr:page.blueBoxFeedback) +
+					'_1"); >'+
 			'</div>' +
 			 
 			'<div class="modal fade" id="feedbackHelp" tabindex="-1" '+

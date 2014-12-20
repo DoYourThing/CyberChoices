@@ -346,8 +346,8 @@
    				"correctSortFeedbackFrAudio":"f_4_2_s_1",
    				"correctSortFeedbackVIAudio":"e_4_2_s_v",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might tell Max how she feels and why she might stop and see if she’s mad before she talks to him.",
-               "purpleBoxText":"Drag the reasons why Sam might stay to the left side of the screen and the reasons why he might leave to the right.",
-               "purpleBox":"e_4_1_i",
+               "purpleBoxText":"Drag the reasons why Laura should take down the bad stuff to the left side of the screen, and the reasons why she should start saying nice things to the right.",
+               "purpleBox":"e_4_2_i",
                "helpContent1":"When you say something online, people might read it a long time later. What are some reasons why deleting the mean things Laura said would help her? Put those with “Delete the Bad Stuff.” Put reasons why it might not help with the “Start Being Nicer.”",
                "helpContent2":"People pay the most attention to how you’re acting now. Put the reasons why Laura should start being nicer to people with “Start Being Nicer.” Put the reasons why she should delete the mean things she said with “Delete the Bad Stuff.”"
             }
@@ -503,7 +503,7 @@
 				"correctSortFeedbackVIAudio":"e_4_3_s_v",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might keep deleting the mean things she said and why she might decide to just close her online accounts.",
                "purpleBoxText":"Drag the reasons why Laura should keep deleting the bad stuff to the left side of the screen and the reasons why she should give up and close her accounts to the right.",
-               "purpleBox":"e_4_1_i",
+               "purpleBox":"e_4_3_i",
                "helpContent1":"How hard will it be for Laura to find and delete all the mean things she said? How well do you think it will work? Put the reasons why finding and deleting all the mean things Laura said will help her with “Keep Deleting the Bad Stuff.” Put the reasons why it might be better to just close her online accounts with “Close All My Accounts.”",
                "helpContent2":"Will closing her online accounts be easier than finding and deleting all the mean things Laura said? How much will she lose if she closes her accounts? Put the reasons why closing her online accounts might help Laura with “Close All My Accounts.” Put the reasons why she might not want to close them with “Keep Deleting the Bad Stuff.”"
             }
@@ -918,7 +918,7 @@
 				"correctSortFeedbackVIAudio":"e_4_6_s_v",
                "correctSortFeedback":"Good job! You've sorted out the reasons why Laura might tell Aadan she’s mad and why she might get help cooling down.",
                "purpleBoxText":"Drag the reasons why Laura should tell Aadan she’s mad to the left side of the screen and the reasons why she should get someone to help her cool down to the right.",
-               "purpleBox":"e_4_1_i",
+               "purpleBox":"e_4_6_i",
                "helpContent1":"Why might telling Aadan she’s mad make things better for Laura? Put the reasons why that might be the best choice with “Tell Aadan I’m Mad.” Put the reasons why it might be better to get someone to help her cool down with “Get Help Cooling Down.”",
                "helpContent2":"Why might telling Aadan she’s mad be the right thing to do? Put the reasons why it might be right with “Tell Aadan I’m Mad.” Put the reasons why it might be wrong with “Get Help Cooling Down.”"
             }
@@ -1289,7 +1289,7 @@
    				"correctSortFeedbackVIAudio":"e_4_8_s_v",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might tell Max how she feels and why she might stop and see if she’s mad before she talks to him.",
                "purpleBoxText":"Drag the reasons why Laura should tell Max how she feels to the left side of the screen and the reasons why she should stop to see if she’s mad to the right.",
-               "purpleBox":"e_4_1_i",
+               "purpleBox":"e_4_8_i",
                "firstHelpContent":"Drag the reasons why Laura should tell Max how she feels to the left side of the screen and the reasons why she should stop to see if she’s mad to the right.",
                "helpContent1":"Put the reasons why telling Max how she feels might make things better with “Tell Max How I Feel.” Put the reasons why it might make things worse with “Stop and See If I’m Mad.”",
                "helpContent2":"Put the reasons why telling Max how she feels might be the right thing to do with “Tell Max How I Feel.” Put the reasons why it might be the wrong thing to do with “Stop and See if I’m Mad.”"
@@ -1432,7 +1432,7 @@
    				"correctSortFeedbackVIAudio":"e_4_9_s_v",
                "correctSortFeedback":"Good job! You’ve sorted out the reasons why Laura might get offline and go outside for a while and why she might ask Violet to read what she wants to say to Max.",
                "purpleBoxText":"Drag the reasons why Laura should go outside for awhile to the left side of the screen and the reasons why she should get someone else to read her post to the right.",
-               "purpleBox":"e_4_1_i",
+               "purpleBox":"e_4_9_i",
                "helpContent1":"When you have trouble online, sometimes getting offline and going outside can make you feel better. Put the reasons why going outside might be the best choice with “Go Offline.” Put the reasons why it might be better to ask Violet to read her post with “Ask Violet.”",
                "helpContent2":"Sometimes it can be hard to guess how something you say will make people feel. Put the reasons why asking Violet to read her post might be a good idea with “Ask Violet.” Put the reasons why it might be better to go offline with “Go Offline.”"
             }
@@ -2057,7 +2057,7 @@
                "correctSortFeedbackVIAudio":"e_4_12_s_v",
                "correctSortFeedback":"Good job! You've sorted out the reasons why Laura might go talk to Max in person and why she might just log off PixOne.",
                "purpleBoxText":"Drag the reasons why Laura should talk to Max offline to the left side of the screen and the reasons why she should log off of PixOne to the right.",
-               "purpleBox":"e_4_1_i",
+               "purpleBox":"e_4_12_i",
                "helpContent1":"When you have trouble online, sometimes the best thing to do is just walk away. Put the reasons why logging off PixOne might make things better for Laura with “Log Off PixOne.” Put the reasons why it might be better to talk to Max in person with “Talk to Max Offline.”",
                "helpContent2":"It’s easier to say mean things to somebody when you’re talking to them online. Put the reasons why talking to Max offline might make things better for Laura with “Talk to Max.” Put the reasons why it might make things worse with “Log Off PixOne.”"
             }

@@ -57,7 +57,7 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 				$("#secondText").css("display", "");
 			}
 
-			if (typeof character2 === "undefined") tabs.clickNext();
+			if (typeof character2 === "undefined" || character2 == "" || character2 == null) tabs.clickNext();
 			break;
 
 		case 2:
@@ -81,7 +81,7 @@ WrapUp.prototype.advanceEmotionFeedback = function ()
 				var audio = tabs.blueBoxAudio.substring(0, tabs.blueBoxAudio.length-1)+'3';		
 				(router.getLanguage() == 'french'? playAudio.playFiles(audio.replace("e_","f_")):playAudio.playFiles(audio));
 				//tabs.clickNext();
-				if (typeof character3 === "undefined") tabs.clickNext();
+				if (typeof character3 === "undefined" || character3 == "" || character3 == null) tabs.clickNext();
 			}
 			break;
 		default:
@@ -114,15 +114,15 @@ WrapUp.prototype.emotoiconClick = function (emoticonId)
     var b = emoticonId;
 
     switch(b){
-    	case "happy": (router.getLanguage() == 'french'? playAudio.playFiles('souriante'):playAudio.playFiles('h'));
+    	case "happy": 	(router.getLanguage() == 'french'? playAudio.playFiles('souriante'):playAudio.playFiles('h'));
     		break;
-    	case "mad": (router.getLanguage() == 'french'? playAudio.playFiles('fâchée'):playAudio.playFiles('m'));
+    	case "mad": 	(router.getLanguage() == 'french'? playAudio.playFiles('fachee'):playAudio.playFiles('m'));
     		break;
-    	case "sad": (router.getLanguage() == 'french'? playAudio.playFiles('triste'):playAudio.playFiles('s'));
+    	case "sad": 	(router.getLanguage() == 'french'? playAudio.playFiles('triste'):playAudio.playFiles('s'));
     		break;
     	case "worried": (router.getLanguage() == 'french'? playAudio.playFiles('inquiet'):playAudio.playFiles('w'));
     		break;
-    	case "guilty": (router.getLanguage() == 'french'? playAudio.playFiles('coupable'):playAudio.playFiles('g'));
+    	case "guilty": 	(router.getLanguage() == 'french'? playAudio.playFiles('coupable'):playAudio.playFiles('g'));
     		break;
     }
     
