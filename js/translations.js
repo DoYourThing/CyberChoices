@@ -2,7 +2,7 @@ var Fr = {};
 // Terry's version Last edit October 17
 Fr['How does it feel when you can’t share a picture you really like?'] = 'Comment te sens-tu lorsque tu ne peux pas partager une photo que tu aimes vraiment?';
 Fr['Let’s visit Sasha as she’s putting up today’s pictures.'] = 'Visitons Sasha alors qu’elle diffuse les photos de la journée.';
-Fr['HEY SIS YOU COMING TO UNISAURUS REALMS?'] = 'HÉ MA SŒUR TU VIENS JOUER À Le royaume des UniSaures?';
+Fr['HEY SIS YOU COMING TO UNISAURUS REALMS?'] = 'HÉ MA SŒUR TU VIENS JOUER au Royaume des UniSaures?';
 Fr['YEAH WHEN IM DONE POSTING MY PICTURES'] = 'OUI, QUAND J’AURAI FINI DE METTRE MES PHOTOS EN LIGNE.';
 Fr["Let's see what’s good enough to go up on my photo wall today."] = 'Voyons voir ce qui vaut la peine de mettre sur mon mur aujourd’hui.';
 Fr['Not that one…'] = 'Pas celle-là…';
