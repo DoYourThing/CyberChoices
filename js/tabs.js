@@ -64,7 +64,7 @@ Tabs.prototype.showContentHelpModal = function () {
 
 	tabs.showModal("contentPageHelp");	
 	
-	var audioID = "e_s_h_2"; //router.VIStaus == 'OFF' ? "e_s_h_2" : "e_v_h_2";	
+	var audioID = "e_v_h_2"; //router.VIStaus == 'OFF' ? "e_s_h_2" : "e_v_h_2";	
 		
 	audioID = router.getLanguage() == 'french' ? audioID.replace('e_', 'f_') : audioID;
 	playAudio.playModalAudioFile(audioID);
