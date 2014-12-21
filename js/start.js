@@ -30,12 +30,12 @@ $(document).ready(function()
 	// if (currentHashArray == '#french,Home,0,,a')
 	// {
 	// 	console.log('start.js French hash');
-	// 	tabs.showModal('FrHomeFirstVist');
+	// 	tabs.showModal('FrhomeFirstVisit');
 	// }
 	// else
 	// {
 	// 	console.log('start.js/ English hash/ home first visit');
-	// 	tabs.showModal('homeFirstVist');
+	// 	tabs.showModal('homeFirstVisit');
 	// }
 		
 	$(window).on('hashchange',function()

@@ -119,6 +119,11 @@ function handleCardDrop(event, ui)
 
 	tabs.dropCounter ++;
 	tabs.cardCounter ++;
+	if(slotNumber == "post"){
+		tabs.postCounter ++;	
+	}else {
+		tabs.askCounter ++;
+	}
 	
 	if (slotNumber == cardNumber) {
 		correctCards++;

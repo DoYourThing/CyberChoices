@@ -164,7 +164,7 @@ Router.prototype.route = function () {
 				}
 				else
 				{
-					tabs.showModal('VIFrHomeFirstVist');
+					tabs.showModal('VIFrHomeFirstVisit');
 					playAudio.playFiles('f_v_h_1');
 				}
 			}
@@ -172,7 +172,7 @@ Router.prototype.route = function () {
 			{
 				if (router.VIStaus == 'OFF')
 				{
-					tabs.showModal('homeFirstVist');
+					tabs.showModal('homeFirstVisit');
 					playAudio.playFiles('g_m_1');
 					$("#g_m_1").bind('ended', function(){
 						playAudio.stopAudioPlaying();
@@ -193,7 +193,7 @@ Router.prototype.route = function () {
 				}
 				else
 				{
-					tabs.showModal('VIFrHomeFirstVist');
+					tabs.showModal('VIFrHomeFirstVisit');
 					playAudio.playFiles('f_v_h_1');
 				}
 			}
@@ -216,7 +216,7 @@ Router.prototype.route = function () {
 			{
 				if (router.VIStaus == 'OFF')
 				{
-					tabs.showModal('homeFirstVist');
+					tabs.showModal('homeFirstVisit');
 					playAudio.playFiles('g_m_1');
 					$("#g_m_1").bind('ended', function(){
 						playAudio.stopAudioPlaying();
@@ -251,7 +251,7 @@ Router.prototype.updateVI = function()
 		
 		if (currentHashArray[0] == '#french' && router.pageType == 'home')
 		{
-			tabs.showModal('VIFrHomeFirstVist');
+			tabs.showModal('VIFrHomeFirstVisit');
 			playAudio.playFiles('f_v_h_1');
 		}
 		else if (router.pageType == 'home')
@@ -486,8 +486,9 @@ Router.prototype.pageInfo = function(pageType)
 	return this.pageType;
 };
 
-Router.prototype.pageHelp = function()
+Router.prototype.pageHelp = function(fromKeyPress)
 {
+	console.log(router.pageType);
 	switch(router.pageType) {
 	    case 'sorting':
 
@@ -509,9 +510,19 @@ Router.prototype.pageHelp = function()
 	    		(router.getLanguage() == 'french'? translator.T(tabs.showModal('viSupportContentPage')):tabs.showModal('viSupportContentPage'));
 				(router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_2'):playAudio.playHelpFile('e_v_h_2'));
 	    break;
-
+		//home
 	    default:
-			    (router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVist'):tabs.showModal('VIHomeFirstVisit'));
+	    	
+	    	
+	    	// assume it's VI mode
+	    	if(fromKeyPress){    
+	    		
+	    		tabs.showModal('VIFrHomeFirstVisit');
 				(router.getLanguage() == 'french'? playAudio.playHelpFile('f_v_h_1'):playAudio.playHelpFile('e_v_h_1'));
+			} else{				
+				(router.getLanguage() == 'french'? playAudio.playHelpFile('f_s_h_1'):playAudio.playHelpFile('e_s_h_1'));
+				tabs.showModal('homeHelpModal');
+								
+			}
 	}
 }

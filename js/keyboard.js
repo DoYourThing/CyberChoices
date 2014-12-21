@@ -34,7 +34,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
     var character1 = wrapUp.character1;
     var character3 = wrapUp.character3;
 	var previousId = "happy";
-	
+	console.log(e.keyCode);
 	switch(e.keyCode) {
 
 			case 49:	
@@ -90,7 +90,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 			case 50:
 				switch(router.pageType) {
 					case 'wrapUp':
-						(router.getLanguage() == 'french'? playAudio.playFiles('fâchée'):playAudio.playFiles('m'));
+						(router.getLanguage() == 'french'? playAudio.playFiles('fachee'):playAudio.playFiles('m'));
 					break;
 						
 					case 'sorting':
@@ -267,7 +267,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 			//h
 			case 72:
 				playAudio.stopAudioPlaying();
-				router.pageHelp();	
+				router.pageHelp(true);	
 			break;
 			
 			case 79:
@@ -280,14 +280,14 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				{
 					playAudio.stopAudioPlaying();
 					router.updateVI();
-					(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVist'):tabs.showModal('VIHomeFirstVisit')));
+					(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVisit'):tabs.showModal('VIHomeFirstVisit')));
 					(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles('f_v_h_1'):playAudio.playFiles('e_v_h_1')));
 				}
 				else
 				{
 					playAudio.stopAudioPlaying();
 					router.updateVI();
-					//(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVist'):tabs.showModal('VIHomeFirstVisit')));
+					//(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVisit'):tabs.showModal('VIHomeFirstVisit')));
 				}
 			break;
 			
@@ -327,7 +327,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 				//Esc key
 				playAudio.stopAudioPlaying();
 				router.updateHashTab("Home");
-				(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVist'):tabs.showModal('VIHomeFirstVisit')));
+				(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? tabs.showModal('VIFrHomeFirstVisit'):tabs.showModal('VIHomeFirstVisit')));
 				(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles('f_v_h_1'):playAudio.playFiles('e_v_h_1')));
 			break;
 				

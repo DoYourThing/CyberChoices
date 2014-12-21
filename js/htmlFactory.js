@@ -54,7 +54,7 @@ HTMLFactory.prototype.getModalContent = function(modalId)
 			return 'For each of the people in the story, click on the face that stands for how you think they felt.';
 		break;
 		
-		case 'homeFirstVist':
+		case 'homeFirstVisit':
 			return "Welcome to Cyber Choices. Bienvenue à Cyber-Choix.";
 		break;
 		
@@ -79,11 +79,11 @@ HTMLFactory.prototype.getModalContent = function(modalId)
 		break;
 		
 		case 'VIFrHomeFirstVist':
-			return "Il y a quatre histoires à explorer. Appuie sur les touches 1 à 4 pour entendre une description de chacune. Pour sélectionner celle qui t’intéresse, appuie sur la touche du chiffre correspondant puis sur la touche Retour. Tu pourras revenir et choisir une autre histoire lorsque tu auras terminé. Appuie sur la touche ‘h’ pour obtenir de l’aide. Appuie sur la touche ‘o’ pour entendre les options. Appuie sur la touche ‘x’ pour continuer.";
+			return "Il y a quatre histoires à explorer. Appuie sur les touches 1 à 4 pour entendre une description de chacune. Pour sélectionner celle qui t’intéresse, appuie sur la touche du chiffre correspondant puis sur la touche Retour. Tu pourras revenir et choisir une autre histoire lorsque tu auras terminé. Appuie sur la touche ‘h’ pour obtenir de l’aide. Appuie sur la touche ‘x’ pour continuer.";
 		break;
 		
 		case 'VIHomeFirstVisit':
-			return "There are four stories for you to explore. Press 1 through 4 to hear about each one. To pick which one you want to play, press that number and then the Enter key. You can come back to pick another story when you’re done. Press the ‘h’ key for help. Press the ‘o’ key to hear options. Press ‘x’ to continue.";
+			return "There are four stories for you to explore. Press 1 through 4 to hear about each one. To pick which one you want to play, press that number and then the Enter key. You can come back to pick another story when you’re done. Press the ‘h’ key for help. Press ‘x’ to continue.";
 		break;
 		
 		case 'contentPageFirstVisit':
@@ -790,7 +790,7 @@ HTMLFactory.prototype.getSplashPage = function () {
                 '</div>'+
                 '</div>'+
                 
-		'<div class="modal fade" id="homeFirstVist" tabindex="-1" '+
+		'<div class="modal fade" id="homeFirstVisit" tabindex="-1" '+
 				'role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" '+
 				'style="display: none;">'+
 				'<div class="modal-dialog">'+
@@ -800,7 +800,7 @@ HTMLFactory.prototype.getSplashPage = function () {
                 '<h4 class="modal-title" id="myModalLabel"></h4>'+
                 '</div>'+
                 '<div class="modal-body" style="cursor:default">'+
-                	(router.getLanguage() == 'french'? translator.T(this.getModalContent('homeFirstVist')):this.getModalContent('homeFirstVist')) + 
+                	(router.getLanguage() == 'french'? translator.T(this.getModalContent('homeFirstVisit')):this.getModalContent('homeFirstVisit')) + 
                 '</div>'+
                 '<div class="modal-footer modalFooterSize">'+
                 '</div>'+
@@ -951,7 +951,7 @@ HTMLFactory.prototype.getSplashPage = function () {
                 '<h4 class="modal-title" id="myModalLabel"></h4>'+
                 '</div>'+
                 '<div class="modal-body" style="cursor:default">'+
-                	'There are four stories for you to explore. Press 1 through 4 to hear about each one. To pick which one you want to play, press that number and then the Enter key. You can come back to pick another story when you’re done. Press the ‘h’ key for help. Press the ‘o’ key to hear options.'+
+                	'There are four stories for you to explore. Press 1 through 4 to hear about each one. To pick which one you want to play, press that number and then the Enter key. You can come back to pick another story when you’re done. Press the ‘h’ key for help.'+
                ' </div>'+
                 '<div class="modal-footer modalFooterSize">'+
                 '</div>'+
@@ -961,7 +961,7 @@ HTMLFactory.prototype.getSplashPage = function () {
 
             '<div class="' + 
 			(router.getLanguage() == 'french'? 'FrhelpImage':'helpImage') +
-			'" onclick=javascript:tabs.showModal("homeHelpModal"); '+
+			'" onclick=javascript:router.pageHelp(); '+
 			'" onmouseout=uiHover.homeOffHover("helpImage"); '+
 			'onmouseover=uiHover.homeOnHover("helpImage");></div>'+
 			'<div class="' + 
