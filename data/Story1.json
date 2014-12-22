@@ -390,7 +390,7 @@
                "helpTextOne":"e_1_2_h_1",
                "helpTextTwo":"e_1_2_h_2",
                "helpTextOneFr":"f_1_2_h_1",
-               "helpTextTwoFr":"f_1_2_h_2",
+               "helpTextTwoFr":"f_1_2_h_1",
 
                "purpleBox":"e_1_2_i",
                "helpContent1":"Max is Sasha’s friend. What are the reasons that show that she’s thinking about what’s best for him? Put those with “Ask Max First.”",
@@ -519,8 +519,8 @@
                "helpTextTwoFr":"f_1_3_h_2",
 
                "purpleBox":"e_1_3_i",
-               "helpContent1":"Max is Sasha’s friend. What are the reasons that show that she’s thinking about what’s best for him? Put those with “Ask Max First.”",
-               "helpContent2":"Sasha really wants to post the photo. What are the reasons why she thinks it might be okay to post it without asking him first? Put those with “Post This Photo.”",
+               "helpContent1":"Max is Sasha’s friend. What are the reasons that show that she’s thinking about his feelings? Put those with “Don’t Send the Photo to my Mom.”",
+               "helpContent2":"Sasha really wants her Mom to see this photo. What are the reasons why she thinks it would be okay to send it? Put those with “Send the Photo to My Mom.”",
             	"storyBackgroundimageFr":"f_1_3_q",
 				"activeAskFr":"f_1_3_a_1",
 				"activePostFr":"f_1_3_a_2",
