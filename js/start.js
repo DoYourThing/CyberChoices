@@ -55,14 +55,14 @@ $(document).ready(function()
 
 	var startloading = function(){
 						
-						$.imgpreloader({
-							paths: [ './img/example1/1.jpg' ]
-						}).done(function($allImages){
-							alert('Loaded!');
-							$output.append($allImages);
-						});
-					};
-	
+		$.imgpreloader({
+			paths: [ './img/example1/1.jpg' ]
+		}).done(function($allImages){
+			alert('Loaded!');
+			$output.append($allImages);
+		});
+	};
+
 	/*
 	// on page load...
     moveProgressBar();

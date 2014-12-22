@@ -205,7 +205,7 @@ Tabs.prototype.goToNewState = function (
 Tabs.prototype.checkVIStatus = function(sightedVar,VIVar,FrSightedAudio,EnSightedAudio,FrVIAudio,EnVIAudio)
 {
 	(router.VIStaus == 'OFF' ? tabs.showModal(sightedVar):tabs.showModal(VIVar));
-	(router.VIStaus == 'OFF' ? '':(router.getLanguage() == 'french'? playAudio.playFiles(FrVIAudio):playAudio.playFiles(EnVIAudio)));
+	(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? playAudio.playFiles(FrSightedAudio):playAudio.playFiles(EnSightedAudio)) :(router.getLanguage() == 'french'? playAudio.playFiles(FrVIAudio):playAudio.playFiles(EnVIAudio)));
 	var panelAudio = tabs.panelAudio;
 };
 
