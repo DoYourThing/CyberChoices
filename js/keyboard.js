@@ -99,7 +99,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
 						{
 							router.addSceneToHash(tabs.activePostScene);
 							tabs.clickNext();
-							tabs.stopAllAudios = 'newFrame';
+							//tabs.stopAllAudios = 'newFrame';
 						}
 						else
 						{
