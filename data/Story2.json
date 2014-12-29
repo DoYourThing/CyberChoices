@@ -1421,10 +1421,10 @@
 				"guiltyFaceFr":"french_guilty_emoticon_inactive"
             },
             {  
-               "feedbackAudio":"e_2_8_f_s_1",
-               "hashInfo":"feedback",
-               "blueBoxFeedback":"e_2_8_f",
-               "storyBackgroundimage":"wrapUpBackground",
+            "feedbackAudio":"e_2_8_f_1",
+            "hashInfo":"feedback",
+            "blueBoxFeedback":"e_2_8_f",
+            "storyBackgroundimage":"wrapUpBackground",
 				"blueBoxFeedbackFr":"f_2_8_f",
 				"inactiveCharacter1":"laura_left",
      			"inactiveCharacter2":"violet",
