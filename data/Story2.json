@@ -1801,7 +1801,7 @@
 				"correctSortFeedbackVIAudio":"e_2_11_s_v",
 				"correctSortPurpleText":"Now click one of the two choices to decide where the story goes.",
 				"correctSortPurpleTextVI":"Press 1 to have Violet help Laura get rid of Sameen, or press 2 to have her just watch and do nothing.",
-               "correctSortFeedback":"Good job! You’ve sorted out the reasons why Violet might choose to keep playing or log off and come back later.",
+               "correctSortFeedback":"Good job! You've sorted out the reasons why Violet might choose to help Laura get rid of Sameen or why she might do nothing.",
                "purpleBoxText":"Drag the reasons why she should help get rid of Sameen to the left side of the screen. Drag the reasons why she should do nothing to the right side of the screen.",
                "purpleBox":"e_2_11_i",
 			   "helpContent1":"What are the reasons why it might make things easier for Violet to help get rid of Sameen? Put those with “Help Laura.”",
