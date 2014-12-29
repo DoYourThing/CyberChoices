@@ -1913,6 +1913,7 @@
                "frames":[  
                   {  
                      "image":"g_1_11_1_1",
+                     "frImage":"f_1_11_1_1",
                      "panelAudio":"e_1_11_1_1_1",
                      "bubbles":[  
                         {  
@@ -1928,6 +1929,7 @@
                   },
                   {  
                      "image":"g_1_11_1_2",
+                     "frImage":"f_1_11_1_2",
                      "panelAudio":"e_1_9_1_3_1",
                      "bubbles":[  
                         {  
@@ -1966,6 +1968,7 @@
                   },
                   {  
                      "image":"g_1_11_1_3",
+                     "frImage":"f_1_11_1_3",
                      "panelAudio":"e_1_11_1_3_1",
                      "bubbles":[  
                         {  
@@ -1990,6 +1993,7 @@
                   },
                   {  
                      "image":"g_1_11_1_4",
+                     "frImage":"f_1_11_1_4",
                      "panelAudio":"e_1_11_1_4_1",
                      "bubbles":[  
                         {  
@@ -2078,6 +2082,7 @@
                   },
                   {  
                      "image":"g_1_12_1_2",
+                     "frImage":"f_1_12_1_2",                                                            
                      "panelAudio":"e_1_9_1_3_1",
                      "bubbles":[  
                         {  
@@ -2106,6 +2111,7 @@
                   },
                   {  
                      "image":"g_1_12_1_3",
+                     "frImage":"f_1_12_1_3",                     
                      "panelAudio":"e_1_12_1_3_1",
                      "bubbles":[  
                         {  
@@ -2144,6 +2150,7 @@
                   },
                   {  
                      "image":"g_1_12_1_4",
+                     "frImage":"f_1_12_1_4",                     
                      "panelAudio":"e_1_11_1_2_1",
                      "bubbles":[  
                         {  
