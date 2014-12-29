@@ -34,7 +34,7 @@ KeyboardBinder.prototype.bindKeys = function(e) {
     var character1 = wrapUp.character1;
     var character3 = wrapUp.character3;
 	var previousId = "happy";
-	console.log(e.keyCode);
+	//console.log(e.keyCode);
 	switch(e.keyCode) {
 
 			case 49:	

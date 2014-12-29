@@ -1598,7 +1598,7 @@
                "secondCharacter":"max_inactive",
                "secondCharacterFaceSlot":"max",
                "character1":"laura_left",
-     			"character2":"max_inactive",
+     			"character2":"max",
                 "seenWrapUp":"0",
                 "ENhappyFace":"happy_emoticon_inactive",
                "ENsadFace":"sad_emoticon_inactive",
