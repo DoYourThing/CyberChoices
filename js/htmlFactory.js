@@ -47,7 +47,8 @@ HTMLFactory.prototype.getModalContent = function(modalId)
 		break;
 		
 		case 'contentPageHelp':
-			return 'To go back in the story, press the left arrow on the keyboard or click the back button on the screen.  Click on a text box to hear it again.';
+			return 'To hear something again or go back in the story, press the left arrow on the keyboard or click the back button on the screen. Press ‘r‘ to hear the last thing that was said again.';
+			//return 'To go back in the story, press the left arrow on the keyboard or click the back button on the screen.  Click on a text box to hear it again.';
 		break;
 		
 		case 'wrapupPageHelp':

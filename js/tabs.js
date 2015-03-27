@@ -1111,10 +1111,22 @@ Tabs.prototype.sortingResult = function ()
 		($('#cardPile2').find('#post').length))
 	{
 		// Assing the proper value to sortingPageId.
-		$.get( "server.php?action=addNewSortingPage&newSortingPageId=" + tabs.solvedPageId );
-		tabs.myArray[tabs.solvedPageId] = 'checked';
+		//$.get( "server.php?action=addNewSortingPage&newSortingPageId=" + tabs.solvedPageId );
+		//tabs.myArray[tabs.solvedPageId] = 'checked';
 		$('#evaluationModalSuccess').modal('show');
-	   
+	   	//http://mnet.hypernet.ca/ws/update.cfm?var token = window.getToken();
+	   	var questionText = $('#purpleBox').find('span').text();//'this is the question text, TBD';
+	   	var taskNumber = tabs.solvedPageId;
+	   	//alert('solved page id: '+tabs.solvedPageId);
+	   	//alert('questionText: '+questionText);
+	   	var result = 'finish';
+	   	window.trackSortingProgress(questionText, taskNumber, result);
+
+	   	//var trackingURL = "//mnet.hypernet.ca/ws/update.cfm?token=" + token + '&task=' + taskNumber +'&text=' + encodeURIComponent(questionText) + '&result=' + result;
+		// $.get(trackingURL, function(result){
+		// 	alert(result);
+		// } );
+
 		sortingPageAudio.playCorrectResult();
 	      
 		(router.VIStaus == 'OFF' ? (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleText)): $('.purpleTextSort span').text((tabs.correctSortPurpleText))): (router.getLanguage() == 'french'? $('.purpleTextSort span').text(translator.T(tabs.correctSortPurpleTextVI)): $('.purpleTextSort span').text((tabs.correctSortPurpleTextVI))));
