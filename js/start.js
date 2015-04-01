@@ -91,6 +91,8 @@ $(document).ready(function()
 	
 	window.trackSortingProgress = function(questionText, taskNumber, result){
 		var token = window.getQueryVariable('token');
+		
+		taskNumber = location.hash;
 	   	var trackingURL = "//mnet.hypernet.ca/ws/update.cfm?token=" + token + '&task=' + taskNumber +'&text=' + encodeURIComponent(questionText) + '&result=' + result;
 		var xhr = createCORSRequest('GET', trackingURL);
 		if (!xhr) {
