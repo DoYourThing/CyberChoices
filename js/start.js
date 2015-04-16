@@ -13,7 +13,7 @@ $(document).ready(function()
 	// 	  onready: function() {
 	// 	    // Ready to use; soundManager.createSound() etc. can now be called.
 		    
-
+	
 	// 	  }
 	// });
 	htmlFactory = new HTMLFactory();
@@ -27,7 +27,7 @@ $(document).ready(function()
 	sortingPageAudio = new SortingPageAudio();
 	var currentHashArray = location.hash.split('_');
 
-	window.verifySortingToken();
+	
 	
 	// if (currentHashArray == '#french,Home,0,,a')
 	// {
@@ -146,7 +146,7 @@ $(document).ready(function()
 			$output.append($allImages);
 		});
 	};
-
+	window.verifySortingToken();
 	/*
 	// on page load...
     moveProgressBar();
