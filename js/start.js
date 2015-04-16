@@ -26,6 +26,8 @@ $(document).ready(function()
 	playAudio = new PlayAudio();
 	sortingPageAudio = new SortingPageAudio();
 	var currentHashArray = location.hash.split('_');
+
+	window.verifySortingToken();
 	
 	// if (currentHashArray == '#french,Home,0,,a')
 	// {
@@ -88,10 +90,31 @@ $(document).ready(function()
 	  return xhr;
 	}
 
-	
+	window.verifySortingToken = function(){
+		var token = window.getQueryVariable('token');
+				
+	   	var trackingURL = 'http://mnet.hypernet.ca/ws/validate.cfm?token='+token;
+		var xhr = createCORSRequest('GET', trackingURL);
+		if (!xhr) {
+		  throw new Error('CORS not supported');
+		}
+		xhr.onload = function() {
+		 var responseText = xhr.responseText;
+		 console.log('response from server: '+responseText);
+		 // process the response.
+		};
+
+		xhr.onerror = function() {
+		  console.log('There was an error!');
+		};
+
+		xhr.send();
+		
+	}
+
 	window.trackSortingProgress = function(questionText, taskNumber, result){
 		var token = window.getQueryVariable('token');
-		
+		http://mnet.hypernet.ca/ws/validate.cfm?token=1234
 		taskNumber = location.hash;
 	   	var trackingURL = "//mnet.hypernet.ca/ws/update.cfm?token=" + token + '&task=' + taskNumber +'&text=' + encodeURIComponent(questionText) + '&result=' + result;
 		var xhr = createCORSRequest('GET', trackingURL);
